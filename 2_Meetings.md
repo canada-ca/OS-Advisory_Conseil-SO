@@ -1,5 +1,5 @@
 # Meeting-Feburary 15, 2018 
-##CTO Open Source Advisory Board 
+## CTO Open Source Advisory Board 
 ## Agenda 
 * Introduction and GC Goals of the Committee
   * Marc Brouillard, CTO, Government of Canada 
