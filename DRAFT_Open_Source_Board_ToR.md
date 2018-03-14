@@ -80,8 +80,6 @@ member participates in person.
 
 As this is an advisory board, there will be no formal decision making rules. However, consensus on reports provided to EARB will be encouraged. 
 
- 
-
 _Agenda-setting_ 
 
 The Chairs are responsible for determining each agenda with input from advisory board members. Agendas will be circulated to members for comment prior to the meeting, along with any documents or information to be discussed during the meeting. The Chairs will amend the agenda if necessary and circulate a final agenda prior to the meeting. Regular meetings allocate time for members
@@ -90,8 +88,6 @@ to raise off-agenda items. In general, decisions should not be made on off-agend
  _Language_ 
 
 Members may express themselves in either English or French. All meeting materials will be made available in English and French.
-
- 
 
 _Non-member attendance_ 
 
@@ -109,8 +105,6 @@ The CTO-OSAB will be responsible for:
   * Creating awareness across Canada, government and industry related to the use of open source in combination with the GC’s existing tool set, including closed source tools. 
   * Providing input on open source tools being assessed by the GC EARB.
   * Supporting the proliferation of open source within the GC and across Canada by leading or joining the Open Source Communities. 
-
-
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
 
