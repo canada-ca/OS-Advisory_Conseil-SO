@@ -1,5 +1,5 @@
 ## To join the online meeting
-1. Go to https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=m779e3aa850a34d9f5fa81d4e37871aa9
+1. Go to https://pwgsc-nh.webex.com/mw3100/mywebex/default.do?service=1&siteurl=pwgsc-nh&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Dpwgsc-nh%26AT%3DMI%26EventID%3D506294192%26UID%3D512970252%26Host%3DQUhTSwAAAAT2pWGRNHUFgSwlTrgzFO4UPtRh2fH12SWr6cJP98Fh1ds6iPuu7yrAbgjSAh5rNi_rCddSrYeiwsB73GzdUlPp0%26FrameSet%3D2%26MTID%3Dm8ace11b59cd8e37e9c7ac851314c3ee6
 2. Enter your name and email address
 3. Enter the meeting password: g4yDBE72
 4. Click "Join Now"
