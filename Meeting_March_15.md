@@ -5,7 +5,8 @@
 4. Click "Join Now"
 
 ## To joing the teleconference only 
-Provide your phone number when you join the meeting to receive a call back. Alternatively, you can call: 
+Provide your phone number when you join the meeting to receive a call back. 
+Alternatively, you can call: 
 Call-in toll-free number: 1-877-413-4781  (Canada) 
 Call-in number: 1-613-960-7510  (Canada) 
 Attendee access code: 320 160 2 
