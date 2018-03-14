@@ -1,7 +1,7 @@
 ## To join the online meeting
-1. Go to https://pwgsc-nh.webex.com/mw3100/mywebex/default.do?service=1&siteurl=pwgsc-nh&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Dpwgsc-nh%26AT%3DMI%26EventID%3D506294192%26UID%3D512970252%26Host%3DQUhTSwAAAAT2pWGRNHUFgSwlTrgzFO4UPtRh2fH12SWr6cJP98Fh1ds6iPuu7yrAbgjSAh5rNi_rCddSrYeiwsB73GzdUlPp0%26FrameSet%3D2%26MTID%3Dm8ace11b59cd8e37e9c7ac851314c3ee6
+1. Go to https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=ma5f87490c162f382f296e433ae2a7079
 2. Enter your name and email address
-3. Enter the meeting password: g4yDBE72
+3. Attendee access code: 320 160 2 
 4. Click "Join Now"
 
 ## To joing the teleconference only 
@@ -9,6 +9,7 @@ Provide your phone number when you join the meeting to receive a call back. Alte
 Call-in toll-free number: 1-877-413-4781  (Canada) 
 Call-in number: 1-613-960-7510  (Canada) 
 Attendee access code: 320 160 2 
+Enter the meeting password: g4yDBE72
 
 ## For assistance 
 1. Go to https://pwgsc-nh.webex.com 
