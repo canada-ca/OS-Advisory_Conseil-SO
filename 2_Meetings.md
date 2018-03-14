@@ -69,6 +69,9 @@
   * Prioritizing 
   * Frequency 
     * Monthly 
+  * Guidelines for contribution 
+  * Licence workshop 
+  * Repositories 
 
 ## 6) Barriers 
 * Knowledge and lack of awareness
