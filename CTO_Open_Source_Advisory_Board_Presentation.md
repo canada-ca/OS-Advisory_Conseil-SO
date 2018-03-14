@@ -8,7 +8,7 @@
 * Discussion on priority challenges 
   * Open source procurement 
   * Open source culture 
-## Mission of the board 
+## 1) Mission of the board 
 * Culture
   * How do we attract and retain talent within open source 
   * Find
@@ -38,7 +38,7 @@
   * Culture
   * What are the problems that we want to solve 
 
-## Purpose 
+## 2) Purpose 
 * Business case for open source 
   * Culture change 
   * Community 
@@ -46,16 +46,16 @@
 * Using case studies as proof of concepts 
 * Open Standards 
 
-## Benefits 
+## 3) Benefits 
 * Speed 
 * Agility 
 * Interop 
 
-## Activities 
+## 4) Activities 
 * Open Government Summit 
 * Internatinal Open Data Day 
 
-## Forward Agenda Item 
+## 5) Forward Agenda Item 
 * Awareness- how do we make the rest of the GC
   * Overview/ this is how the community funds itself
   * Members need to be informed 
@@ -69,7 +69,7 @@
   * Frequency 
     * Monthly 
 
-## Barriers 
+## 6) Barriers 
 * Knowledge and lack of awareness
   
     
