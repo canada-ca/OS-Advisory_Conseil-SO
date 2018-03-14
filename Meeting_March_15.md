@@ -1,3 +1,23 @@
+## To join the online meeting
+1. Go to https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=m779e3aa850a34d9f5fa81d4e37871aa9
+2. Enter your name and email address
+3. Enter the meeting password: g4yDBE72
+4. Click "Join Now"
+
+## To joing the teleconference only 
+Provide your phone number when you join the meeting to receive a call back. Alternatively, you can call: 
+Call-in toll-free number: 1-877-413-4781  (Canada) 
+Call-in number: 1-613-960-7510  (Canada) 
+Attendee access code: 320 160 2 
+
+## For assistance 
+1. Go to https://pwgsc-nh.webex.com 
+2. On the left navigation bar, click "Support". 
+3. Call 1-800-226-6338 or 613-941-9554 
+
+You can contact me at:
+ashley.casovan@tbs-sct.gc.ca
+
 ## Agenda 
 1. Welcome
 2. Overview of Advisory Board for new participants
