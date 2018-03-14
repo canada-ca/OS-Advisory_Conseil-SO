@@ -12,6 +12,7 @@ Call-in toll-free number: 1-877-413-4781  (Canada)
 Call-in number: 1-613-960-7510  (Canada) 
 
 Attendee access code: 320 160 2 
+
 Enter the meeting password: g4yDBE72
 
 ## For assistance 
