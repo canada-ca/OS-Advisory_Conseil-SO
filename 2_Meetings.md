@@ -72,6 +72,9 @@
   * Guidelines for contribution 
   * Licence workshop 
   * Repositories 
+  * speakers - Capital One 
+  * how do you use open source within a highly regulated organization?
+  * CSC 
 
 ## 6) Barriers 
 * Knowledge and lack of awareness
