@@ -1,3 +1,4 @@
+# Assessment Approach
 
 With a goal to determine the Government of Canada's (GC) preferred open source platforms, the following steps are being taken to ensure an open and collaborative process.
 
