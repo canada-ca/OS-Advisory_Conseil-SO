@@ -5,6 +5,6 @@ ________________________________________________________________________________
 Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une discussion au niveau de la direction quant à l'utilisation et à l'intégration les plus efficaces des outils à source ouverte au sein du GC afin d’appuyer l’atteinte de nos objectifs en matière de numérique. Deuxièmement, il nous aidera à identifier et à résoudre les obstacles les plus importants à l'utilisation d'outils à source ouverte (p. ex., problèmes en matière d'approvisionnement, de culture et d'infrastructure).
 
 ## Table of contents  
-1. [About](About.md)
+1. [About](1_About.md)
 2. [Meetings](Meetings)
 3. [Business Case](Business_Case.md)
