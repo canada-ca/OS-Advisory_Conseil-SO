@@ -1,5 +1,3 @@
-[« Previous Page : Definitions](8_Definitions.md) | [Table of Content](TOC.md)
-
 ## Open Platforms
 
 It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be efficiently re-used. 
