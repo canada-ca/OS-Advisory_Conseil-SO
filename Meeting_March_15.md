@@ -1,3 +1,7 @@
+# Open Source Advisory Board Meeting 
+# March 15, 2018 
+# 9:30 - 11:00 a.m. EST
+
 ## To join the online meeting
 1. Go to https://pwgsc-nh.webex.com/pwgsc-nh/j.php?MTID=ma5f87490c162f382f296e433ae2a7079
 2. Enter your name and email address
