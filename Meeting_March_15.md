@@ -55,8 +55,8 @@ ashley.casovan@tbs-sct.gc.ca
 
 ## L'ordre du jour et présentations
 1. Bienvenue
-2. Aperçu du Conseil consultatif pour les nouveaux participants 
-3. Logiciel Source Ouvert à la CFP
-4. Case d'affaire
-5. Inventaire Source Ouvert
-6. Appel de points de l'ordre du jour
+2. Aperçu du conseil consultatif pour les nouveaux participants 
+3. Logiciel ouvert à la CFP
+4. Analyse de rentabilité
+5. Inventaire du code source ouvert
+6. Appel de points pour l'ordre du jour
