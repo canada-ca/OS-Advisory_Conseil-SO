@@ -1,6 +1,9 @@
 ## Purpose 
+There needs to be a business vlaue for CIO's in why we are moving to open source
+There is a level of awareness required 
 
 ## Issues
+Dev/ops 
 
 ## Analysis
 
@@ -11,15 +14,23 @@
 
  
 
-Detailed
-list
 
  
+Communities:  
+Conferences
+Meet ups 
+Git
+Open Government 
+Culture change - myth busting 
 
+Developers:
+Skills and training
+Working habits and tools 
+Recruitment
  
 
 OS
-Commercialization: 
+Commercialization: - comes after reference architecture and the what
 Committers 
 Enteprise Support
 Distributions 
@@ -33,16 +44,7 @@ Reactive
 Microservices 
 COTS with OS 
 
-Communities: 
-Conferences
-Meet ups 
-Git
-Open Government 
 
-Developers:
-Skills and training
-Working habits and tools 
-Recruitment
 
 Development Methodology: 
 Agile 
