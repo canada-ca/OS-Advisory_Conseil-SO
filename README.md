@@ -7,4 +7,4 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 ## Table of contents  
 1. [About](1_About.md)
 2. [Meetings](Meetings)
-3. [Business Case](Business_Case.md)
+3. [Business Case](2_Business_Case.md)
