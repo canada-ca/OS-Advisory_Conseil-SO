@@ -1,4 +1,4 @@
-* How do we make the rest of the GC aware?
+* Awareness- how do we make the rest of the GC
   * Overview/ this is how the community funds itself
   * Members need to be informed
   * How do members become open source ambassadors 
