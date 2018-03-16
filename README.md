@@ -8,5 +8,5 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 - [About](1_About.md)
 - [Meetings](Meetings)
 - [Business Case](2_Business_Case.md)
-- [External Links]()
-- [Members]()
+- [Links and resources](3_Links.md)
+- [Members](4_Members.md)
