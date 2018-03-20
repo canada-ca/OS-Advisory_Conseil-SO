@@ -15,12 +15,3 @@
 4. Finally, Marc asked about secure development.  From the [question](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/Meetings/2018-03-15.mdection) "Concerning Github, what secuirty measures are in place to provent mistakes? Two controls: no one can delete and there is a backup in cloud. Many controls like fork and branch to review the code before publishing it."
 
 
-
-
-
-
-
-"
-
-
-
