@@ -14,7 +14,7 @@
 Copyright
 
 * Is PSC using OpenShift?
-  *Yes, we evaluated Open Shift and Cloud Foundry two years ago and landed on Open Shift. Our severs were prepared a few months ago by ssc and we're now tweaking the configuration before undertaking the SA&À. Rachid is the manager leading this innovative project.
+  * Yes, we evaluated Open Shift and Cloud Foundry two years ago and landed on Open Shift. Our severs were prepared a few months ago by ssc and we're now tweaking the configuration before undertaking the SA&À. Rachid is the manager leading this innovative project.
 
 * Is the scope just using open source software or does it include a push to use  modern software development processes like automated ci, and deploying daily?  
 
