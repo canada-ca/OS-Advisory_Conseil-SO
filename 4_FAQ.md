@@ -25,5 +25,12 @@ Copyright
 * Will you be looking for SMEs to support you in your various initiatives? How can we get involved as an advisor in best practices to
 participate in the conversations; development frameworks, development practices, CCC solutions, AI & Intelligent assistant?
 
+* Is there an option to create some sort of actual online community? I'm assuming Slack isn't available to all GC staff and GS
+internal tools aren't available to those of us on the outside.
+ * GCCollab. But how do you get access if you're not in the public service? By invitation, ironic that “gccollab” isn’t easily accessible to citizens, it’s supposed to be only for government employees. 
+
+
+
+
 
 
