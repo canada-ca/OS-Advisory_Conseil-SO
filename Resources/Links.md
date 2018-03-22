@@ -1,4 +1,4 @@
-# Links and resources
+# Resources
 - https://bcdevexchange.org
 - https://gcdevexchange-carrefourproggc.org
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
