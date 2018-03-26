@@ -10,6 +10,5 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 - [Business Case](2_Business_Case.md)
 - [Open Inventory](3_Open_Inventory.md)
 - [FAQ](4_FAQ.md)
-- [Links and resources](3_Links.md)
 - [Assessments](Assessments)
 - [Resources](Resources)
