@@ -129,7 +129,7 @@ GC Members:
  * Dave Buchanan, Breqwatr
  * Dr. Andrew Pelling, University of Ottawa
  * David Nevins, Redhat 
- * Mike Gifford, Community 
+ * Mike Gifford, OpenConcept 
  * Harsh Sabikhi, GitHub
  * Noureen Syed, Microsoft Open Source Lead
  * Rodney Helal/ Fil Galiardi, Cloudera
