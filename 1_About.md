@@ -137,7 +137,8 @@ GC Members:
  * Erin Kennedy, Robots 
  
  Working Group: Rules
- | Lead | Name of participant |Department/Organization| Contact | 
+ 
+|Lead | Name of participant |Department/Organization| Contact | 
 |------------------|-----|-------|------------------|
 ||| | | |
 | | |  |  ||
