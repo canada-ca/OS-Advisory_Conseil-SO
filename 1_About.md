@@ -136,6 +136,13 @@ GC Members:
  * Shermineh Salehi Esmarti, Consultant 
  * Erin Kennedy, Robots 
  
+ | Working Group Rules | Name of participant |Lead| Contact | 
+|------------------|-----|-------|------------------|
+||| | | |
+| | |  |  ||
+|  |  |  |  ||
+
+ 
 **Terms of Reference will be reviewed and updated annually in Q1.**
 
 
