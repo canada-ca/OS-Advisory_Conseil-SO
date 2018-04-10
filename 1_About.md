@@ -136,8 +136,15 @@ GC Members:
  * Shermineh Salehi Esmarti, Consultant 
  * Erin Kennedy, Robots 
  
- Working Group: Rules
- 
+**Working Group: Rules**
+Responsible for reviewing, assessing, and making recommendations related to open source
+* Policy
+* Legal 
+* Licence
+* Procurement 
+* Governance 
+
+
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
 | Cloudera legal  | | |
@@ -148,15 +155,44 @@ GC Members:
 
 
   
- Working Group: Tools
- 
+**Working Group: Tools**
+Responsible for determining approach and contributing to
+* Tech stacks
+* Commercialization
+* Dev/ops
+
+
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
-|Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
-|Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
-|Jack gulas (possible chair and organizer) | Eclipsys | jack.gulas@eclipsys.ca |  
+| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
+| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
+| Jack gulas (possible chair and organizer) | Eclipsys | jack.gulas@eclipsys.ca |  
+| Rodney Helal | Cloudera |rodney@cloudera.com|  
+| Noureen Syed | Microsoft |Noureen.Syed@microsoft.com| 
+| Marc Pagneau| Oproma|marc.pageau@oproma.com|
+| Michael Nguyen| Github|mikenwin@github.com|
+| Olivier Dzomo |Public Service Commission| |
+| Members of Stéphane Dufour's team|Statistics Canada|stephane.dufour@canada.ca|
+| Dave Buchanan |Breqwatr|dave.buchanan@breqwatr.com|
 
- 
+
+
+**Work Group: People**
+Responsible for developing engagement activities related to the improvement of
+* Community
+* Culture
+* Developer retention
+* Development methodology
+
+|Participants| Department/Organization |Contact information| 
+|------------------|-----|-------|
+| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
+| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
+| Erin Kennedy | Robot Missions |erin@robotmissions.org |  
+| Harsh Sabikhi | Github |harsh@github.com|  
+
+
+
 **Terms of Reference will be reviewed and updated annually in Q1.**
 
 
