@@ -29,4 +29,8 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 - https://opensource.com/article/18/1/how-start-open-source-program-your-company
 - https://opensource.guide
 
+# Upcoming events
+- Check out the Open Source Software and Security Event happening on May 1 at http://www.csps-efpc.gc.ca/events/ossas/index-eng.aspx
+
+
 
