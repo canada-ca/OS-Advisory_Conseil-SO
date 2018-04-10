@@ -137,6 +137,7 @@ GC Members:
  * Erin Kennedy, Robots 
  
  Working Group: Rules
+ 
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
 | Cloudera legal  | | |
@@ -148,6 +149,7 @@ GC Members:
 
   
  Working Group: Tools
+ 
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
 |Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
