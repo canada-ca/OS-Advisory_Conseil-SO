@@ -165,7 +165,8 @@ Responsible for determining approach and contributing to
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
 | Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
-| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
+| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca | 
+| Ross Thompson||Ross.Thimpson@tbs-sct.gc.ca|
 | Jack gulas (possible chair and organizer) | Eclipsys | jack.gulas@eclipsys.ca |  
 | Rodney Helal | Cloudera |rodney@cloudera.com|  
 | Noureen Syed | Microsoft |Noureen.Syed@microsoft.com| 
