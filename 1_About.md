@@ -137,13 +137,22 @@ GC Members:
  * Erin Kennedy, Robots 
  
  Working Group: Rules
- 
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
-|Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563
-Christopher.Allison@tbs-sct.gc.ca | 
-| | |  |  ||
-|  |  |  |  ||
+| Cloudera legal  | | |
+| Noureen Syed |Microsoft|Noureen.Syed@microsoft.com|
+| Robin Galipeau |Open Plus | robin@openplus.ca|
+| Marc Pageau | Oproma |marc.pageau@oproma.com |
+| Christian Sauvé | Public Service Commision | Christian.Sauve@cfp-psc.gc.ca|
+
+
+  
+ Working Group: Tools
+|Participants| Department/Organization |Contact information| 
+|------------------|-----|-------|
+|Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
+|Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
+|Jack gulas (possible chair and organizer) | Eclipsys | jack.gulas@eclipsys.ca |  
 
  
 **Terms of Reference will be reviewed and updated annually in Q1.**
