@@ -138,9 +138,10 @@ GC Members:
  
  Working Group: Rules
  
-|Lead | Name of participant |Department/Organization| Contact | 
-|------------------|-----|-------|------------------|
-||| | | |
+|Participants| Department/Organization |Contact information| 
+|------------------|-----|-------|
+|Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563
+Christopher.Allison@tbs-sct.gc.ca | 
 | | |  |  ||
 |  |  |  |  ||
 
