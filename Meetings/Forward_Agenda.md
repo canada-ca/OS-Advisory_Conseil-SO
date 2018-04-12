@@ -17,3 +17,11 @@
  * Repositories
  * Speakers- Capital One
  * How do you use open source within a highly regulated organization?
+ * Announce Working Groups:
+    * Rules
+    * Tools
+    * People
+ * Open Source Day
+ * Agile Procurement Presentation
+ * Github Best Practices Presentation 
+ 
