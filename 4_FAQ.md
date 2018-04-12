@@ -27,7 +27,7 @@ participate in the conversations; development frameworks, development practices,
 
 * Is there an option to create some sort of actual online community? I'm assuming Slack isn't available to all GC staff and GS
 internal tools aren't available to those of us on the outside.
-  * Yes there is, just recently the new IM service Rocket.Chat is up and ready at https://message.gccollab.ca/. You can sign in with your GCcollab account and join the #opensourcesoftware channel. 
+  * Yes there is, just recently the new IM service Rocket.Chat is up and ready at https://message.gccollab.ca/. You can sign in with your GCcollab account and join the #opensourcesoftware channel. 
  
 
 
