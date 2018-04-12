@@ -21,7 +21,6 @@
     * Rules
     * Tools
     * People
- * Open Source Day
  * Agile Procurement Presentation
  * Github Best Practices Presentation 
  
