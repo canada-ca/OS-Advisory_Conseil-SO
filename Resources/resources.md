@@ -32,6 +32,5 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 
 # Upcoming events
 - Check out the Open Source Software and Security Event happening on May 1 at http://www.csps-efpc.gc.ca/events/ossas/index-eng.aspx
-
-
+- Drupal GovCon 2018 https://www.drupalgovcon.org/ 
 
