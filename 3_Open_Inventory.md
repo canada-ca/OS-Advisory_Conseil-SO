@@ -1,3 +1,5 @@
+# Open Inventory
+
 Welcome to the Open Source Project Inventory. We are trying to understand all
 of the open source projects that are taking place across the Government of
 Canada. If you are working on a project, please add it to this list. We do not
