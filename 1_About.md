@@ -187,7 +187,7 @@ Responsible for developing engagement activities related to the improvement of
 
 |Participants| Department/Organization |Contact information| 
 |------------------|-----|-------|
-| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |613-716-4563 Christopher.Allison@tbs-sct.gc.ca | 
+| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |Christopher.Allison@tbs-sct.gc.ca | 
 | Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
 | Erin Kennedy | Robot Missions |erin@robotmissions.org |  
 | Harsh Sabikhi | Github |harsh@github.com|  
