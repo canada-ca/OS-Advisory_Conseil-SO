@@ -1,4 +1,4 @@
-## Open Platforms
+# Open Platforms
 
 It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be efficiently re-used. 
 
@@ -11,7 +11,7 @@ If you are interested in a particular assessment, see [Assessment folder](Assess
 
 If you would like to submit a tool for assessment, please add a through a pull request using the [template](Assessments/Template.md).
 
-### Web Development
+## Web Development
 
 The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development.
 Below is a set of criteria by which standards and tools should be judged for the following categories of web development (particularly for primary functions for business critical applications):
