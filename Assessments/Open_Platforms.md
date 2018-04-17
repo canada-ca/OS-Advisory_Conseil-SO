@@ -33,16 +33,16 @@ Below is a set of criteria by which standards and tools should be judged for the
 
 According to solid IT (https://db-engines.com/en/ranking) the top ten databases are as follows ...
 
-1.  Oracle
-2.  MySQL
-3.  Microsoft SQL Server
-4.  PostgreSQL
-5.  MongoDB
-6.  DB2
-7.  Microsoft Access
-8.  Redis
-9.  Cassandra
-10. Elasticsearch
+1. Oracle
+1. MySQL
+1. Microsoft SQL Server
+1. PostgreSQL
+1. MongoDB
+1. DB2
+1. Microsoft Access
+1. Redis
+1. Cassandra
+1. Elasticsearch
 
 Firstly, we will eliminate those options which do not adhere to an OS model. This eliminates Oracle, Microsoft SQL Server, DB2, and Microsoft Access.
 
