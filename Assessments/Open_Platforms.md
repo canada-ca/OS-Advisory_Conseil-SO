@@ -54,7 +54,7 @@ The last remaining database, then, becomes PostgreSQL which also has optional en
 
 ## Infrastructure as a Service (IaaS)
 
-* [OpenStack](http://openstack.org/) ([Wikipedia page](https://en.wikipedia.org/wiki/OpenStack))
+- [OpenStack](http://openstack.org/) ([Wikipedia page](https://en.wikipedia.org/wiki/OpenStack))
 
 ## Web Server
 
