@@ -103,45 +103,45 @@ The CTO- OSAB supports the efforts of the GC EARB to ensure the consideration of
 
 The CTO-OSAB will be responsible for:
 
-  * Providing advice on the benefits, advantages, challenges, and use of open source at an enterprise level.
-  * Providing input on the anticipated use of open source tools across the government.
-  * Creating awareness across Canada, government and industry related to the use of open source in combination with the GC’s existing tool set, including closed source tools. 
-  * Providing input on open source tools being assessed by the GC EARB.
-  * Supporting the proliferation of open source within the GC and across Canada by leading or joining the Open Source Communities. 
+* Providing advice on the benefits, advantages, challenges, and use of open source at an enterprise level.
+* Providing input on the anticipated use of open source tools across the government.
+* Creating awareness across Canada, government and industry related to the use of open source in combination with the GC’s existing tool set, including closed source tools. 
+* Providing input on open source tools being assessed by the GC EARB.
+* Supporting the proliferation of open source within the GC and across Canada by leading or joining the Open Source Communities. 
 
 **Current Membership**
 
 Co-Chairs:
 
- * Chief Technology Officer, Treasury Board of Canada Secretariat; and 
- * Jack Gulas, Owner, YoppWorks 
+* Chief Technology Officer, Treasury Board of Canada Secretariat; and 
+* Jack Gulas, Owner, YoppWorks 
 
 GC Members:
 
- * Lena Trudeau, Canadian Digital Service
- * Melanie Robert, Treasury Board Secretariat
- * Christopher Allison, Treasury Board Secretariat
- * Denis Skinner, Public Service Commission 
- * Gabrielle Cosette, Shared Services Canada
- * Stephane Dufour, Statistics Canada
- * Peter Silva, Environment 
- * Jacob Raffoul, Employment and Social Devlopment Canada
+* Lena Trudeau, Canadian Digital Service
+* Melanie Robert, Treasury Board Secretariat
+* Christopher Allison, Treasury Board Secretariat
+* Denis Skinner, Public Service Commission 
+* Gabrielle Cosette, Shared Services Canada
+* Stephane Dufour, Statistics Canada
+* Peter Silva, Environment 
+* Jacob Raffoul, Employment and Social Devlopment Canada
  
  External members:
 
- * Paul Bellows, Yellow Pencil 
- * Jean-Noé Landry, Open North 
- * Robin Galipeau, Open Plus
- * Marc Pageau, Oproma
- * Dave Buchanan, Breqwatr
- * Dr. Andrew Pelling, University of Ottawa
- * David Nevins, Redhat 
- * Mike Gifford, OpenConcept 
- * Harsh Sabikhi, GitHub
- * Noureen Syed, Microsoft Open Source Lead
- * Rodney Helal/ Fil Galiardi, Cloudera
- * Shermineh Salehi Esmarti, Consultant 
- * Erin Kennedy, Robots 
+* Paul Bellows, Yellow Pencil 
+* Jean-Noé Landry, Open North 
+* Robin Galipeau, Open Plus
+* Marc Pageau, Oproma
+* Dave Buchanan, Breqwatr
+* Dr. Andrew Pelling, University of Ottawa
+* David Nevins, Redhat 
+* Mike Gifford, OpenConcept 
+* Harsh Sabikhi, GitHub
+* Noureen Syed, Microsoft Open Source Lead
+* Rodney Helal/ Fil Galiardi, Cloudera
+* Shermineh Salehi Esmarti, Consultant 
+* Erin Kennedy, Robots 
  
 **Working Group: Rules**
 Responsible for reviewing, assessing, and making recommendations related to open source:
