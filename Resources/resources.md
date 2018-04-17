@@ -8,7 +8,7 @@
 
 Finally, Marc asked about secure development.  From the [question](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/Meetings/2018-03-15.mdection) "Concerning Github, what secuirty measures are in place to provent mistakes? Two controls: no one can delete and there is a backup in cloud. Many controls like fork and branch to review the code before publishing it."
 
-# Links
+## Links
 
 - https://bcdevexchange.org
 - https://gcdevexchange-carrefourproggc.org
@@ -33,7 +33,7 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 - https://opensource.google.com/docs/why/
 - https://techfarhub.cio.gov/
 
-# Upcoming events
+## Upcoming events
 
 - Check out the Open Source Software and Security Event happening on May 1 at http://www.csps-efpc.gc.ca/events/ossas/index-eng.aspx
 - Drupal GovCon 2018 https://www.drupalgovcon.org/ 
