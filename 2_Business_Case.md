@@ -1,8 +1,10 @@
-## Purpose 
+## Purpose
+
 There needs to be a business vlaue for CIO's in why we are moving to open source
 There is a level of awareness required 
 
 ## Issues
+
 Dev/ops 
 
 ## Analysis

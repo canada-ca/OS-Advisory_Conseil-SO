@@ -1,4 +1,5 @@
 # DRAFT Terms of reference 
+
 ## Preamble
 
 On December 14, 2017 the Government of Canada Enterprise Architecture Review Board made a decision to “use open source tools as key components of its technologyeco-system” and “support the creation and adoption of open source throughouttheir practice, resulting in a robust open community within the GC.”   
@@ -17,6 +18,7 @@ Given that the adoption of open source tools is new across the GC, establishing 
 February 15, 2018
 
 ## Operations
+
 _Governance_
 
 The CTO-OSAB is responsible for providing advice to the GC Enterprise Architecture Review Board (GC EARB) on open source projects, open standards,procurement of open source tools, and practices for implementing a more open
