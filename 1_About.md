@@ -102,6 +102,7 @@ The CTO- OSAB supports the efforts of the GC EARB to ensure the consideration of
 **Responsibilities**
 
 The CTO-OSAB will be responsible for:
+
   * Providing advice on the benefits, advantages, challenges, and use of open source at an enterprise level.
   * Providing input on the anticipated use of open source tools across the government.
   * Creating awareness across Canada, government and industry related to the use of open source in combination with the GC’s existing tool set, including closed source tools. 
@@ -111,11 +112,13 @@ The CTO-OSAB will be responsible for:
 **Current Membership**
 
 Co-Chairs:
+
  * Chief Technology Officer, Treasury Board of Canada Secretariat; and 
  * Jack Gulas, Owner, YoppWorks 
 
 GC Members:
- * Lena Trudeau, Canadian Digital Service 
+
+ * Lena Trudeau, Canadian Digital Service
  * Melanie Robert, Treasury Board Secretariat
  * Christopher Allison, Treasury Board Secretariat
  * Denis Skinner, Public Service Commission 
@@ -124,7 +127,8 @@ GC Members:
  * Peter Silva, Environment 
  * Jacob Raffoul, Employment and Social Devlopment Canada
  
- External members
+ External members:
+
  * Paul Bellows, Yellow Pencil 
  * Jean-Noé Landry, Open North 
  * Robin Galipeau, Open Plus
@@ -140,7 +144,8 @@ GC Members:
  * Erin Kennedy, Robots 
  
 **Working Group: Rules**
-Responsible for reviewing, assessing, and making recommendations related to open source
+Responsible for reviewing, assessing, and making recommendations related to open source:
+
 * Policy
 * Legal 
 * Licence
@@ -148,6 +153,7 @@ Responsible for reviewing, assessing, and making recommendations related to open
 * Governance 
 
 Participants
+
 * Rodney, Cloudera 
 * Noureen, Microsoft
 * Robin, Open Plus 
@@ -158,13 +164,15 @@ Participants
 
   
 **Working Group: Tools**
-Responsible for determining approach and contributing to
+Responsible for determining approach and contributing to:
+
 * Tech stacks
 * Commercialization
 * Dev/ops
 
 
 Participants
+
 * Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division 
 * Christopher Jaja |CIOB 
 * Ross Thompson, CIOB
@@ -181,13 +189,15 @@ Participants
 
 
 **Work Group: People**
-Responsible for developing engagement activities related to the improvement of
+Responsible for developing engagement activities related to the improvement of:
+
 * Community
 * Culture
 * Developer retention
 * Development methodology
 
 Participants
+
 * Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division 
 * Christopher Jaja, CIOB 
 * Erin Kennedy, Robot Missions 
@@ -197,9 +207,3 @@ Participants
 
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
-
-
- 
-
-                                          
-
