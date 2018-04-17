@@ -4,7 +4,7 @@
 
 [CapitalOne's Dev Exchange](https://medium.com/capital-one-developers/open-source-in-a-regulated-environment-dc4b4d9af3f8): CapitalOne is a great example of a company who has successfully utilized GitHub for both internal development and external (open) development.
 
-[How Github uses GitHub](https://resources.github.com/webcasts/GitHub-writing-documentation-for-your-projects/): I believe you were interested in this.  Late last year, we did a full series of [webcasts](https://resources.github.com/webcasts/) on this topic. On our [resources](https://resources.github.com/) page, you find find additional white papers, and videos.  
+[How Github uses GitHub](https://resources.github.com/webcasts/GitHub-writing-documentation-for-your-projects/): I believe you were interested in this.  Late last year, we did a full series of [webcasts](https://resources.github.com/webcasts/) on this topic. On our [resources](https://resources.github.com/) page, you find find additional white papers, and videos.
 
 Finally, Marc asked about secure development.  From the [question](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/Meetings/2018-03-15.mdection) "Concerning Github, what secuirty measures are in place to provent mistakes? Two controls: no one can delete and there is a backup in cloud. Many controls like fork and branch to review the code before publishing it."
 
@@ -15,8 +15,8 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 - [UK government youtube video on sharing across ministeries](https://www.youtube.com/watch?v=02__3UTqXmU)
 - https://www.cigionline.org/articles/governance-vacuums-and-how-code-becoming-law
-- https://bigbluebutton.org/open-source-license/ 
-- https://cloud.gov 
+- https://bigbluebutton.org/open-source-license/
+- https://cloud.gov
 - https://rocket.chat/
 - https://gccollab.ca/
 - [GCCollab: Open Source Group](https://gccollab.ca/groups/profile/5911/open-source-software-logiciels-libres-open-source)
@@ -26,8 +26,8 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 - https://www.chapters.indigo.ca/en-ca/books/accelerate-the-science-of-lean/9781942788331-item.html?ikwid=gene+kim&ikwsec=Home&ikwidx=2
 - https://prague2013.drupal.org/session/not-invented-here-proudly-found-elsewhere-drupal-8-story.html
 - https://events.drupal.org/nashville2018 & https://www.drupalgovcon.org/
-- https://www.devopsdays.org/events/2018-toronto/welcome/  
-- https://opensource.microsoft.com/resources/office 
+- https://www.devopsdays.org/events/2018-toronto/welcome/
+- https://opensource.microsoft.com/resources/office
 - https://opensource.com/article/18/1/how-start-open-source-program-your-company
 - https://opensource.guide
 - https://opensource.google.com/docs/why/
@@ -36,5 +36,5 @@ Finally, Marc asked about secure development.  From the [question](https://gith
 ## Upcoming events
 
 - Check out the Open Source Software and Security Event happening on May 1 at http://www.csps-efpc.gc.ca/events/ossas/index-eng.aspx
-- Drupal GovCon 2018 https://www.drupalgovcon.org/ 
+- Drupal GovCon 2018 https://www.drupalgovcon.org/
 - DrupalCamp Montreal 2018 http://drupalcampmontreal.com/en

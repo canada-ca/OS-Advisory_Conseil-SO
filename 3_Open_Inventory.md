@@ -11,7 +11,7 @@ Please submit your project by pull request, an admin will review and approve.
 You may also check out the [Open Resource Exchange](https://github.com/canada-ca/ore-ero)
 Thanks!
 
-| Activity/Project | Lead|Contact| Link to Resource |Domain| 
+| Activity/Project | Lead|Contact| Link to Resource |Domain|
 |------------------|-----|-------|------------------|------|
 |CKAN (Open.Canada.ca)|Treasury Board Secretariat| Christopher Ja Ja (Christopher.Jaja@tbs-sct.gc.ca)|https://github.com/open-data | Data Catalogue |
 |MetPX | Shared Services Canada (HPC) | Peter.Silva@canada.ca | https://github.com/MetPX | Weather Data Communications |
