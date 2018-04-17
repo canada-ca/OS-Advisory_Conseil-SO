@@ -13,11 +13,6 @@ Dev/ops
 
 ## Recommendations 
 
-
- 
-
-
- 
 Communities:  
 Conferences
 Meet ups 
@@ -30,7 +25,6 @@ Skills and training
 Working habits and tools 
 Recruitment
  
-
 OS
 Commercialization: - comes after reference architecture and the what
 Committers 
@@ -46,8 +40,6 @@ Reactive
 Microservices 
 COTS with OS 
 
-
-
 Development Methodology: 
 Agile 
 Lean 
@@ -62,8 +54,4 @@ Media, New Digital Citizen Services)
 
 Procurement 
 
-
 Next steps: https://github.com/canada-ca/Open_First_Whitepaper/blob/master/7_Next_Steps.md#to-do
-
-
-

@@ -161,15 +161,12 @@ Participants
 * Christian, Public Service Commision 
 * Mike, Eclipse Foundation
 
-
-  
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
 
 * Tech stacks
 * Commercialization
 * Dev/ops
-
 
 Participants
 
@@ -187,7 +184,6 @@ Participants
 * Joel, Open Plus
 * Will Stevens, Cloudops
 
-
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
 
@@ -203,7 +199,5 @@ Participants
 * Erin Kennedy, Robot Missions 
 * Harsh Sabikhi, Github
 * Sang Trinh, Open Plus
-
-
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
