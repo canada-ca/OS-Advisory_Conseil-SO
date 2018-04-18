@@ -144,14 +144,12 @@ Responsible for reviewing, assessing, and making recommendations related to open
 * Procurement 
 * Governance 
 
-
-|Participants| Department/Organization |Contact information| 
-|------------------|-----|-------|
-| Cloudera legal  | | |
-| Noureen Syed |Microsoft|Noureen.Syed@microsoft.com|
-| Robin Galipeau |Open Plus | robin@openplus.ca|
-| Marc Pageau | Oproma |marc.pageau@oproma.com |
-| Christian Sauvé | Public Service Commision | Christian.Sauve@cfp-psc.gc.ca|
+Participants
+* Rodney, Cloudera 
+* Noureen Syed, Microsoft
+* Robin Galipeau, Open Plus 
+* Marc Pageau, Oproma 
+* Christian Sauvé, Public Service Commision 
 
 
   
@@ -162,20 +160,18 @@ Responsible for determining approach and contributing to
 * Dev/ops
 
 
-|Participants| Department/Organization |Contact information| 
-|------------------|-----|-------|
-| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division | Christopher.Allison@tbs-sct.gc.ca | 
-| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca | 
-| Ross Thompson||Ross.Thimpson@tbs-sct.gc.ca|
-| Jack Gulas (possible chair and organizer) | Eclipsys | jack.gulas@eclipsys.ca |  
-| Rodney Helal | Cloudera |rodney@cloudera.com|  
-| Noureen Syed | Microsoft |Noureen.Syed@microsoft.com| 
-| Marc Pagneau| Oproma|marc.pageau@oproma.com|
-| Michael Nguyen| Github|mikenwin@github.com|
-| Olivier Dzomo |Public Service Commission| |
-| Members of Stéphane Dufour's team|Statistics Canada|stephane.dufour@canada.ca|
-| Dave Buchanan |Breqwatr|dave.buchanan@breqwatr.com|
-
+Participants
+* Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division 
+* Christopher Jaja |CIOB 
+* Ross Thompson, CIOB
+* Jack Gulas (possible chair and organizer, Eclipsys
+* Rodney Helal, Cloudera
+* Noureen Syed, Microsoft
+* Marc Pagneau, Oproma
+* Michael Nguyen, Github
+* Olivier Dzomo, Public Service Commission
+* Members of Stéphane Dufour's team, Statistics Canada
+* Dave Buchanan, Breqwatr
 
 
 **Work Group: People**
@@ -185,12 +181,11 @@ Responsible for developing engagement activities related to the improvement of
 * Developer retention
 * Development methodology
 
-|Participants| Department/Organization |Contact information| 
-|------------------|-----|-------|
-| Christopher Allison (posssible lead)|Service and GC 2.0 Policy and Community Enablement Division |Christopher.Allison@tbs-sct.gc.ca | 
-| Christopher Jaja |CIOB |Christopher.Jaja@tbs-sct.gc.ca |  
-| Erin Kennedy | Robot Missions |erin@robotmissions.org |  
-| Harsh Sabikhi | Github |harsh@github.com|  
+Participants
+* Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division 
+* Christopher Jaja, CIOB 
+* Erin Kennedy, Robot Missions 
+* Harsh Sabikhi, Github
 
 
 
