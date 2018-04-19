@@ -23,4 +23,5 @@
     * People
  * Agile Procurement Presentation
  * Github Best Practices Presentation 
+ * Presentation & discussion: open & accessible digital workspace - a cross-sector oss project facilitated by GC-TBS
  
