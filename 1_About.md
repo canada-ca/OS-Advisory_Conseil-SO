@@ -120,6 +120,7 @@ GC Members:
  * Gabrielle Cosette, Shared Services Canada
  * Stephane Dufour, Statistics Canada
  * Peter Silva, Environment 
+ * Jacob Raffoul, Employment and Social Devlopment Canada
  
  External members
  * Paul Bellows, Yellow Pencil 
