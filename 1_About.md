@@ -151,6 +151,7 @@ Participants
 * Robin, Open Plus 
 * Marc, Oproma 
 * Christian, Public Service Commision 
+* Mike, Eclipse Foundation
 
 
   
