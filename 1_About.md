@@ -146,10 +146,10 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 Participants
 * Rodney, Cloudera 
-* Noureen Syed, Microsoft
-* Robin Galipeau, Open Plus 
-* Marc Pageau, Oproma 
-* Christian Sauvé, Public Service Commision 
+* Noureen, Microsoft
+* Robin, Open Plus 
+* Marc, Oproma 
+* Christian, Public Service Commision 
 
 
   
@@ -172,6 +172,8 @@ Participants
 * Olivier Dzomo, Public Service Commission
 * Members of Stéphane Dufour's team, Statistics Canada
 * Dave Buchanan, Breqwatr
+* Joel, Open Plus
+* Will Stevens, Cloudops
 
 
 **Work Group: People**
@@ -186,6 +188,7 @@ Participants
 * Christopher Jaja, CIOB 
 * Erin Kennedy, Robot Missions 
 * Harsh Sabikhi, Github
+* Sang Trinh, Open Plus
 
 
 
