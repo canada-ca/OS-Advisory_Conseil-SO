@@ -113,7 +113,7 @@ Co-Chairs:
  * Jack Gulas, Owner, YoppWorks 
 
 GC Members:
- * Anatole Papadopoulos, Canadian Digital Service 
+ * Lena Trudeau, Canadian Digital Service 
  * Melanie Robert, Treasury Board Secretariat
  * Christopher Allison, Treasury Board Secretariat
  * Denis Skinner, Public Service Commission 
