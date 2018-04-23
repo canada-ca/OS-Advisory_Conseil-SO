@@ -4,7 +4,9 @@
   "description": "he CTO-OSAB aims to leverage the knowledge of internal and external subject matter experts to provide advice to senior technology leaders across the GC on the most effective approach to implementing an integrated eco-system of open source",
   "main": "index.js",
   "scripts": {
-    "test": "markdownlint \"*.md\" \"Assessments/**/*.md\" \"Meetings/**/*.md\" \"Resources/**/*.md\""
+    "link-check": "node link-check.js",
+    "lint": "markdownlint \"*.md\" \"en/*.md\" \"fr/*.md\"",
+    "test": "npm run lint && npm run link-check"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,9 @@
   },
   "homepage": "https://github.com/canada-ca/OS-Advisory_Conseil-SO#readme",
   "devDependencies": {
+    "chalk": "^2.4.0",
+    "glob": "^7.1.2",
+    "markdown-link-check": "^3.3.0",
     "markdownlint-cli": "^0.8.1"
   }
 }
