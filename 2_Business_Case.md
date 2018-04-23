@@ -1,67 +1,59 @@
-## Purpose 
+# Business Case
+
+## Purpose
+
 There needs to be a business vlaue for CIO's in why we are moving to open source
-There is a level of awareness required 
+There is a level of awareness required
 
 ## Issues
-Dev/ops 
+
+Dev/ops
 
 ## Analysis
 
 ## Options
 
-## Recommendations 
+## Recommendations
 
-
- 
-
-
- 
-Communities:  
+Communities:
 Conferences
-Meet ups 
+Meet ups
 Git
-Open Government 
-Culture change - myth busting 
+Open Government
+Culture change - myth busting
 
 Developers:
 Skills and training
-Working habits and tools 
+Working habits and tools
 Recruitment
- 
 
 OS
 Commercialization: - comes after reference architecture and the what
-Committers 
+Committers
 Enteprise Support
-Distributions 
-License Models 
+Distributions
+License Models
 
 OS Technologies and Stacks:
-Reference Architectures 
-Apps / Programming Languages 
-Data / AI / Machine Learning 
-Reactive 
-Microservices 
-COTS with OS 
+Reference Architectures
+Apps / Programming Languages
+Data / AI / Machine Learning
+Reactive
+Microservices
+COTS with OS
 
-
-
-Development Methodology: 
-Agile 
-Lean 
-UX 
-Release and Support 
+Development Methodology:
+Agile
+Lean
+UX
+Release and Support
 
 Case Studies
 Customer references
 Use cases: Public Sector IT Efficiency & Good Government (Prevent Fraud
 & Abuse, Deliver Accurate Public Reporting, Citizen Engagement with Social
-Media, New Digital Citizen Services) 
+Media, New Digital Citizen Services)
 
-Procurement 
-
+Procurement
 
 Next steps: https://github.com/canada-ca/Open_First_Whitepaper/blob/master/7_Next_Steps.md#to-do
-
-
-

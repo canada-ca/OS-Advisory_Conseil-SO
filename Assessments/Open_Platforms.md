@@ -1,6 +1,6 @@
-## Open Platforms
+# Open Platforms
 
-It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be efficiently re-used. 
+It is recognized that different departments and organizations across the GC need specialized development tools and platforms, however, there are many common lines of business across the GC that would benefit from the sharing of tools and information. As such, it is of value, to develop an inventory of open source tools that are being used with the GC, and have been approved through the GC Enterprise Architecture Review Board (EARB). Having these preferred tools in place will reduce redundant development and foster an open community where best practices can be shared, co-development can be done, and tools and information can be efficiently re-used.
 
 This list will be regularly updated to ensure the most up-to-date list of tools are being offered to the community.
 Below you will find a list of recommended platforms by domain, based on standards co-developed by the community, with best of breed tools assessed against this criteria.
@@ -11,7 +11,7 @@ If you are interested in a particular assessment, see [Assessment folder](Assess
 
 If you would like to submit a tool for assessment, please add a through a pull request using the [template](Assessments/Template.md).
 
-### Web Development
+## Web Development
 
 The GC vision to take an "open first" approach to web development using open source tools and create an open culture that co-develops, re-uses and shares requires the development of standards for web development.
 Below is a set of criteria by which standards and tools should be judged for the following categories of web development (particularly for primary functions for business critical applications):
@@ -33,16 +33,16 @@ Below is a set of criteria by which standards and tools should be judged for the
 
 According to solid IT (https://db-engines.com/en/ranking) the top ten databases are as follows ...
 
-1.  Oracle
-2.  MySQL
-3.  Microsoft SQL Server
-4.  PostgreSQL
-5.  MongoDB
-6.  DB2
-7.  Microsoft Access
-8.  Redis
-9.  Cassandra
-10. Elasticsearch
+1. Oracle
+1. MySQL
+1. Microsoft SQL Server
+1. PostgreSQL
+1. MongoDB
+1. DB2
+1. Microsoft Access
+1. Redis
+1. Cassandra
+1. Elasticsearch
 
 Firstly, we will eliminate those options which do not adhere to an OS model. This eliminates Oracle, Microsoft SQL Server, DB2, and Microsoft Access.
 
@@ -54,7 +54,7 @@ The last remaining database, then, becomes PostgreSQL which also has optional en
 
 ## Infrastructure as a Service (IaaS)
 
-* [OpenStack](http://openstack.org/) ([Wikipedia page](https://en.wikipedia.org/wiki/OpenStack))
+- [OpenStack](http://openstack.org/) ([Wikipedia page](https://en.wikipedia.org/wiki/OpenStack))
 
 ## Web Server
 

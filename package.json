@@ -1,0 +1,22 @@
+{
+  "name": "os-advisory_conseil-so",
+  "version": "0.0.1",
+  "description": "he CTO-OSAB aims to leverage the knowledge of internal and external subject matter experts to provide advice to senior technology leaders across the GC on the most effective approach to implementing an integrated eco-system of open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "markdownlint \"*.md\" \"Assessments/**/*.md\" \"Meetings/**/*.md\" \"Resources/**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canada-ca/OS-Advisory_Conseil-SO.git"
+  },
+  "author": "Treasury Board of Canada",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/canada-ca/OS-Advisory_Conseil-SO/issues"
+  },
+  "homepage": "https://github.com/canada-ca/OS-Advisory_Conseil-SO#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.8.1"
+  }
+}
