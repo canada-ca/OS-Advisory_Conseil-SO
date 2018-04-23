@@ -18,3 +18,4 @@ Participants
 * Dave Buchanan, Breqwatr
 * Joel Brockbank, OpenPlus
 * Will Stevens, Cloudops
+* Ross Clarke, Canadian Food Inspection Agency
