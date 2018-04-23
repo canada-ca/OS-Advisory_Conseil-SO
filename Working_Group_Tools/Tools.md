@@ -5,10 +5,10 @@
   * Dev/ops
 
 Participants 
-* Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division 
-* Christopher Jaja |CIOB 
+* Christopher Allison (posssible lead), Service and GC 2.0 Policy and Community Enablement Division 
+* Christopher Jaja, CIOB 
 * Ross Thompson, CIOB
-* Jack Gulas (possible chair and organizer, Eclipsys
+* Jack Gulas (possible chair and organizer), Eclipsys
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pagneau, Oproma
