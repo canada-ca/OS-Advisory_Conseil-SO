@@ -15,7 +15,7 @@
 |• Ability to serve multiple use cases |   |Y|
 |• Tool is adaptable and compatible with existing and custom extensions |   | Y|
 |**Usability**|    |
-|• Has capacity to meet[Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    | Y|
+|• Has capacity to meet[Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227) |    | Y|
 |**Accessibility**|  |
 |• Has capacity to meet [Government of Canada Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) |   |Y|
 |**Interoperability**|   |

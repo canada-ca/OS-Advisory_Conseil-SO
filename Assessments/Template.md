@@ -15,7 +15,7 @@
 |• Tool can be adapted to be used with existing and custom extensions |   |
 |• Tool's customizability is competitive with market leaders in the same tool category (e.g., Web Content Management System) |   |
 |**Usability**|    |
-|• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227&section=html) |    |
+|• Meets or has the capacity to meet the [Government of Canada Standard on Web Usability](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227) |    |
 |**Accessibility**|  |
 |• Meets or has the capacity to meet the [Government of Canada Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) |   |
 |**Interoperability**|   |
