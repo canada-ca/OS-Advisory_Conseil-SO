@@ -19,3 +19,4 @@ Participants
 * Joel Brockbank, OpenPlus
 * Will Stevens, Cloudops
 * Ross Clarke, Canadian Food Inspection Agency
+* Gabriel Cossette, Shared Services Canada (potential co-chair if interested)
