@@ -183,6 +183,7 @@ Participants
 * Dave Buchanan, Breqwatr
 * Joel, Open Plus
 * Will Stevens, Cloudops
+* Ross Clarke, Canadian Food Inspection Agency
 
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
