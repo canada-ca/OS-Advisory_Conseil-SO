@@ -1,5 +1,7 @@
 # OS-Advisory_Conseil-SO
 
+[![Build Status](https://travis-ci.org/canada-ca/OS-Advisory_Conseil-SO.svg?branch=master)](https://travis-ci.org/canada-ca/OS-Advisory_Conseil-SO)
+
 The objectives of the Board will be two-fold. First, to have a discussion at the executive level about the most effective use and integration of open source tools into the GC to help advance our digital goals. Second, to help identify and resolve the most significant barriers to using open source tools (eg. procurement, cultural, and infrastructure challenges).
 _________________________________________________________________________________________________________________________________________
 
