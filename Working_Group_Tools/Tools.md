@@ -19,3 +19,4 @@ Participants
 * Joel Brockbank, OpenPlus
 * Will Stevens, Cloudops
 * Ross Clarke, Canadian Food Inspection Agency
+* Nick Schonning, Immigration, Refugees and Citizenship Canada
