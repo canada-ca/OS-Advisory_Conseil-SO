@@ -160,6 +160,7 @@ Participants
 * Marc, Oproma
 * Christian, Public Service Commision
 * Mike, Eclipse Foundation
+* John,
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
@@ -184,6 +185,7 @@ Participants
 * Joel, Open Plus
 * Will Stevens, Cloudops
 * Ross Clarke, Canadian Food Inspection Agency
+* Nick, Immigration, Refugees and Citizenship Canada
 
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
