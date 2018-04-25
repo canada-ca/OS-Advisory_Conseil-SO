@@ -1,12 +1,17 @@
 # Tools
-* Responsible for determining approach and contributing to
-  * Tech Stacks
-  * Commercialization 
-  * Dev/ops
 
-Participants 
-* Christopher Allison (posssible lead), Service and GC 2.0 Policy and Community Enablement Division 
-* Christopher Jaja, CIOB 
+## Responsibilities
+
+Responsible for determining approach and contributing to:
+
+* Tech Stacks
+* Commercialization
+* Dev/ops
+
+## Participants
+
+* Christopher Allison (posssible lead), Service and GC 2.0 Policy and Community Enablement Division
+* Christopher Jaja, CIOB
 * Ross Thompson, CIOB
 * Jack Gulas (possible chair and organizer), Eclipsys
 * Rodney Helal, Cloudera
@@ -21,4 +26,3 @@ Participants
 * Ross Clarke, Canadian Food Inspection Agency
 * Gabriel Cossette, Shared Services Canada (potential co-chair if interested
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
-
