@@ -154,10 +154,11 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 Participants
 
+* Co-Lead: Marc, Oproma
+* Heather Laird, Treasury Board Secretariat 
 * Rodney, Cloudera
 * Noureen, Microsoft
 * Robin, Open Plus
-* Marc, Oproma
 * Christian, Public Service Commision
 * Mike, Eclipse Foundation
 * John,
@@ -171,10 +172,11 @@ Responsible for determining approach and contributing to:
 
 Participants
 
-* Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division
+* Co-chair: Jack Gulas, Eclipsys
+* Sebastien Lemay, Treasury Board Secretariat 
+* Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
 * Christopher Jaja |CIOB
 * Ross Thompson, CIOB
-* Jack Gulas (possible chair and organizer, Eclipsys
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pagneau, Oproma
@@ -186,6 +188,7 @@ Participants
 * Will Stevens, Cloudops
 * Ross Clarke, Canadian Food Inspection Agency
 * Nick, Immigration, Refugees and Citizenship Canada
+* Reginald, Statistics Canada
 
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
@@ -197,10 +200,12 @@ Responsible for developing engagement activities related to the improvement of:
 
 Participants
 
-* Christopher Allison (posssible lead, Service and GC 2.0 Policy and Community Enablement Division
-* Christopher Jaja, CIOB
-* Erin Kennedy, Robot Missions
-* Harsh Sabikhi, Github
-* Sang Trinh, Open Plus
+* Co-lead: Christopher, Service and GC 2.0 Policy and Community Enablement Division
+* Co-lead: Richard, Redhat
+* Christopher, CIOB
+* Erin, Robot Missions
+* Harsh, Github
+* Sang, Open Plus
+* Shermineh, 
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
