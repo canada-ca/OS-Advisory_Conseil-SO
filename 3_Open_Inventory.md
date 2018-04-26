@@ -15,4 +15,5 @@ Thanks!
 |------------------|-----|-------|------------------|------|
 |CKAN (Open.Canada.ca)|Treasury Board Secretariat| Christopher Ja Ja (Christopher.Jaja@tbs-sct.gc.ca)|https://github.com/open-data | Data Catalogue |
 |MetPX | Shared Services Canada (HPC) | Peter.Silva@canada.ca | https://github.com/MetPX | Weather Data Communications |
+|Web Experience Toolkit|Service Canada|Mario Bonito ([@masterbee](https://github.com/masterbee))| https://github.com/wet-boew/|Web front-end framework|
 |  |  |  |  ||
