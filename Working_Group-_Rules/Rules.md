@@ -18,4 +18,5 @@ Responsible for reviewing, assessing, and making recommendations related to open
 * Robin Galipeau, Open Plus
 * Christian, Public Service Commission
 * Rodney Helal, Cloudera
-* John,
+* John, Canadian Digital Services 
+* William, Employment and Social Development Canada
