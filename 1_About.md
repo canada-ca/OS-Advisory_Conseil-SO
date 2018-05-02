@@ -161,7 +161,8 @@ Participants
 * Robin, Open Plus
 * Christian, Public Service Commision
 * Mike, Eclipse Foundation
-* John,
+* John, Canadian Digital Services
+* William, Employment and Social Development Canada
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
