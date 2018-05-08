@@ -31,7 +31,7 @@ General membership will be limited to a maximum of twenty members to ensure the 
 Application for general membership will be submitted to and determined by co-chairs. There will be a one-year term limit for both general membership and the industry co-chair. The GC CTO, or pre-determined delegate will be made available on an on-going basis for this advisory board.
 
 All meetings will be open for anyone to attend. All resources will be
-shared through GCCollab which is open to non-GC members.
+shared through Github which is open to non-GC members.
 
 _Frequency_
 
