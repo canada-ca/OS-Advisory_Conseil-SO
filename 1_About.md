@@ -61,23 +61,6 @@ Application for general membership will be submitted to and determined by co-cha
 
 All meetings will be open for anyone to attend. All resources will be shared through our Github page which is open to non-GC members.
 
-_Frequency_
-
-The CTO-OSAB meets the third Wednesday of every month, with the option for the committee to meet more frequently as required.
-
-_Working groups_
-
-Domain specific working groups will be established on an as needed basis to manage the effective operation of open source tools within the government. Each working group consists of a lead responsible for reporting back to the CTO-OSAB on a quarterly basis through a written and/ or verbal report. All reports will be made publicly available.
-
-_Location_
-
-Unless otherwise agreed, the room for in-person participation is in Ottawa.
-
-_Participation_
-
-Recognizing that membership will include members not located in Ottawa, the Treasury Board Secretariat (TBS) will arrange for remote participation via teleconference or videoconference and reserve a room for in-person participation, unless no
-member participates in person.
-
  _Decision-making_
 
 As this is an advisory board, there will be no formal decision making rules. However, consensus on reports provided to EARB will be encouraged.
