@@ -163,6 +163,7 @@ Participants
 * Mike, Eclipse Foundation
 * John, Canadian Digital Services
 * William, Employment and Social Development Canada
+* Ranjan, Canada Border Services
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
