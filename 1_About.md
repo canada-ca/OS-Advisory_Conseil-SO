@@ -147,6 +147,7 @@ Participants
 * John, Canadian Digital Services
 * William, Employment and Social Development Canada
 * Ranjan, Canada Border Services
+* Noel, Treasury Board Secretariat
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
