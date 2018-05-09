@@ -21,3 +21,4 @@ Responsible for reviewing, assessing, and making recommendations related to open
 * John, Canadian Digital Services 
 * William, Employment and Social Development Canada
 * Ranjan, Canada Border Services
+* Noel, Treasury Board Secretariat
