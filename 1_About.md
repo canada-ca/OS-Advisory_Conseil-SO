@@ -138,7 +138,7 @@ Responsible for reviewing, assessing, and making recommendations related to open
 Participants
 
 * Co-Lead: Marc, Oproma
-* Heather Laird, Treasury Board Secretariat 
+* Heather Laird, Treasury Board Secretariat
 * Rodney, Cloudera
 * Noureen, Microsoft
 * Robin, Open Plus
@@ -159,7 +159,7 @@ Responsible for determining approach and contributing to:
 Participants
 
 * Co-chair: Jack Gulas, Eclipsys
-* Sebastien Lemay, Treasury Board Secretariat 
+* Sebastien Lemay, Treasury Board Secretariat
 * Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
 * Christopher Jaja |CIOB
 * Ross Thompson, CIOB
@@ -192,6 +192,6 @@ Participants
 * Erin, Robot Missions
 * Harsh, Github
 * Sang, Open Plus
-* Shermineh, 
+* Shermineh,
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
