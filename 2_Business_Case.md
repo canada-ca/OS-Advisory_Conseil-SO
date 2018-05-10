@@ -56,4 +56,4 @@ Media, New Digital Citizen Services)
 
 Procurement
 
-Next steps: https://github.com/canada-ca/Open_First_Whitepaper/blob/master/7_Next_Steps.md#to-do
+Next steps: https://github.com/canada-ca/Open_First_Whitepaper/blob/master/en/7_Next_Steps.md
