@@ -17,6 +17,7 @@
 * Presentation on BC DEVexchange
 
 # Completed
+
 * Licence workshop
 * Announce Working Groups:
   * Rules
