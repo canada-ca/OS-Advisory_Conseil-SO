@@ -26,7 +26,7 @@ culture.
 
 The advisory board will be co-chaired by the GC CTO and a private sector executive dedicated to the evolution of open source tools within Canada.
 
-General membership will be limited to a maximum of twenty members to ensure the most productive discussion possible. Ten spaces will be provided for both GC and non-GC members. Non-GC members can consist of industry, civil society, academic, and government representatives.
+General membership will be limited to a maximum of twenty-four members to ensure the most productive discussion possible. Ten spaces will be provided for both GC and non-GC members. Non-GC members can consist of industry, civil society, academic, and government representatives.
 
 Application for general membership will be submitted to and determined by co-chairs. There will be a one-year term limit for both general membership and the industry co-chair. The GC CTO, or pre-determined delegate will be made available on an on-going basis for this advisory board.
 
