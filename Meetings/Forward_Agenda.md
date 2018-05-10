@@ -16,7 +16,7 @@
 * Presentation & discussion: open & accessible digital workspace - a cross-sector oss project facilitated by GC-TBS
 * Presentation on BC DEVexchange
 
-# Completed
+## Completed
 
 * Licence workshop
 * Announce Working Groups:
