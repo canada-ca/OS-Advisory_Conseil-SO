@@ -18,16 +18,16 @@ Responsible for determining approach and contributing to:
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pagneau, Oproma
-* Michael Nguyen, Github
+* Michael Nguyen, GitHub
 * Olivier Dzomo, Public Service Commission
 * Members of Stéphane Dufour's team, Statistics Canada
 * Dave Buchanan, Breqwatr
 * Joel Brockbank, OpenPlus
-* Will Stevens, Cloudops
+* Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
 * Gabriel Cossette, Shared Services Canada (potential co-chair if interested
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
-* Reginald Maltais, Statistics Canda
+* Reginald Maltais, Statistics Canada
 
 ## Discussed Objectives of the Tools Working Group
 
