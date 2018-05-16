@@ -25,7 +25,7 @@ Responsible for determining approach and contributing to:
 * Joel Brockbank, OpenPlus
 * Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
-* Gabriel Cossette, Shared Services Canada (potential co-chair if interested
+* Gabriel Cossette, Shared Services Canada (potential co-chair if interested)
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
 * Reginald Maltais, Statistics Canada
 
