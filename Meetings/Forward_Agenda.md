@@ -14,7 +14,7 @@
 * Speakers- Capital One
 * How do you use open source within a highly regulated organization?
 * Presentation & discussion: open & accessible digital workspace - a cross-sector oss project facilitated by GC-TBS
-* Presentation on BC DEVexchange              
+* Presentation on BC DEVexchange: Best practices and lessons learned             
 * Open Resource Exchange 
 * Clarifying Statement of code release
 * Working group update: present workplan at next OSAB (June)
