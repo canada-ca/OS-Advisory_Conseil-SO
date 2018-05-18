@@ -23,6 +23,11 @@
 * Iteration process: mechanisms for feedback aren't clear 
 * Open Source support model: ESDC presentatio 
 * OECD playbook
+  * Open procurement 
+* Robot Missions 
+* Drupal Security 
+* Build it right compliance
+* Workplan 
 
 ## Completed
 
