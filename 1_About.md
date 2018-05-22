@@ -2,9 +2,9 @@
 
 ## Preamble
 
-On December 14, 2017 the Government of Canada Enterprise Architecture Review Board made a decision to “use open source tools as key components of its technologyeco-system” and “support the creation and adoption of open source throughouttheir practice, resulting in a robust open community within the GC.”
+On December 14, 2017 the Government of Canada Enterprise Architecture Review Board made a decision to “use open source tools as key components of its technology eco-system” and “support the creation and adoption of open source throughout their practice, resulting in a robust open community within the GC.”
 
-As such, the Secretary of the Treasury Board of Canada established the Government of **Canada Chief Technology Officer Open SourceAdvisory Board (CTO-OSAB)** as a forum for discussion of the sustainable adoption of open source across the government.
+As such, the Secretary of the Treasury Board of Canada established the Government of **Canada Chief Technology Officer Open Source Advisory Board (CTO-OSAB)** as a forum for discussion of the sustainable adoption of open source across the government.
 
 ## Background
 
@@ -21,7 +21,7 @@ February 15, 2018
 
 _Governance_
 
-The CTO-OSAB is responsible for providing advice to the GC Enterprise Architecture Review Board (GC EARB) on open source projects, open standards,procurement of open source tools, and practices for implementing a more open
+The CTO-OSAB is responsible for providing advice to the GC Enterprise Architecture Review Board (GC EARB) on open source projects, open standards, procurement of open source tools, and practices for implementing a more open
 culture.
 
 The advisory board will be co-chaired by the GC CTO and a private sector executive dedicated to the evolution of open source tools within Canada.
@@ -31,7 +31,7 @@ General membership will be limited to a maximum of twenty-four members to ensure
 Application for general membership will be submitted to and determined by co-chairs. There will be a one-year term limit for both general membership and the industry co-chair. The GC CTO, or pre-determined delegate will be made available on an on-going basis for this advisory board.
 
 All meetings will be open for anyone to attend. All resources will be
-shared through Github which is open to non-GC members.
+shared through GitHub which is open to non-GC members.
 
 _Frequency_
 
@@ -50,7 +50,7 @@ _Participation_
 Recognizing that membership will include members not located in Ottawa, the
 Treasury Board Secretariat (TBS) will arrange for remote participation via
 teleconference or
-The CTO-OSAB is responsible for providing advice to the GC Enterprise Architecture Review Board (GC EARB) on open source projects, open standards,procurement of open source tools, and practices for implementing a more open
+The CTO-OSAB is responsible for providing advice to the GC Enterprise Architecture Review Board (GC EARB) on open source projects, open standards, procurement of open source tools, and practices for implementing a more open
 culture.
 
 The advisory board will be co-chaired by the GC CTO and a private sector executive dedicated to the evolution of open source tools within Canada.
@@ -59,7 +59,7 @@ General membership will be limited to a maximum of twenty-four members to ensure
 
 Application for general membership will be submitted to and determined by co-chairs. There will be a one-year term limit for both general membership and the industry co-chair. The GC CTO, or pre-determined delegate will be made available on an on-going basis for this advisory board.
 
-All meetings will be open for anyone to attend. All resources will be shared through our Github page which is open to non-GC members.
+All meetings will be open for anyone to attend. All resources will be shared through our GitHub page which is open to non-GC members.
 
  _Decision-making_
 
@@ -76,7 +76,7 @@ Members may express themselves in either English or French. All meeting material
 
 _Non-member attendance_
 
-Advisory board meetings will be open to the public.Non-members are encouraged to attend advisory board meetings to listen to the discussion as well as ask questions.
+Advisory board meetings will be open to the public. Non-members are encouraged to attend advisory board meetings to listen to the discussion as well as ask questions.
 
 **Mandate**
 
@@ -187,10 +187,10 @@ Responsible for developing engagement activities related to the improvement of:
 Participants
 
 * Co-lead: Christopher, Service and GC 2.0 Policy and Community Enablement Division
-* Co-lead: Richard, Redhat
+* Co-lead: Richard, Red Hat
 * Christopher, CIOB
 * Erin, Robot Missions
-* Harsh, Github
+* Harsh, GitHub
 * Sang, Open Plus
 * Shermineh,
 
