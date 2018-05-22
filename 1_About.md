@@ -109,6 +109,8 @@ GC Members:
 * Stephane Dufour, Statistics Canada
 * Peter Silva, Environment
 * Jacob Raffoul, Employment and Social Devlopment Canada
+* Guylaine Carrière / Caroline Bessett, Shared Services Canada
+* Mathieu Fortin, Shared Services Canada  
 
  External members:
 
