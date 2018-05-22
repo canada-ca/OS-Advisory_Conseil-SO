@@ -28,6 +28,8 @@ Responsible for determining approach and contributing to:
 * Gabriel Cossette, Shared Services Canada (potential co-chair if interested)
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
 * Reginald Maltais, Statistics Canada
+* Jim, Employment and Social Development Canada
+
 
 ## Discussed Objectives of the Tools Working Group
 
@@ -36,4 +38,3 @@ Responsible for determining approach and contributing to:
 * We will strive to ensure equitable representation for all Vendors and to obtain feedback from the Government of Canada how best to continue to present the material.
 * Each Month we will select one or more members of the working group to focus on one technology stack and will review reference architectures, deployment models, and vendors supporting the specific Open Source products. The selected members will contribute each month to the Government of Canada Open Source business case the content they have prepared to present to the Open Source council.
 * The Working group will track and add all content to the GitHub working group folder and will use Rocket Chat for IM / ongoing communication.
-

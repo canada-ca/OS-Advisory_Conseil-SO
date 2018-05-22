@@ -23,3 +23,4 @@ Responsible for reviewing, assessing, and making recommendations related to open
 * Ranjan, Canada Border Services
 * Noel, Treasury Board Secretariat
 * Mike, Eclipse Foundation
+* Jim Cowie, Employment and Social Development Canada

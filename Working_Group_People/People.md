@@ -18,3 +18,4 @@ Responsible for developing engagement activitives related to the improvement of:
 * Erin, Robot Missions
 * Harsh, Github
 * Sang, Open Plus
+* Jim, Employment and Social Development Canada
