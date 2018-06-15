@@ -1,11 +1,11 @@
 # People - Open Source Advisory Board - introductory meeting
 
-https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/Working_Group_People/People.md
+https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/fr/Groupe_de_travail_Personnes/People.md
 
 ### Participants
 * Richard - RedHat - Create open and collaborative environment - lots of info to share
-* Harsh - GitHub - Help OSS and business communities collaborate - 
-* Shermineh - Blockchain, AI & OSS - Cyrus - startups - 
+* Harsh - GitHub - Help OSS and business communities collaborate -
+* Shermineh - Blockchain, AI & OSS - Cyrus - startups -
 * Chris
 * Erin RobotGrrl - develop OSS robots to improve environment - understanding OSS from youth perspective
 * Guillaume - supporting OSS in advisory board
@@ -17,12 +17,12 @@ Our goals will be to addressing challenges or opportunities related to engaging 
 * Are developers encouraged to participate in communities? Demographics and future retirement?
 * Youth, recruiting and retention
 * Inclusiveness, diversity
-* External outreach activites (eg, hackathons, education) 
+* External outreach activites (eg, hackathons, education)
 * Working / procurement / contracts / collaboration and the Gov/external OSS community
 * How do organizations that need to work with external do so?
-* Benefits to business? 
+* Benefits to business?
 * Professional services, etc.
-* Benefits for the Business, the organization 
+* Benefits for the Business, the organization
 * Culture
 * Inviting
 * Transparent
@@ -50,7 +50,7 @@ Our goals will be to addressing challenges or opportunities related to engaging 
 * Continuous learning - baked into job and everyday actions
 * Online learning
 * Mentoring, Social Media, LinkedIn (build brand, learn new skills, learn new ideas) - also core contributors
-* Open Learning - blogs, stack overflow, code academy, Kaggle, YouTube, 
+* Open Learning - blogs, stack overflow, code academy, Kaggle, YouTube,
 * Learning paths - moving from zero to being a core contributor (OS guide - ben balter, GitHub)
 * Meet-ups
 * Organization
@@ -75,7 +75,7 @@ Our goals will be to addressing challenges or opportunities related to engaging 
 
 ### How we work
 * Vendor agnostic
- 
+
 For the initial meeting, I’ve proposed a loose agenda around us coming together as a group and understanding each other’s unique perspectives. If you have any feedback or would like to add a specific topic, please let me know.
 Draft Agenda:
 ·         Round table introductions

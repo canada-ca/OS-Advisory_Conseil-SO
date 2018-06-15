@@ -10,9 +10,9 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 ## Table of contents
 
 - [About](1_About.md)
-- [Meetings](Meetings)
+- [Meetings](en/Meetings/)
 - [Business Case](2_Business_Case.md)
 - [Open Inventory](3_Open_Inventory.md)
 - [FAQ](4_FAQ.md)
 - [Assessments](Assessments)
-- [Resources](Resources)
+- [Resources](en/Resources)

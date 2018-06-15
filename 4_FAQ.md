@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-* Will the list of participants be added [here](Meetings/2018-03-15.md)?
+* Will the list of participants be added [here](en/Meetings/2018-03-15.md)?
 
 * Why are we looking for a business case for open source software rather than for proprietary software?
 
