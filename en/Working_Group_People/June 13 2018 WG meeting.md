@@ -12,7 +12,7 @@
 * For now, we will be using Github as our tool to post and contribute 
 
 ## Priorities/Objectives 
-* From [May 14 meeting](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/May%2014%202018%20WG%20Meeting.md#objectives) we need to prioritize the objectives
+* From [May 14 meeting](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/May%2014%202018%20WG%20Meeting.md#objectives) we need to prioritize our objectives
 * We are formalizing the Whitepaper: People working group can feed into the open culture and open market aspect of the Whitepaper (can be tasked based)
   * Sherminehs can help with this 
   * This work can be done offline
