@@ -30,7 +30,7 @@
   * Break down silos within the government 
 
 ## Action items 
-* Contribute to the Roadmap: focus on our main priorities with a timeframe. Look at the [May 14 meeting](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/May%2014%202018%20WG%20Meeting.md#objectives) and contribute to the roadmap[into this page](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/Roadmap.md)
+* Contribute to the Roadmap: focus on our main priorities with a timeframe. Look at the [May 14 meeting](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/May%2014%202018%20WG%20Meeting.md#objectives) and contribute to the roadmap [into this page](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/Roadmap.md)
 * Whitepaper is a priority: in terms of timing, trying to have a formal draft it within 2 weeks, need to present it to OSAB
 * Create a team on github for this group
 * Work asynchronisly and have shorter meetings 
