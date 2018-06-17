@@ -24,10 +24,11 @@ Our goals will be to addressing challenges or opportunities related to engaging 
   * Open Learning - blogs, stack overflow, code academy, Kaggle, YouTube,
   * Learning paths - moving from zero to being a core contributor (OS guide - ben balter, GitHub)
 * Culture
+  * Fear of working in the open - criticism (coming from working small and closed)
+  * Mentality Change/mindset shift
 * Organization
   * Benefits for the Business, the organization
   * Give them a platform - allow them to share on their own terms
-  * Fear of working in the open - criticism (coming from working small and closed)
   * Ask for contributions in OS == value?
 * Private industry
   * Professional services, etc.
