@@ -27,7 +27,7 @@
 * We need to pick key milestones for this year for this working group.
   * Possible key milestones this year are to increase awareness of open source and it's value, build skills in open source tools and dev/ops and get non-technical individuals engaged in open source methodology(community engagement)
 * To achieve our objectives we need to address silos in the government, look into public/private relationships and re-use what others have already done
-* To meet timelines, we need to start with quick wins. I.e. we should pick a project that is visible like the password renewal or another troubled application to show how the community effort made it transparent and successful. This will be usefl in the business case to show the quantifiable savings for using open source and how it benefitted the government of Canada and citizens.
+* To meet timelines, we need to start with quick wins. I.e. we should pick a project that is visible like the password renewal or another troubled application to show how the community effort made it transparent and successful. The open.canada.ca is also an option as its tech stack is fully OS. This will be usefl in the business case to show the quantifiable savings for using open source and how it benefitted the government of Canada and citizens.
   * Another example is how in the government we have multiple applications that have the same functionality so we could reach out to the developers to see if they can colloborate. Alternatively, we can set up a parrallel platform to a troubled application and show how the community can come together to tackle the issues
   * Example: the travel application that we have in the Government of Canada: show and talk about it how it works when you talk to users
 * Idea of co-working/co-location: is there the ability to get people working alone to come out to development shops and expose them to different ways of working.
@@ -35,6 +35,8 @@
 * What is the main issues that we are trying to solve?
   * From the business side, do they not want to do open source, is there a misunderstanding of open source is or is guidance necessary?
     * It is a mix of all of these things. In the government of Canada, our procurement has been focused on closed source products. There needs to be further education about the business value of Open Source, our open source day in September will help this.
+* Create a pool of CSs that have Open Source experience. Possibly create a standing offer with OS vendors for easy tap-in.
+* Need to know what's involved in managing an OS project including RFPs, governance, working in the Open (culture shift).
 
 #### Tools
 * GitHub

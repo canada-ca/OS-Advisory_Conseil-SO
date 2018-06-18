@@ -14,36 +14,67 @@
   * From the business side, do they not want to do open source, is there a misunderstanding of open source is or is guidance necessary?
     * It is a mix of all of these things. In the government of Canada, our procurement has been focused on closed source products. There needs to be further education about the business value of Open Source, our open source day in September will help this.
 
+## Practical Roadmap
+
+### Focus -- Awareness
+* Myth-Busting - info graphic
+  * Why Open Source - why does it matter for our people?
+  * What can they learn?
+  * How will it support their career & marketability?
+  * How will it help their business & organization?
+* Co-location w/ private sector - working open
+
+### Focus -- Culture
+* Project Aristotle - Elements of effective teams
+* Presentation - Todd (B.C.)
+* Open Organization - Workshops - executive stream & train the trainer for GC Open Source commnity
+
+### Focus -- Skill
+* Open source work days challenge - single project
+  * Open sourcing a Govt. code repository?
+* How to work with open source online sessions - learning
+
 ## Whitepaper contributions
 
 Timeframe: End of June 2018
 
-- Open Culture
-  - Open Decision Framework (Red Hat)
-  - Whitepapers
+* Open Culture
+  * Open Decision Framework (Red Hat)
+  * Existing Whitepapers
+* Open Market
 
-## Business Case
+## Business Case contributions
 
 Timeframe: End of June 2018
 
-- Using open source software
-  - Working with the outside vendors
-  - How do you manage mentality change / mindset shift
-  - Collaboration with vendors
-  - Privacy dimension
+* Using open source software
+  * Working with the outside vendors
+  * How do you manage mentality change / mindset shift
+  * Collaboration with vendors
+  * Privacy dimension
 
-- Community
-  - Contributing code / projects back to the community
-  - Building a group of people (eg, who might be prime candidates for gcdevexchange projects)
-  - Value to org by getting their work 'out there'
-  - Value to people / employees by education & training on how to collab on coding projects _(unsure about the strength of this point, thoughts, anyone?)_
+* Community
+  * Contributing code / projects back to the community
+  * Building a group of people (eg, who might be prime candidates for gcdevexchange projects)
+  * Value to org by getting their work 'out there'
+  * Value to people / employees by education & training on how to collab on coding projects _(unsure about the strength of this point, thoughts, anyone?)_
 
 ## Open Source Day
 
 Timeframe: End of September
 
+* Topics of interest
+  * Provide ideas to TBS
+
 ## Interdepartmental Collaboration - Internal Community Building
 
-- Bunz (TBC - Shermineh)
+Timeframe: November + Ongoing
+
+* Bunz input? (TBC - Shermineh)
+* Activities
 
 ### Outreach - CS and Business
+
+* Digital workspace
+
+##
