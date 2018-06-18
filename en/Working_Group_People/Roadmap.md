@@ -18,32 +18,43 @@
 
 Timeframe: End of June 2018
 
-- Open Culture
-  - Open Decision Framework (Red Hat)
-  - Whitepapers
+* Open Culture
+  * Open Decision Framework (Red Hat)
+  * Existing Whitepapers
+* Open Market
 
-## Business Case
+## Business Case contributions
 
 Timeframe: End of June 2018
 
-- Using open source software
-  - Working with the outside vendors
-  - How do you manage mentality change / mindset shift
-  - Collaboration with vendors
-  - Privacy dimension
+* Using open source software
+  * Working with the outside vendors
+  * How do you manage mentality change / mindset shift
+  * Collaboration with vendors
+  * Privacy dimension
 
-- Community
-  - Contributing code / projects back to the community
-  - Building a group of people (eg, who might be prime candidates for gcdevexchange projects)
-  - Value to org by getting their work 'out there'
-  - Value to people / employees by education & training on how to collab on coding projects _(unsure about the strength of this point, thoughts, anyone?)_
+* Community
+  * Contributing code / projects back to the community
+  * Building a group of people (eg, who might be prime candidates for gcdevexchange projects)
+  * Value to org by getting their work 'out there'
+  * Value to people / employees by education & training on how to collab on coding projects _(unsure about the strength of this point, thoughts, anyone?)_
 
 ## Open Source Day
 
 Timeframe: End of September
 
+* Topics of interest
+  * Provide ideas to TBS
+
 ## Interdepartmental Collaboration - Internal Community Building
 
-- Bunz (TBC - Shermineh)
+Timeframe: November + Ongoing
+
+* Bunz input? (TBC - Shermineh)
+* Activities
 
 ### Outreach - CS and Business
+
+* Digital workspace
+
+##
