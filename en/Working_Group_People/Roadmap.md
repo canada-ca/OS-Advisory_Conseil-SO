@@ -18,10 +18,16 @@
 
 ### Focus -- Awareness
 * Myth-Busting - info graphic
+  * What is open source software and how does it work? Talk about the entire eco-system including peer-review process, cummunity contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
   * Why Open Source - why does it matter for our people?
   * What can they learn?
+  * Security myth busting
   * How will it support their career & marketability?
   * How will it help their business & organization?
+  * Governance implications
+  * Where do you even start (e.g. Identify problem, User Requirements, GCEARB, RFP)?
+  * IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item. 
+
 * Co-location w/ private sector - working open
 
 ### Focus -- Culture
@@ -48,10 +54,13 @@ Timeframe: End of June 2018
 Timeframe: End of June 2018
 
 * Using open source software
-  * Working with the outside vendors
-  * How do you manage mentality change / mindset shift
+  * Working with outside vendors
+  * Culture change / mindset shift
   * Collaboration with vendors
   * Privacy dimension
+  * Reduce development time
+  * Reduce licensing costs
+  * Increase reliability (e.g. support, security, etc.)
 
 * Community
   * Contributing code / projects back to the community
