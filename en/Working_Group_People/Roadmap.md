@@ -18,15 +18,21 @@
 
 ### Focus -- Awareness
 * Myth-Busting - info graphic
+  * Why Open Source - why does it matter for our people?
+  * What can they learn?
+  * How will it support their career & marketability?
+  * How will it help their business & organization?
 * Co-location w/ private sector - working open
 
 ### Focus -- Culture
-* Project Aristotle
-* Open Organization
+* Project Aristotle - Elements of effective teams
+* Presentation - Todd (B.C.)
+* Open Organization - Workshops - executive stream & train the trainer for GC Open Source commnity
 
 ### Focus -- Skill
-* Open source work days challenge
-* How to work with open source online sessions
+* Open source work days challenge - single project
+  * Open sourcing a Govt. code repository?
+* How to work with open source online sessions - learning
 
 ## Whitepaper contributions
 
