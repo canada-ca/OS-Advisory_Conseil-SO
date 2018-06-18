@@ -55,6 +55,10 @@ Timeframe: November + Ongoing
 
 ### Outreach - CS and Business
 
+Timeframe: Monthly?
+
+* Agora publicity
 * Digital workspace
+* DevOps
 
 ##

@@ -10,7 +10,7 @@ Our goals will be to addressing challenges or opportunities related to engaging 
   * Change hiring processes in GC? Outside?
   * RedHat - recruitment - always looks at open source
   * Have contributed code used "in real life" / real scenarios, (eg, for a real purpose, instead of video games)
-  * Education - don't even look at educaton anymore (GItHub) - expert in Ottawa
+  * Education - don't even look at education anymore (GItHub) - expert in Ottawa
   * Look at work, not education
 * Career development, career opportunities - how do we encourage people to join in and take part
   * OS Skills broaden opportunities (tools, methodology)
