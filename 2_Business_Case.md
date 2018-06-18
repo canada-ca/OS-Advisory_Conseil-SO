@@ -1,88 +1,90 @@
-# Business Case Phase 1: The Strategic Context
+# Business Case 
 
-## Business Needs and Desired Outcomes
+## Phase 1: The Strategic Context
 
-### Strategic Environment
+### Business Needs and Desired Outcomes
 
-#### Organizational Overview
+#### Strategic Environment
 
-#### Business Need
+##### Organizational Overview
 
-#### Drivers for Change
+##### Business Need
 
-#### Business Outcomes
+##### Drivers for Change
 
-### Strategic Fit
+##### Business Outcomes
 
-### Detailed Description of the Business Need
+#### Strategic Fit
 
-#### Problem/Opportunity Statement
+#### Detailed Description of the Business Need
 
-#### Prioritized Requirements (High Level)
+##### Problem/Opportunity Statement
 
-#### Assumptions
+##### Prioritized Requirements (High Level)
 
-#### Constraints
+##### Assumptions
 
-#### Dependencies
+##### Constraints
 
-### Scope
+##### Dependencies
 
-#### Boundaries
+#### Scope
 
-#### Stakeholder Analysis
+##### Boundaries
 
-# Business Case Phase 2: Analysis and Recommendation
+##### Stakeholder Analysis
 
-## Preliminary Options Analysis
+## Phase 2: Analysis and Recommendation
 
-### Evaluation Criteria
+### Preliminary Options Analysis
 
-### List the Possible Options
+#### Evaluation Criteria
 
-#### The Status Quo
+#### List the Possible Options
 
-#### Describing the Option
+##### The Status Quo
 
-### Screening of Options
+##### Describing the Option
 
-### Rationale for Discounted and Viable Options
+#### Screening of Options
 
-## Viable Options
+#### Rationale for Discounted and Viable Options
 
-### Alignment
+### Viable Options
 
-#### Strategic Alignment
+#### Alignment
 
-#### Alignment with Desired Business Outcomes
+##### Strategic Alignment
 
-### Costs
+##### Alignment with Desired Business Outcomes
 
-### Cost-Benefit Analysis
+#### Costs
 
-### Implementation and Capacity Considerations of Viable Options
+#### Cost-Benefit Analysis
 
-#### Contracting and Procurement
+#### Implementation and Capacity Considerations of Viable Options
 
-#### Schedule and Approach
+##### Contracting and Procurement
 
-#### Impact
+##### Schedule and Approach
 
-#### Capacity
+##### Impact
 
-### Risk
+##### Capacity
 
-#### Option Risk Summary
+#### Risk
 
-### Risk Register
+##### Option Risk Summary
 
-## Benchmark
+#### Risk Register
 
-## Policy and Standard Considerations
+### Benchmark
 
-## Advantages and Disadvantages
+### Policy and Standard Considerations
 
-# Business Case Phase 3:
+### Advantages and Disadvantages
+
+## Business Case Phase 3:
 
 > Reference materials below
 
