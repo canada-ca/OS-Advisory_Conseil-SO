@@ -14,6 +14,20 @@
   * From the business side, do they not want to do open source, is there a misunderstanding of open source is or is guidance necessary?
     * It is a mix of all of these things. In the government of Canada, our procurement has been focused on closed source products. There needs to be further education about the business value of Open Source, our open source day in September will help this.
 
+## Practical Roadmap
+
+### Focus -- Awareness
+* Myth-Busting - info graphic
+* Co-location w/ private sector - working open
+
+### Focus -- Culture
+* Project Aristotle
+* Open Organization
+
+### Focus -- Skill
+* Open source work days challenge
+* How to work with open source online sessions
+
 ## Whitepaper contributions
 
 Timeframe: End of June 2018
@@ -55,10 +69,6 @@ Timeframe: November + Ongoing
 
 ### Outreach - CS and Business
 
-Timeframe: Monthly?
-
-* Agora publicity
 * Digital workspace
-* DevOps
 
 ##
