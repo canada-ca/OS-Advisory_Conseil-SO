@@ -27,7 +27,7 @@ Our goals will be to addressing challenges or opportunities related to engaging 
 * Inviting
 * Transparent
 * High trust
-* Meritocracy - participate, agreee/disagree, best ideas up to the top
+* Meritocracy - participate, agree/disagree, best ideas up to the top
 * Equality
 * Giving recognition
 * Work / life balance / Mental Health (core committers / core devs) (anonymization?)

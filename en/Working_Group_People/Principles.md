@@ -5,7 +5,7 @@
 * Transparent - Might want to have a more detailed label in order to provide clarify. Maybe "Working in the open" 
 * High trust - What is meant by this? High trust of the code and contributor?
 * Equality - Can you clarify?
-* Meritocracy - participate, agreee/disagree, best ideas up to the top
+* Meritocracy - participate, agree/disagree, best ideas up to the top
 * Work / life balance / Mental Health (core committers / core devs) (anonymization?)
 * Make this possible for those who are not as privileged.
 * Community involvement: The Open Source community heavilily relies on various forms of contributions. For example, financial donations, contribution of code, and recognition are some major success drivers. 
