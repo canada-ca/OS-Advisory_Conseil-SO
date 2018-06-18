@@ -1,8 +1,6 @@
 # People - Open Source Advisory Board - introductory meeting
 
-https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/People.md
-
-### Participants
+### [Participants](People.md)
 * Richard - RedHat - Create open and collaborative environment - lots of info to share
 * Harsh - GitHub - Help OSS and business communities collaborate -
 * Shermineh - Blockchain, AI & OSS - Cyrus - startups -
