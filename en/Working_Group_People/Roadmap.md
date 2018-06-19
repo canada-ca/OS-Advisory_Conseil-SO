@@ -19,6 +19,7 @@
 ### Focus -- Awareness
 * Myth-Busting - info graphic - September 2018
 * Co-location w/ private sector - working open - Fall 2018
+  * Additional option would be to go work for a week with another GC partner.
 
 Framework for infographic:
 * What is open source software and how does it work? Talk about the entire eco-system including peer-review process, cummunity contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
@@ -29,13 +30,13 @@ Framework for infographic:
 * How will it help their business & organization?
 * Governance implications
 * Where do you even start (e.g. Identify problem, User Requirements, GCEARB, RFP)?
-* IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item. 
+* IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item.
 
 ### Focus -- Culture
 * Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov) - TBC
   * Additional tentative presentations:
-   * Topics
-   * Presenters
+    * Topics
+    * Presenters
 * Open Organization - Workshops - Fall to Spring 2018-19
    * executive stream
    * train the trainer for GC Open Source commnity
@@ -47,6 +48,8 @@ Resources: Project Aristotle - Elements of effective teams - https://rework.with
   * 1 day per month / seek CIO support
   * Open sourcing a Govt. code repository?
 * How to work with open source sessions - online learning, videos, meet & greet social - Start June 2018, monthly social
+  * Tentative: Work with Canada School of Public Service to provide course (should be leveraging external material as well) - Fall 2018
+
 
 ## Whitepaper contributions
 
