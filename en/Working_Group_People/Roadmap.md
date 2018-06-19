@@ -33,6 +33,9 @@ Framework for infographic:
 
 ### Focus -- Culture
 * Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov) - TBC
+  * Additional tentative presentations:
+    * Topics
+    * Presenters
 * Open Organization - Workshops - Fall to Spring 2018-19
     * executive stream
     * train the trainer for GC Open Source commnity
