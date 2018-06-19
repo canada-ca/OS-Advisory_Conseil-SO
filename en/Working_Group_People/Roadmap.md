@@ -17,8 +17,8 @@
 ## Practical Roadmap
 
 ### Focus -- Awareness
-* Myth-Busting - info graphic
-* Co-location w/ private sector - working open
+* Myth-Busting - info graphic - September 2018
+* Co-location w/ private sector - working open - Fall 2018
 
 Framework for infographic:
   * What is open source software and how does it work? Talk about the entire eco-system including peer-review process, cummunity contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
@@ -32,18 +32,18 @@ Framework for infographic:
   * IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item. 
 
 ### Focus -- Culture
-* Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov)
-* Open Organization - Workshops 
+* Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov) - TBC
+* Open Organization - Workshops - Fall to Spring 2018-19
     * executive stream
     * train the trainer for GC Open Source commnity
 
 Resources: Project Aristotle - Elements of effective teams - https://rework.withgoogle.com/print/guides/5721312655835136/
 
 ### Focus -- Skill
-* Open source work days challenge - single project
+* Open source work days challenge - single project - Kick off Open Source Day - Sept 2018
   * 1 day per month / seek CIO support
   * Open sourcing a Govt. code repository?
-* How to work with open source sessions - online learning, videos, meet & greet social
+* How to work with open source sessions - online learning, videos, meet & greet social - Start June 2018, monthly social
 
 ## Whitepaper contributions
 
