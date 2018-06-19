@@ -18,6 +18,9 @@
 
 ### Focus -- Awareness
 * Myth-Busting - info graphic
+* Co-location w/ private sector - working open
+
+Framework for infographic:
   * What is open source software and how does it work? Talk about the entire eco-system including peer-review process, cummunity contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
   * Why Open Source - why does it matter for our people?
   * What can they learn?
@@ -28,17 +31,19 @@
   * Where do you even start (e.g. Identify problem, User Requirements, GCEARB, RFP)?
   * IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item. 
 
-* Co-location w/ private sector - working open
-
 ### Focus -- Culture
-* Project Aristotle - Elements of effective teams
-* Presentation - Todd (B.C.)
-* Open Organization - Workshops - executive stream & train the trainer for GC Open Source commnity
+* Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov)
+* Open Organization - Workshops 
+    * executive stream
+    * train the trainer for GC Open Source commnity
+
+Resources: Project Aristotle - Elements of effective teams - https://rework.withgoogle.com/print/guides/5721312655835136/
 
 ### Focus -- Skill
 * Open source work days challenge - single project
+  * 1 day per month / seek CIO support
   * Open sourcing a Govt. code repository?
-* How to work with open source online sessions - learning
+* How to work with open source sessions - online learning, videos, meet & greet social
 
 ## Whitepaper contributions
 
