@@ -38,8 +38,8 @@ Framework for infographic:
     * Topics
     * Presenters
 * Open Organization - Workshops - Fall to Spring 2018-19
-   * executive stream
-   * train the trainer for GC Open Source commnity
+  * executive stream
+  * train the trainer for GC Open Source commnity
 
 Resources: Project Aristotle - Elements of effective teams - https://rework.withgoogle.com/print/guides/5721312655835136/
 
