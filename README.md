@@ -20,10 +20,10 @@ Ce Conseil compte deux principaux objectifs. Premièrement, il sert à tenir une
 
 ## Table des matières
 
-* [À propos](fr/1_A_propos.md)
-* [Rencontres](fr/Rencontres/)
-* [Analyse de rentabilisation](fr/2_Analyse_rentabilisation.md)
-* [Inventaire du logiciel libre](fr/3_Inventaire_libre.md)
-* [FAQ](fr/4_FAQ.md)
-* [Évaluations](Assessments)
-* [Ressources](fr/Ressources/ressources.md)
+- [À propos](fr/1_A_propos.md)
+- [Rencontres](fr/Rencontres/)
+- [Analyse de rentabilisation](fr/2_Analyse_rentabilisation.md)
+- [Inventaire du logiciel libre](fr/3_Inventaire_libre.md)
+- [FAQ](fr/4_FAQ.md)
+- [Évaluations](Assessments)
+- [Ressources](fr/Ressources/ressources.md)
