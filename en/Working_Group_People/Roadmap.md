@@ -1,6 +1,6 @@
 # Roadmap
 
-## Discussion points from [June 6 2018 meeting](June%206%202018%20WG%20meeting.md)
+## Discussion points from [June 6 2018 meeting](2018-06-06.md)
 
 * We need to pick key milestones for this year for this working group.
   * Possible key milestones this year are to increase awareness of open source and it's value, build skills in open source tools and dev/ops and get non-technical individuals engaged in open source methodology(community engagement)
