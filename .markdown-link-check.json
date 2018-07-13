@@ -1,0 +1,19 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "http://intranet.canada.ca/"
+    },
+    {
+      "pattern": "http://www.gcpedia.gc.ca/"
+    },
+    {
+      "pattern": "https://www.amazon.ca/"
+    },
+    {
+      "pattern": "https://digitalservices.georgia.gov"
+    },
+    {
+      "pattern": "https://gcconnex.gc.ca"
+    }
+  ]
+}

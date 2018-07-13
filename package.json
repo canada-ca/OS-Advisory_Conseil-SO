@@ -22,6 +22,6 @@
     "chalk": "^2.4.1",
     "glob": "^7.1.2",
     "markdown-link-check": "^3.6.2",
-    "markdownlint-cli": "^0.8.2"
+    "markdownlint-cli": "^0.10.0"
   }
 }
