@@ -28,27 +28,27 @@
 <table class="tg">
   <tr>
     <th class="tg-uys7">Heure</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#volet-regles">Règles</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#volet-outils">Outils</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#volet-personnes">Personnes</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./open-first-day-agenda.md#volet-non-conference">Non-conférence</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-regles">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-outils">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-personnes">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.md#bienvenue">Bienvenue</a></td>
+    <td class="tg-uys7" colspan="5"><a href="./journee-ouverte-en-premier-agenda.md#bienvenue">Bienvenue</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.md#mot-douverture">Mot d'ouverture</a><br><a href="./open-first-day-agenda.md#presentation-principale">Présentation principale</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouverte-en-premier-agenda.md#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouverte-en-premier-agenda.md#presentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.md#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.md#volet-non-conference">Setup</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouverte-en-premier-agenda.md#panel">Panel</a></td>
+    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
@@ -65,11 +65,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Sujet 1</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 1</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -82,11 +82,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Sujet 2</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 2</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -112,11 +112,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-working-with-git">1. Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-working-with-git">1. Working with Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Sujet 3</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
@@ -130,9 +130,9 @@
   <tr>
     <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
