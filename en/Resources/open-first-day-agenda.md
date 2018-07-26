@@ -13,6 +13,131 @@
 - Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
 - Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
 
+## Structure
+
+<!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
+
+<table class="tg">
+  <tr>
+    <th class="tg-uys7">Time</th>
+    <th class="tg-uys7">Executive/General</th>
+    <th class="tg-uys7">Rules</th>
+    <th class="tg-uys7">Tools</th>
+    <th class="tg-uys7">People</th>
+    <th class="tg-c3ow">Unconference</th>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:30</td>
+    <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.md#welcome">Welcome</a></td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:45</td>
+    <td class="tg-uys7" colspan="5" rowspan="2">Opening Remarks<br>Keynote</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">09:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:15</td>
+    <td class="tg-c3ow" colspan="4" rowspan="3">Panel</td>
+    <td class="tg-c3ow" rowspan="5">Setup</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:30</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:00</td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:15</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">12:30</td>
+    <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">12:45</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">13:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:15</td>
+  </tr>
+</table>
+
 ## Main Stream
 
 ### Welcome
@@ -275,137 +400,3 @@ It is generally more around sharing and engaging directly with the help of a tra
 
 Resource: [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
-
-## Structure
-
-<!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
-<!--
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
-.tg .tg-uys7{border-color:inherit;text-align:center;vertical-align:center}
-</style>
--->
-
-<table class="tg">
-  <tr>
-    <th class="tg-uys7">Time</th>
-    <th class="tg-uys7">Executive/General</th>
-    <th class="tg-uys7">Rules</th>
-    <th class="tg-uys7">Tools</th>
-    <th class="tg-uys7">People</th>
-    <th class="tg-c3ow">Unconference</th>
-  </tr>
-  <tr>
-    <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.md#welcome">Welcome</a></td>
-  </tr>
-  <tr>
-    <td class="tg-uys7">08:45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2">Opening Remarks<br>Keynote</td>
-  </tr>
-  <tr>
-    <td class="tg-uys7">09:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">09:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3">Panel</td>
-    <td class="tg-c3ow" rowspan="5">Setup</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">09:30</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">09:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11:15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11:15</td>
-  </tr>
-  <tr>
-    <td class="tg-uys7">12:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
-  </tr>
-  <tr>
-    <td class="tg-uys7">12:45</td>
-  </tr>
-  <tr>
-    <td class="tg-uys7">13:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13:15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14:15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">15:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">15:15</td>
-  </tr>
-</table>
