@@ -180,7 +180,7 @@ TBC (Alex Benay, Marc Brouillard, etc.)
 
 Suggested:
 
-- Digital Strategy alignment with Open Standards and Open Source Solutions
+- Digital Strategy alignment with Open Source Software and Open Standards
   - Use and contribute to Open Source Software
   - Work in the open
 
