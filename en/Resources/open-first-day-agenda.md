@@ -2,9 +2,15 @@
 
 [Français](../../fr/Ressources/journee-ouverte-en-premier-agenda.md)
 
-## Venue
+> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions.
 
-### Location
+## Logistics
+
+### Date
+
+(Tentative) September 28, 2018
+
+### Venue
 
 (Tentative) Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 
@@ -23,9 +29,9 @@
   <tr>
     <th class="tg-uys7">Time</th>
     <th class="tg-uys7"><a href="./open-first-day-agenda.md#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules">Rules</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools">Tools</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people">People</a><br>(D)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules-stream">Rules</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools-stream">Tools</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people-stream">People</a><br>(D)</th>
     <th class="tg-c3ow"><a href="./open-first-day-agenda.md#unconference-stream">Unconference</a><br>(E)</th>
   </tr>
   <tr>
@@ -152,7 +158,7 @@
 
 Master of Ceremony
 
-#### Topic
+#### Description
 
 House cleaning
 
@@ -168,11 +174,11 @@ House cleaning
 
 TBC (Alex Benay, Marc Brouillard, etc.)
 
-#### Topic
+#### Description
 
 Suggested:
 
-- Digital Strategy alignment with Open Standards and Open Source Solutions
+- Digital Strategy alignment with Open Source Software and Open Standards
   - Use and contribute to Open Source Software
   - Work in the open
 
@@ -188,7 +194,7 @@ Suggested:
 
 TBC: Possibly Noureen Syed
 
-#### Topic
+#### Description
 
 Why using and contributing to Open Source Software is critical for our success.
 
@@ -244,7 +250,7 @@ Looking for interested participants
 
 Workshop (?)
 
-#### Topic
+#### Description
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
@@ -264,7 +270,7 @@ Looking for interested participants (LAC/ESDC?)
 
 Workshop
 
-#### Topic
+#### Description
 
 How your business and IT need to align in order to release open source
 software.
@@ -285,7 +291,7 @@ Looking for interested participants
 
 Workshop/Presentation (?)
 
-#### Topic
+#### Description
 
 Open by default:
 
@@ -311,7 +317,7 @@ Looking for interested participants – Suggestion Montreal or PSPC
 
 Workshop
 
-#### Topic
+#### Description
 
 How can you:
 
@@ -335,7 +341,7 @@ TBC – Suggestion would be joint presentation from TBS, Justice.
 
 Workshop
 
-#### Topic
+#### Description
 
 Work through:
 
@@ -361,7 +367,7 @@ TBC - CDS, Github
 
 Workshop
 
-#### Topic
+#### Description
 
 [Back to Schedule](#schedule)
 
@@ -379,7 +385,7 @@ TBC - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
 
 Workshop
 
-#### Topic
+#### Description
 
 [Back to Schedule](#schedule)
 
@@ -395,7 +401,7 @@ TBC (LAC - Co-Lab)
 
 Workshop
 
-#### Topic
+#### Description
 
 Explore how your business and IT need to align in order to open source
 software
@@ -413,7 +419,7 @@ Government; Private company like Red Hat, Yoppworks, etc.; Kirsten Burgard)
 
 Workshop/Presentation
 
-#### Topic
+#### Description
 
 This would be a joint Executive/People session. See Executive: Open by
 default session.
