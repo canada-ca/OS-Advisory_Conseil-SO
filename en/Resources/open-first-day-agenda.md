@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4">1. Crowd-sourcing contributions – Co-Lab</td>
