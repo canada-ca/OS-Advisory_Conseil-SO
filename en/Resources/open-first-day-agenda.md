@@ -1,7 +1,6 @@
 # Agenda
 
 ## Venue
-==========
 
 ### Location
 
@@ -16,7 +15,6 @@ Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 -   Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
 
 ## Main Stream
-=======================
 
 ### Welcome
 ------------------------------------------------
@@ -33,6 +31,7 @@ Master of Ceremony
 
 House cleaning
 
+------------------------------------
 ### Opening Remarks
 ------------------------------------------------------
 
@@ -52,8 +51,9 @@ Suggested:
     -   Use and contribute to Open Source Software
     -   Work in the open
 
+-----------------------------
 ### Keynote
----------------------------------------------------
+-----------------------------
 
 #### Duration
 
@@ -67,6 +67,7 @@ TBC: Possibly Noureen Syed
 
 Why using and contributing to Open Source Software is critical for our success.
 
+-------------------
 ### Panel
 --------------------------------
 
