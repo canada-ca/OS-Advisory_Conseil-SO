@@ -278,6 +278,16 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
 ## Structure
 
+<!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-uys7{border-color:inherit;text-align:center}
+</style>
+
 <table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
@@ -289,19 +299,19 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5"></td>
+    <td class="tg-uys7" colspan="5">Welcome</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"></td>
+    <td class="tg-uys7" colspan="5" rowspan="2">Opening Remarks<br>Keynote</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="5"></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3">Panel</td>
+    <td class="tg-c3ow" rowspan="5">Setup</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
@@ -345,6 +355,40 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-c3ow">12:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">12:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">12:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:15</td>
   </tr>
 </table>
 
