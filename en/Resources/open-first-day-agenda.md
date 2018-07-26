@@ -164,23 +164,8 @@ Workshop
 
 #### Topic
 
-/*How your business and IT need to align in order to release open source
+How your business and IT need to align in order to release open source
 software.
-
-1.  []{#anchor-28}[]{#anchor-29}GC Digital Standards (55 minutes)
-
-### []{#anchor-30}Speaker
-
--   TBC
-
-### []{#anchor-31}Format
-
--   Workshop
-
-### []{#anchor-32}Topic
-
--   Applying the standards in an organisation, role of Enterprise
-    Architecture Review Board, submissions*/
 
 ## Rules Stream
 
