@@ -31,9 +31,9 @@
   <tr>
     <th class="tg-uys7">Time</th>
     <th class="tg-uys7"><a href="./open-first-day-agenda.md#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules">Rules</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools">Tools</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people">People</a><br>(D)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules-stream">Rules</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools-stream">Tools</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people-stream">People</a><br>(D)</th>
     <th class="tg-c3ow"><a href="./open-first-day-agenda.md#unconference-stream">Unconference</a><br>(E)</th>
   </tr>
   <tr>
