@@ -334,20 +334,17 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
     <td class="tg-c3ow">11:15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:30</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-uys7">11:30</td>
+    <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">12:00</td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-uys7">11:45</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">12:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">12:15</td>
   </tr>
 </table>
 
