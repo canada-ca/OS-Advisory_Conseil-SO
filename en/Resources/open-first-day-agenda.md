@@ -2,9 +2,17 @@
 
 [Français](../../fr/Ressources/journee-ouverte-en-premier-agenda.md)
 
-## Venue
+> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics.
 
-### Location
+> We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions.
+
+## Logistics
+
+### Date
+
+(Tentative) September 28, 2018
+
+### Venue
 
 (Tentative) Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 

@@ -2,63 +2,71 @@
 
 [English](../../en/Resources/open-first-day-agenda.md)
 
-## Venue
+> Veuillez noter que l'agenda présent est provisoire. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances.
 
-### Location
+> Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues.
+
+## Logistiques
+
+### Date
+
+(Provisoire) 28 septembre 2018
+
+### Endroit
 
 (Provisoire) Bayview Yards, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
 
-### Room Setup
+### Configuration des salles
 
 - Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes
-- Salle de formation: Medium size training room hosting up to 40, possibly 60 people
-- Salle de réunion: Medium size meeting room hosting up to 24, possibly 30 people
-- Salles A et B: Two 6 people meeting rooms for small meetings and logistics team
+- Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
+- Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
+- Salles A et B: Deux salles de rencontre pour 6 personnes
 
-## Schedule
+## Horaire
 
 <!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
 
 <table class="tg">
   <tr>
-    <th class="tg-uys7">Time</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules">Rules</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools">Tools</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people">People</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./open-first-day-agenda.md#unconference-stream">Unconference</a><br>(E)</th>
+    <th class="tg-uys7">Heure</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#executivegeneral-stream">Executif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./open-first-day-agenda.md#unconference-stream">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
-    <td class="tg-uys7">08:30</td>
+    <td class="tg-uys7">8 h 30</td>
     <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.md#welcome">Welcome</a></td>
   </tr>
   <tr>
-    <td class="tg-uys7">08:45</td>
+    <td class="tg-uys7">8 h 45</td>
     <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.md#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.md#keynote">Keynote</a></td>
   </tr>
   <tr>
-    <td class="tg-uys7">09:00</td>
+    <td class="tg-uys7">9 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">09:15</td>
+    <td class="tg-c3ow">9 h 15</td>
     <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.md#panel">Panel</a></td>
     <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.md#unconference-stream">Setup</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">09:30</td>
+    <td class="tg-c3ow">9 h 30</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">09:45</td>
+    <td class="tg-c3ow">9 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:00</td>
+    <td class="tg-c3ow">10 h 00</td>
     <td class="tg-c3ow" colspan="4" rowspan="2">Break</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:15</td>
+    <td class="tg-c3ow">10 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow">10 h 30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -66,16 +74,16 @@
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:45</td>
+    <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:00</td>
+    <td class="tg-c3ow">11 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:15</td>
+    <td class="tg-c3ow">11 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow">10 h 30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -83,29 +91,29 @@
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 2</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:45</td>
+    <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:00</td>
+    <td class="tg-c3ow">11 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:15</td>
+    <td class="tg-c3ow">11 h 15</td>
   </tr>
   <tr>
-    <td class="tg-uys7">12:30</td>
+    <td class="tg-uys7">12 h 30</td>
     <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-uys7">12:45</td>
+    <td class="tg-uys7">12 h 45</td>
   </tr>
   <tr>
-    <td class="tg-uys7">13:00</td>
+    <td class="tg-uys7">13 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13:15</td>
+    <td class="tg-c3ow">13 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13:30</td>
+    <td class="tg-c3ow">13 h 30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-working-with-git">1. Working with Git</a></td>
@@ -113,16 +121,16 @@
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 3</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13:45</td>
+    <td class="tg-c3ow">13 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14:00</td>
+    <td class="tg-c3ow">14 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14:15</td>
+    <td class="tg-c3ow">14 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14:30</td>
+    <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
@@ -130,17 +138,17 @@
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14:45</td>
+    <td class="tg-c3ow">14 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15:00</td>
+    <td class="tg-c3ow">15 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15:15</td>
+    <td class="tg-c3ow">15 h 15</td>
   </tr>
 </table>
 
-## Main Stream
+## Volet Général
 
 ### Welcome
 
@@ -156,7 +164,7 @@ Master of Ceremony
 
 House cleaning
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### Opening Remarks
 
@@ -176,7 +184,7 @@ Suggested:
   - Use and contribute to Open Source Software
   - Work in the open
 
-    [Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### Keynote
 
@@ -192,7 +200,7 @@ TBC: Possibly Noureen Syed
 
 Why using and contributing to Open Source Software is critical for our success.
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### Panel
 
@@ -226,7 +234,7 @@ Moderator will most likely be the keynote speaker.
     - Open culture and organisation
     - Benefit to society
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ## Executive/General Stream
 
@@ -248,7 +256,7 @@ Workshop (?)
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### 2. Releasing GC Source Code Open
 
@@ -269,7 +277,7 @@ Workshop
 How your business and IT need to align in order to release open source
 software.
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### 3. Open by default: What is in scope?
 
@@ -293,7 +301,7 @@ Open by default:
 - Who are the different actors?
 - How can private sector and citizen actors leverage this position?
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ## Rules Stream
 
@@ -319,7 +327,7 @@ How can you:
 - Choose the right professional services for your project?
 - Assess the right technologies for your needs?
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### 2. Managing Intellectual Property and Licences
 
@@ -343,7 +351,7 @@ Work through:
 - Understanding the compatible licences of external projects with yours;
 - Understanding how you can contribute to third party open source software as a Government of Canada employee
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ## Tools Stream
 
@@ -363,7 +371,7 @@ Workshop
 
 #### Topic
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### 2. Orchestration and Hybrid Clouds
 
@@ -381,7 +389,7 @@ Workshop
 
 #### Topic
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ## People Stream
 
@@ -400,7 +408,7 @@ Workshop
 Explore how your business and IT need to align in order to open source
 software
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ### 2. Working in the open
 
@@ -418,7 +426,7 @@ Workshop/Presentation
 This would be a joint Executive/People session. See Executive: Open by
 default session.
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
 
 ## Unconference Stream
 
@@ -428,4 +436,4 @@ It is generally more around sharing and engaging directly with the help of a tra
 External Resource: [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
-[Back to Schedule](#schedule)
+[Retour à l'Horaire](#horaire)
