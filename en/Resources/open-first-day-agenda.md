@@ -142,7 +142,7 @@
 
 ### Welcome
 
-[Back to Schedule](##Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -194,7 +194,7 @@ Why using and contributing to Open Source Software is critical for our success.
 
 ### Panel
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -230,7 +230,7 @@ Moderator will most likely be the keynote speaker.
 
 ### 1. Open Source Business Models
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -250,7 +250,7 @@ Explore the various open source software industry business models and procuremen
 
 ### 2. Open by default: What is in scope?
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -274,7 +274,7 @@ Open by default:
 
 ### 3. Releasing GC Source Code Open
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -297,7 +297,7 @@ software.
 
 ### 1. Procuring Open Source Software
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -322,7 +322,7 @@ How can you:
 
 ### 2. Managing Intellectual Property and Licences
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -348,7 +348,7 @@ Work through:
 
 ### 1. Working with Git
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -366,7 +366,7 @@ Workshop
 
 # 2. Orchestration and Hybrid Clouds
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -386,7 +386,7 @@ Workshop
 
 ### 1. Crowd-sourcing contributions – Co-Lab
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Speaker
 
@@ -403,7 +403,7 @@ software
 
 ### 2. Working in the open
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 #### Speaker
 
@@ -421,7 +421,7 @@ default session.
 
 ### Unconference Stream
 
-[Back to Schedule](#Schedule)
+[Back to Schedule](#schedule)
 
 People gather and decide together the topics they would like to address.
 It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
