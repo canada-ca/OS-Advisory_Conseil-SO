@@ -4,15 +4,14 @@
 
 ### Location
 
-(Tentative)
-Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
+(Tentative) Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 
 ### Room Setup
 
--   Foundry: Large open room hosting up to 250 people
--   Training room: Medium size training room hosting up to 40, possibly 60 people
--   Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
--   Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
+- Foundry: Large open room hosting up to 250 people
+- Training room: Medium size training room hosting up to 40, possibly 60 people
+- Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
+- Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
 
 ## Main Stream
 
@@ -33,7 +32,7 @@ House cleaning
 
 ------------------------------------
 ### Opening Remarks
-------------------------------------------------------
+------------------------------------
 
 #### Duration
 
@@ -51,9 +50,9 @@ Suggested:
     -   Use and contribute to Open Source Software
     -   Work in the open
 
------------------------------
+------------------------------------
 ### Keynote
------------------------------
+------------------------------------
 
 #### Duration
 
@@ -67,9 +66,9 @@ TBC: Possibly Noureen Syed
 
 Why using and contributing to Open Source Software is critical for our success.
 
--------------------
+------------------------------------
 ### Panel
---------------------------------
+------------------------------------
 
 #### Duration
 
@@ -102,9 +101,10 @@ Moderator will most likely be the keynote speaker.
         - Benefit to society
 
 ## Executive/General stream
-==============================
 
+------------------------------------
 ### 1. Open Source Business Models
+------------------------------------
 
 #### Duration
 
@@ -122,7 +122,9 @@ Workshop (?)
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
+------------------------------------
 ### 2. Open by default: What is in scope?
+------------------------------------
 
 #### Duration
 
@@ -144,7 +146,9 @@ Open by default:
 -   Who are the different actors?
 -   How can private sector and citizen actors leverage this position?
 
+------------------------------------
 ### 3. Releasing GC Source Code Open
+------------------------------------
 
 #### Duration
 
@@ -179,10 +183,10 @@ software.
     Architecture Review Board, submissions*/
 
 ## Rules Stream
-==========================
 
+------------------------------------
 ### 1. Procuring Open Source Software
-----------------
+------------------------------------
 
 #### Duration
 
@@ -204,9 +208,13 @@ How can you:
 -   Choose the right professional services for your project?
 -   Assess the right technologies for your needs?
 
-[]{#anchor-39}
+------------------------------------
+### 2. Managing Intellectual Property and Licences
+------------------------------------
 
-### 2. Managing IP and Licences (55 minutes)
+#### Duration
+
+55 minutes
 
 #### Speaker
 
@@ -224,16 +232,19 @@ Work through:
 -   Understanding the compatible licences of external projects with yours;
 -   Understanding how you can contribute to third party open source software as a Government of Canada employee
 
-[]{#anchor-44}Tools Stream
-==========================
+## Tools Stream
 
-Choose from:
+------------------------------------
+### 1. Working with Git
+------------------------------------
 
-1.  []{#anchor-45}[]{#anchor-46}Hadoop? (TBC) (55 minutes)
+#### Duration
+
+55 minutes
 
 ### Speaker
 
-TBC
+TBC - CDS, Github
 
 ### Format
 
@@ -241,11 +252,17 @@ Workshop
 
 ### Topic
 
-1.  []{#anchor-47}[]{#anchor-48}\* Working with Git (55 minutes)
+------------------------------------
+# 2. Orchestration and Hybrid Clouds
+------------------------------------
+
+#### Duration
+
+55 minutes
 
 ### Speaker
 
-TBC
+TBC - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
 
 ### Format
 
@@ -253,98 +270,55 @@ Workshop
 
 ### Topic
 
-1.  []{#anchor-49}[]{#anchor-50}Operational DB: Going Open Source (55
-    minutes)
 
-### Speaker
+## People Stream
 
-TBC
+------------------------------------
+### 1.  Crowd-sourcing contributions and releasing open source software – Co-Lab (55 minutes)
+------------------------------------
 
-### Format
+#### Speaker
 
-Workshop
+TBC (LAC - Co-Lab)
 
-### Topic
-
-[]{#anchor-51}
-
-1.  []{#anchor-52}\* Orchestration: Kubernetes (55 minutes)
-
-### Speaker
-
-TBC
-
-### Format
+#### Format
 
 Workshop
 
-### Topic
-
-1.  []{#anchor-53}Prototyping with OSS (55 minutes)
-
-### Speaker
-
-TBC
-
-### Format
-
-Workshop
-
-### Topic
-
-[]{#anchor-54}
-
-[]{#anchor-55}People Stream
-===========================
-
-Choose from:
-
-1.  []{#anchor-56}[]{#anchor-57}\* Crowd-sourcing contributions and open
-    source software – Co-Lab (55 minutes)
-
-### Speaker
-
-TBC (LAC?)
-
-### Format
-
-Workshop
-
-### Topic
+#### Topic
 
 Explore how your business and IT need to align in order to open source
 software
 
-1.  []{#anchor-58}[]{#anchor-59}\* Working in the open (55 minutes)
+------------------------------------
+### 2. Working in the open (55 minutes)
+------------------------------------
 
-### Speaker
+#### Speaker
 
-TBC (Private company like Red Hat? Kirsten Burgard? Open Gov Team? Open
-Government?)
+TBC (Open Gov Team; Open
+Government; Private company like Red Hat, Yoppworks, etc.; Kirsten Burgard)
 
-### Format
+#### Format
 
 Workshop/Presentation
 
-### Topic
+#### Topic
 
-This would be a joint Executive/People session. See
-[*Executi*[]{#anchor-60}[]{#anchor-61}*ve: Open by
-default*](#_*_Open_by) session.
+This would be a joint Executive/People session. See Executive: Open by
+default session.
 
-[]{#anchor-62}
+### Unconference Stream
 
-[]{#anchor-63}Unconference Stream
-=================================
 
 People gather and decide together the topics they would like to address.
-It is generally more around sharing and engaging.
+It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
 
-Resource: [*Unconference in a
-box*](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
+Resource: [Unconference in a
+box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
-[]{#anchor-64}Structure
-=======================
+## Structure
+
 
   ------- ------------------------------------------------------------------ ------------------------------------- ------------------------------------ -------------------------------------------- --------------
   Time    Executive                                                          Rules                                 Tools                                People                                       Unconference
