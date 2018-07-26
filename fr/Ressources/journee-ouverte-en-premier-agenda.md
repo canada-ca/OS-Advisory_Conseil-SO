@@ -10,10 +10,10 @@
 
 ### Room Setup
 
-- Foundry: Large open room hosting up to 250 people
-- Training room: Medium size training room hosting up to 40, possibly 60 people
-- Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
-- Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
+- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes
+- Salle de formation: Medium size training room hosting up to 40, possibly 60 people
+- Salle de réunion: Medium size meeting room hosting up to 24, possibly 30 people
+- Salles A et B: Two 6 people meeting rooms for small meetings and logistics team
 
 ## Schedule
 
