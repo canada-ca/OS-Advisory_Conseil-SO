@@ -13,7 +13,7 @@
 - Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
 - Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
 
-## Structure
+## Schedule
 
 <!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
 
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2">Opening Remarks<br>Keynote</td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.md#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.md#keynote">Keynote</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
@@ -142,6 +142,8 @@
 
 ### Welcome
 
+[Back to Schedule](#Schedule)
+
 #### Duration
 
 5-10 minutes
@@ -155,6 +157,8 @@ Master of Ceremony
 House cleaning
 
 ### Opening Remarks
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -174,6 +178,8 @@ Suggested:
 
 ### Keynote
 
+[Back to Schedule](#Schedule)
+
 #### Duration
 
 20-25 minutes
@@ -187,6 +193,8 @@ TBC: Possibly Noureen Syed
 Why using and contributing to Open Source Software is critical for our success.
 
 ### Panel
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -222,6 +230,8 @@ Moderator will most likely be the keynote speaker.
 
 ### 1. Open Source Business Models
 
+[Back to Schedule](#Schedule)
+
 #### Duration
 
 55 minutes
@@ -239,6 +249,8 @@ Workshop (?)
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
 ### 2. Open by default: What is in scope?
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -262,6 +274,8 @@ Open by default:
 
 ### 3. Releasing GC Source Code Open
 
+[Back to Schedule](#Schedule)
+
 #### Duration
 
 55 minutes
@@ -282,6 +296,8 @@ software.
 ## Rules Stream
 
 ### 1. Procuring Open Source Software
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -305,6 +321,8 @@ How can you:
 
 
 ### 2. Managing Intellectual Property and Licences
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -330,6 +348,8 @@ Work through:
 
 ### 1. Working with Git
 
+[Back to Schedule](#Schedule)
+
 #### Duration
 
 55 minutes
@@ -345,6 +365,8 @@ Workshop
 ### Topic
 
 # 2. Orchestration and Hybrid Clouds
+
+[Back to Schedule](#Schedule)
 
 #### Duration
 
@@ -362,7 +384,9 @@ Workshop
 
 ## People Stream
 
-### 1.  Crowd-sourcing contributions and releasing open source software – Co-Lab (55 minutes)
+### 1. Crowd-sourcing contributions – Co-Lab
+
+[Back to Schedule](#Schedule)
 
 #### Speaker
 
@@ -377,7 +401,9 @@ Workshop
 Explore how your business and IT need to align in order to open source
 software
 
-### 2. Working in the open (55 minutes)
+### 2. Working in the open
+
+[Back to Schedule](#Schedule)
 
 #### Speaker
 
@@ -395,8 +421,10 @@ default session.
 
 ### Unconference Stream
 
+[Back to Schedule](#Schedule)
+
 People gather and decide together the topics they would like to address.
 It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
 
-Resource: [Unconference in a
+External Resource: [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
