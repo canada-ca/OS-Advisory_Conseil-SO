@@ -160,7 +160,7 @@
 
 Master of Ceremony
 
-#### Topic
+#### Description
 
 House cleaning
 
@@ -176,7 +176,7 @@ House cleaning
 
 TBC (Alex Benay, Marc Brouillard, etc.)
 
-#### Topic
+#### Description
 
 Suggested:
 
@@ -196,7 +196,7 @@ Suggested:
 
 TBC: Possibly Noureen Syed
 
-#### Topic
+#### Description
 
 Why using and contributing to Open Source Software is critical for our success.
 
@@ -252,7 +252,7 @@ Looking for interested participants
 
 Workshop (?)
 
-#### Topic
+#### Description
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
@@ -272,7 +272,7 @@ Looking for interested participants (LAC/ESDC?)
 
 Workshop
 
-#### Topic
+#### Description
 
 How your business and IT need to align in order to release open source
 software.
@@ -293,7 +293,7 @@ Looking for interested participants
 
 Workshop/Presentation (?)
 
-#### Topic
+#### Description
 
 Open by default:
 
@@ -319,7 +319,7 @@ Looking for interested participants – Suggestion Montreal or PSPC
 
 Workshop
 
-#### Topic
+#### Description
 
 How can you:
 
@@ -343,7 +343,7 @@ TBC – Suggestion would be joint presentation from TBS, Justice.
 
 Workshop
 
-#### Topic
+#### Description
 
 Work through:
 
@@ -369,7 +369,7 @@ TBC - CDS, Github
 
 Workshop
 
-#### Topic
+#### Description
 
 [Back to Schedule](#schedule)
 
@@ -387,7 +387,7 @@ TBC - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
 
 Workshop
 
-#### Topic
+#### Description
 
 [Back to Schedule](#schedule)
 
@@ -403,7 +403,7 @@ TBC (LAC - Co-Lab)
 
 Workshop
 
-#### Topic
+#### Description
 
 Explore how your business and IT need to align in order to open source
 software
@@ -421,7 +421,7 @@ Government; Private company like Red Hat, Yoppworks, etc.; Kirsten Burgard)
 
 Workshop/Presentation
 
-#### Topic
+#### Description
 
 This would be a joint Executive/People session. See Executive: Open by
 default session.
