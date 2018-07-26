@@ -16,7 +16,6 @@
 ## Main Stream
 
 ### Welcome
-------------------------------------------------
 
 #### Duration
 
@@ -30,9 +29,7 @@ Master of Ceremony
 
 House cleaning
 
-------------------------------------
 ### Opening Remarks
-------------------------------------
 
 #### Duration
 
@@ -50,9 +47,7 @@ Suggested:
     -   Use and contribute to Open Source Software
     -   Work in the open
 
-------------------------------------
 ### Keynote
-------------------------------------
 
 #### Duration
 
@@ -66,9 +61,7 @@ TBC: Possibly Noureen Syed
 
 Why using and contributing to Open Source Software is critical for our success.
 
-------------------------------------
 ### Panel
-------------------------------------
 
 #### Duration
 
@@ -102,9 +95,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Executive/General stream
 
-------------------------------------
 ### 1. Open Source Business Models
-------------------------------------
 
 #### Duration
 
@@ -122,9 +113,7 @@ Workshop (?)
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
-------------------------------------
 ### 2. Open by default: What is in scope?
-------------------------------------
 
 #### Duration
 
@@ -146,9 +135,7 @@ Open by default:
 -   Who are the different actors?
 -   How can private sector and citizen actors leverage this position?
 
-------------------------------------
 ### 3. Releasing GC Source Code Open
-------------------------------------
 
 #### Duration
 
@@ -169,9 +156,7 @@ software.
 
 ## Rules Stream
 
-------------------------------------
 ### 1. Procuring Open Source Software
-------------------------------------
 
 #### Duration
 
@@ -193,9 +178,8 @@ How can you:
 -   Choose the right professional services for your project?
 -   Assess the right technologies for your needs?
 
-------------------------------------
+
 ### 2. Managing Intellectual Property and Licences
-------------------------------------
 
 #### Duration
 
@@ -219,9 +203,7 @@ Work through:
 
 ## Tools Stream
 
-------------------------------------
 ### 1. Working with Git
-------------------------------------
 
 #### Duration
 
@@ -237,9 +219,7 @@ Workshop
 
 ### Topic
 
-------------------------------------
 # 2. Orchestration and Hybrid Clouds
-------------------------------------
 
 #### Duration
 
@@ -255,12 +235,9 @@ Workshop
 
 ### Topic
 
-
 ## People Stream
 
-------------------------------------
 ### 1.  Crowd-sourcing contributions and releasing open source software – Co-Lab (55 minutes)
-------------------------------------
 
 #### Speaker
 
@@ -275,9 +252,7 @@ Workshop
 Explore how your business and IT need to align in order to open source
 software
 
-------------------------------------
 ### 2. Working in the open (55 minutes)
-------------------------------------
 
 #### Speaker
 
@@ -295,7 +270,6 @@ default session.
 
 ### Unconference Stream
 
-
 People gather and decide together the topics they would like to address.
 It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
 
@@ -304,8 +278,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
 ## Structure
 
-
-  ------- ------------------------------------------------------------------ ------------------------------------- ------------------------------------ -------------------------------------------- --------------
+  ------- ------------------------------ -  -------- --------------
   Time    Executive                                                          Rules                                 Tools                                People                                       Unconference
 
   08:30   Welcome
@@ -369,4 +342,4 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   15:00
 
   15:15
-  ------- ------------------------------------------------------------------ ------------------------------------- ------------------------------------ -------------------------------------------- --------------
+  ------- ------------------------------ -  -------- --------------
