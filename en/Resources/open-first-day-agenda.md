@@ -1,9 +1,7 @@
-[]{#anchor}Agenda Topics
+# Agenda
 
-[]{#anchor-1}
-
-[]{#anchor-2}Venue
-==================
+## Venue
+==========
 
 ### Location
 
@@ -17,36 +15,36 @@ Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 -   Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
 -   Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
 
-[]{#anchor-3}Mainstream
+## Main Stream
 =======================
 
-[]{#anchor-4}[]{#anchor-5}Welcome
+### Welcome
 ------------------------------------------------
 
-### Duration
+#### Duration
 
 5-10 minutes
 
-### []{#anchor-6}Speaker
+#### Speaker
 
 Master of Ceremony
 
-### []{#anchor-7}Topic
+#### Topic
 
 House cleaning
 
-[]{#anchor-8}[]{#anchor-9}Opening Remarks
+### Opening Remarks
 ------------------------------------------------------
 
-### Duration
+#### Duration
 
 10 minutes
 
-### Speaker
+#### Speaker
 
 TBC (Alex Benay, Marc Brouillard, etc.)
 
-### []{#anchor-10}Topic
+#### Topic
 
 Suggested:
 
@@ -54,38 +52,40 @@ Suggested:
     -   Use and contribute to Open Source Software
     -   Work in the open
 
-[]{#anchor-11}[]{#anchor-12}Keynote
+### Keynote
 ---------------------------------------------------
 
-### Duration
+#### Duration
 
 20-25 minutes
 
-### Speaker
+#### Speaker
 
 TBC: Possibly Noureen Syed
 
-### []{#anchor-13}Topic
+#### Topic
 
 Why using and contributing to Open Source Software is critical for our success.
 
-[]{#anchor-14}
-
-[]{#anchor-15}Panel (45 minutes)
+### Panel
 --------------------------------
 
-### Moderator
+#### Duration
 
-[]{#anchor-16}Moderator will most likely be the keynote speaker.
+45 minutes
 
-### Panelists
+#### Moderator
+
+Moderator will most likely be the keynote speaker.
+
+#### Panelists
 
 -   Kirsten Burgard - US Government (Tentative)
 -   Pierre-Antoine Ferron - Ville de Montréal (Tentative)
 -   TBC - TBC
 -   TBC - TBC
 
-### []{#anchor-17}Topics
+#### Topics
 
 -   Business Value (Why)
     -   Using Open Source Software and Open Standards
@@ -100,44 +100,42 @@ Why using and contributing to Open Source Software is critical for our success.
         - Open culture and organisation
         - Benefit to society
 
-[]{#anchor-18}
-
-[]{#anchor-19}Executive stream
+## Executive/General stream
 ==============================
 
-1. []{#anchor-20}[]{#anchor-21}\* Open Source Business Models
+### 1. Open Source Business Models
 
-### Duration
+#### Duration
 
 55 minutes
 
-### Speaker
+#### Speaker
 
 TBC
 
-### []{#anchor-22}Format
+#### Format
 
 Workshop (?)
 
-### Topic
+#### Topic
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
-2.  []{#anchor-23}[]{#anchor-24}[]{#anchor-25}\* Open by default: What is in scope?
+### 2. Open by default: What is in scope?
 
-### Duration
+#### Duration
 
 55 minutes
 
-### Speaker
+#### Speaker
 
 TBC
 
-### Format
+#### Format
 
 Workshop/Presentation (?)
 
-### Topic
+#### Topic
 
 Open by default:
 
@@ -145,24 +143,23 @@ Open by default:
 -   Who are the different actors?
 -   How can private sector and citizen actors leverage this position?
 
-3.  []{#anchor-26}[]{#anchor-27}\* Releasing GC Source Code Open (55
-    minutes)
+### 3. Releasing GC Source Code Open
 
-### Duration
+#### Duration
 
 55 minutes
 
-### Speaker
+#### Speaker
 
 TBC (LAC/ESDC?)
 
-### Format
+#### Format
 
 Workshop
 
-### Topic
+#### Topic
 
-How your business and IT need to align in order to release open source
+/*How your business and IT need to align in order to release open source
 software.
 
 1.  []{#anchor-28}[]{#anchor-29}GC Digital Standards (55 minutes)
@@ -178,95 +175,53 @@ software.
 ### []{#anchor-32}Topic
 
 -   Applying the standards in an organisation, role of Enterprise
-    Architecture Review Board, submissions
+    Architecture Review Board, submissions*/
 
-[]{#anchor-33}
-
-[]{#anchor-34}Rules Stream
+## Rules Stream
 ==========================
 
-Choose from:
+### 1. Procuring Open Source Software
+----------------
 
-1.  []{#anchor-35}[]{#anchor-36}Policy Guidance (55 minutes)
+#### Duration
 
-### Speaker
+55 minutes
 
-TBC (TBS)
+#### Speaker
 
-### Format
+TBC – Suggestion Montreal or PSPC
 
-Workshop/Presentation
-
-### Topic
-
-Clarify the interpretation of the policies
-
-1.  []{#anchor-37}[]{#anchor-38}\* Procuring Open Source Software (55
-    minutes)
-
-### Speaker
-
-TBC – Suggestion Montreal and PSPC
-
-### Format
+#### Format
 
 Workshop
 
-### Topic
+#### Topic
 
 How can you:
 
 -   Procure open source software?
-
-<!-- -->
-
 -   Choose the right professional services for your project?
-
-<!-- -->
-
 -   Assess the right technologies for your needs?
 
 []{#anchor-39}
 
-1.  []{#anchor-40}\* Managing IP and Licences (55 minutes)
+### 2. Managing IP and Licences (55 minutes)
 
-### Speaker
+#### Speaker
 
 TBC – Suggestion would be joint presentation from TBS, Justice.
 
-### Format
+#### Format
 
 Workshop
 
-### Topic
+#### Topic
 
 Work through:
 
 -   Choosing the right licence for your project;
-
-<!-- -->
-
--   Understanding the compatible licences of external projects with
-    yours;
-
-<!-- -->
-
--   Understanding how you can contribute to third party open source
-    software as
-
-1.  []{#anchor-41}[]{#anchor-42}Security (55 minutes)
-
-### Speaker
-
-TBC (TBS Cyber/CSE?)
-
-### Format
-
-Workshop
-
-### Topic
-
-[]{#anchor-43}
+-   Understanding the compatible licences of external projects with yours;
+-   Understanding how you can contribute to third party open source software as a Government of Canada employee
 
 []{#anchor-44}Tools Stream
 ==========================
