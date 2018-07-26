@@ -20,11 +20,11 @@
 <table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
-    <th class="tg-uys7">Executive<br>General<br>(A)</th>
-    <th class="tg-uys7">Rules<br>(B)</th>
-    <th class="tg-uys7">Tools<br>(C)</th>
-    <th class="tg-uys7">People<br>(D)</th>
-    <th class="tg-c3ow">Unconference<br>(E)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#rules">Rules</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#tools">Tools</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda.md#people">People</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./open-first-day-agenda.md#unconference-stream">Unconference<br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
@@ -60,7 +60,7 @@
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4">1. Crowd-sourcing contributions – Co-Lab</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md1-crowd-sourcing-contributions--co-lab#">1. Crowd-sourcing contributions – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@
   <tr>
     <td class="tg-c3ow">10:30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4">1. Procuring Open Source Software</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 2</a></td>
@@ -142,8 +142,6 @@
 
 ### Welcome
 
-[Back to Schedule](#schedule)
-
 #### Duration
 
 5-10 minutes
@@ -156,9 +154,9 @@ Master of Ceremony
 
 House cleaning
 
-### Opening Remarks
-
 [Back to Schedule](#schedule)
+
+### Opening Remarks
 
 #### Duration
 
@@ -176,9 +174,9 @@ Suggested:
     -   Use and contribute to Open Source Software
     -   Work in the open
 
-### Keynote
+    [Back to Schedule](#schedule)
 
-[Back to Schedule](#schedule)
+### Keynote
 
 #### Duration
 
@@ -192,9 +190,9 @@ TBC: Possibly Noureen Syed
 
 Why using and contributing to Open Source Software is critical for our success.
 
-### Panel
-
 [Back to Schedule](#schedule)
+
+### Panel
 
 #### Duration
 
@@ -226,11 +224,11 @@ Moderator will most likely be the keynote speaker.
         - Open culture and organisation
         - Benefit to society
 
-## Executive/General stream
+[Back to Schedule](#schedule)
+
+## Executive/General Stream
 
 ### 1. Open Source Business Models
-
-[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -248,9 +246,9 @@ Workshop (?)
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
-### 2. Releasing GC Source Code Open
-
 [Back to Schedule](#schedule)
+
+### 2. Releasing GC Source Code Open
 
 #### Duration
 
@@ -269,9 +267,9 @@ Workshop
 How your business and IT need to align in order to release open source
 software.
 
-### 3. Open by default: What is in scope?
-
 [Back to Schedule](#schedule)
+
+### 3. Open by default: What is in scope?
 
 #### Duration
 
@@ -293,11 +291,11 @@ Open by default:
 -   Who are the different actors?
 -   How can private sector and citizen actors leverage this position?
 
+[Back to Schedule](#schedule)
+
 ## Rules Stream
 
 ### 1. Procuring Open Source Software
-
-[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -319,10 +317,9 @@ How can you:
 -   Choose the right professional services for your project?
 -   Assess the right technologies for your needs?
 
+[Back to Schedule](#schedule)
 
 ### 2. Managing Intellectual Property and Licences
-
-[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -344,11 +341,11 @@ Work through:
 -   Understanding the compatible licences of external projects with yours;
 -   Understanding how you can contribute to third party open source software as a Government of Canada employee
 
+[Back to Schedule](#schedule)
+
 ## Tools Stream
 
 ### 1. Working with Git
-
-[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -364,9 +361,9 @@ Workshop
 
 #### Topic
 
-### 2. Orchestration and Hybrid Clouds
-
 [Back to Schedule](#schedule)
+
+### 2. Orchestration and Hybrid Clouds
 
 #### Duration
 
@@ -382,11 +379,11 @@ Workshop
 
 #### Topic
 
+[Back to Schedule](#schedule)
+
 ## People Stream
 
 ### 1. Crowd-sourcing contributions – Co-Lab
-
-[Back to Schedule](#schedule)
 
 #### Speaker
 
@@ -401,9 +398,9 @@ Workshop
 Explore how your business and IT need to align in order to open source
 software
 
-### 2. Working in the open
-
 [Back to Schedule](#schedule)
+
+### 2. Working in the open
 
 #### Speaker
 
@@ -419,12 +416,14 @@ Workshop/Presentation
 This would be a joint Executive/People session. See Executive: Open by
 default session.
 
-## Unconference Stream
-
 [Back to Schedule](#schedule)
+
+## Unconference Stream
 
 People gather and decide together the topics they would like to address.
 It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
 
 External Resource: [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
+
+[Back to Schedule](#schedule)
