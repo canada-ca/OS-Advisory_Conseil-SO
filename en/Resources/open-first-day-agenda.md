@@ -304,28 +304,25 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
     <td class="tg-c3ow" rowspan="5"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">09:15</td>
-  </tr>
-  <tr>
     <td class="tg-c3ow">09:30</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:45</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -335,6 +332,9 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
@@ -342,7 +342,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow">12:00</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
