@@ -20,11 +20,11 @@
 <table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
-    <th class="tg-uys7">Executive<br>General</th>
-    <th class="tg-uys7">Rules</th>
-    <th class="tg-uys7">Tools</th>
-    <th class="tg-uys7">People</th>
-    <th class="tg-c3ow">Unconference</th>
+    <th class="tg-uys7">Executive<br>General<br>(A)</th>
+    <th class="tg-uys7">Rules<br>(B)</th>
+    <th class="tg-uys7">Tools<br>(C)</th>
+    <th class="tg-uys7">People<br>(D)</th>
+    <th class="tg-c3ow">Unconference<br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
@@ -40,7 +40,7 @@
   <tr>
     <td class="tg-c3ow">09:15</td>
     <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.md#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.md#unconference">Setup</a></td>
+    <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.md#unconference-stream">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
@@ -57,11 +57,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4">1. Open Source Business Models</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4">1. Crowd-sourcing contributions – Co-Lab</td>
-    <td class="tg-c3ow" rowspan="4">Topic 1</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -78,7 +78,7 @@
     <td class="tg-c3ow" rowspan="4">1. Procuring Open Source Software</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4">Topic 2</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 2</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -108,7 +108,7 @@
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4">1. Working with Git</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4">Topic 3</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
@@ -228,7 +228,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Executive/General stream
 
-### 1. Open Source Business Models
+### 1 - Open Source Business Models
 
 [Back to Schedule](#schedule)
 
