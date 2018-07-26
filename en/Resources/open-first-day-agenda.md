@@ -289,7 +289,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 </style>
 -->
 
-<table class="tg" text-align:center;vertical-align:center>
+<table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
     <th class="tg-uys7">Executive/General</th>
@@ -300,7 +300,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5">Welcome</td>
+    <td class="tg-uys7" colspan="5" text-align:center;vertical-align:center>Welcome</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
