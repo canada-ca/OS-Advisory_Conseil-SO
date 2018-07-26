@@ -2,9 +2,7 @@
 
 [Français](../../fr/Ressources/journee-ouverte-en-premier-agenda.md)
 
-> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics.
-
-> We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions.
+> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions.
 
 ## Logistics
 

@@ -2,9 +2,7 @@
 
 [English](../../en/Resources/open-first-day-agenda.md)
 
-> Veuillez noter que l'agenda présent est provisoire. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances.
-
-> Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues.
+> Veuillez noter que l'agenda présent est provisoire. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues.
 
 ## Logistiques
 
