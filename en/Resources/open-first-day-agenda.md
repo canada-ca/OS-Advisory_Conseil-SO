@@ -20,7 +20,7 @@
 <table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
-    <th class="tg-uys7">Executive/General</th>
+    <th class="tg-uys7">Executive<br>General</th>
     <th class="tg-uys7">Rules</th>
     <th class="tg-uys7">Tools</th>
     <th class="tg-uys7">People</th>
@@ -39,8 +39,8 @@
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3">Panel</td>
-    <td class="tg-c3ow" rowspan="5">Setup</td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.md#panel">Panel</a></td>
+    <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.md#unconference">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
@@ -50,18 +50,18 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4">1. Open Source Business Models</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4">1. Crowd-sourcing contributions – Co-Lab</td>
+    <td class="tg-c3ow" rowspan="4">Topic 1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -74,11 +74,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4">3. Releasing GC Source Code Open</td>
+    <td class="tg-c3ow" rowspan="4">1. Procuring Open Source Software</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4">Topic 2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -104,11 +104,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
+    <td class="tg-c3ow" rowspan="4">2. Open by default: What is in scope?</td>
     <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4">1. Working with Git</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4">Topic 3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
@@ -122,9 +122,9 @@
   <tr>
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4">2. Managing Intellectual Property and Licences</td>
+    <td class="tg-c3ow" rowspan="4">2. Orchestration and Hybrid Clouds</td>
+    <td class="tg-c3ow" rowspan="4">2. Working in the open</td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ House cleaning
 
 ### Opening Remarks
 
-[Back to Schedule](##Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -178,7 +178,7 @@ Suggested:
 
 ### Keynote
 
-[Back to Schedule](##Schedule)
+[Back to Schedule](#schedule)
 
 #### Duration
 
@@ -208,8 +208,8 @@ Moderator will most likely be the keynote speaker.
 
 -   Kirsten Burgard - US Government (Tentative)
 -   Pierre-Antoine Ferron - Ville de Montréal (Tentative)
--   TBC - TBC
--   TBC - TBC
+-   TBC - Looking for interested participants
+-   TBC - Looking for interested participants
 
 #### Topics
 
@@ -238,7 +238,7 @@ Moderator will most likely be the keynote speaker.
 
 #### Speaker
 
-TBC
+Looking for interested participants
 
 #### Format
 
@@ -258,7 +258,7 @@ Explore the various open source software industry business models and procuremen
 
 #### Speaker
 
-TBC
+Looking for interested participants
 
 #### Format
 
@@ -282,7 +282,7 @@ Open by default:
 
 #### Speaker
 
-TBC (LAC/ESDC?)
+Looking for interested participants (LAC/ESDC?)
 
 #### Format
 
@@ -305,7 +305,7 @@ software.
 
 #### Speaker
 
-TBC – Suggestion Montreal or PSPC
+Looking for interested participants – Suggestion Montreal or PSPC
 
 #### Format
 
@@ -354,17 +354,17 @@ Work through:
 
 55 minutes
 
-### Speaker
+#### Speaker
 
 TBC - CDS, Github
 
-### Format
+#### Format
 
 Workshop
 
-### Topic
+#### Topic
 
-# 2. Orchestration and Hybrid Clouds
+### 2. Orchestration and Hybrid Clouds
 
 [Back to Schedule](#schedule)
 
@@ -372,15 +372,15 @@ Workshop
 
 55 minutes
 
-### Speaker
+#### Speaker
 
 TBC - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
 
-### Format
+#### Format
 
 Workshop
 
-### Topic
+#### Topic
 
 ## People Stream
 
@@ -419,7 +419,7 @@ Workshop/Presentation
 This would be a joint Executive/People session. See Executive: Open by
 default session.
 
-### Unconference Stream
+## Unconference Stream
 
 [Back to Schedule](#schedule)
 
