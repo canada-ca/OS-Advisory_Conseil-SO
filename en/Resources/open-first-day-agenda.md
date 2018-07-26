@@ -300,7 +300,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5">[Welcome](#Welcome)</td>
+    <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.md#welcome">Welcome</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
