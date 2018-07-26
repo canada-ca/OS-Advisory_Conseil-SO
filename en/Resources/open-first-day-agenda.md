@@ -300,11 +300,11 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5" text-align="center" vertical-align="center">Welcome</td>
+    <td class="tg-uys7" colspan="5">[Welcome](#Welcome)</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2" text-align="center" vertical-align="center">Opening Remarks<br>Keynote</td>
+    <td class="tg-uys7" colspan="5" rowspan="2">Opening Remarks<br>Keynote</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
