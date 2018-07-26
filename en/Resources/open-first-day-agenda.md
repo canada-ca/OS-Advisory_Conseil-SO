@@ -60,7 +60,7 @@
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md1-crowd-sourcing-contributions--co-lab#">1. Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4">2. Open by default: What is in scope?</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4">1. Working with Git</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-working-with-git">1. Working with Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 3</a></td>
   </tr>
@@ -122,9 +122,9 @@
   <tr>
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4">2. Managing Intellectual Property and Licences</td>
-    <td class="tg-c3ow" rowspan="4">2. Orchestration and Hybrid Clouds</td>
-    <td class="tg-c3ow" rowspan="4">2. Working in the open</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
