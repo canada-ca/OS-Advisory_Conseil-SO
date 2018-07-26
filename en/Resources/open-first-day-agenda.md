@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4">3. Releasing GC Source Code Open</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow" rowspan="4">1. Procuring Open Source Software</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -228,7 +228,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Executive/General stream
 
-### 1 - Open Source Business Models
+### 1. Open Source Business Models
 
 [Back to Schedule](#schedule)
 
@@ -248,7 +248,28 @@ Workshop (?)
 
 Explore the various open source software industry business models and procurement methods and how they can support your organization.
 
-### 2. Open by default: What is in scope?
+### 2. Releasing GC Source Code Open
+
+[Back to Schedule](#schedule)
+
+#### Duration
+
+55 minutes
+
+#### Speaker
+
+Looking for interested participants (LAC/ESDC?)
+
+#### Format
+
+Workshop
+
+#### Topic
+
+How your business and IT need to align in order to release open source
+software.
+
+### 3. Open by default: What is in scope?
 
 [Back to Schedule](#schedule)
 
@@ -271,27 +292,6 @@ Open by default:
 -   What’s the scope of Open in the Government of Canada
 -   Who are the different actors?
 -   How can private sector and citizen actors leverage this position?
-
-### 3. Releasing GC Source Code Open
-
-[Back to Schedule](#schedule)
-
-#### Duration
-
-55 minutes
-
-#### Speaker
-
-Looking for interested participants (LAC/ESDC?)
-
-#### Format
-
-Workshop
-
-#### Topic
-
-How your business and IT need to align in order to release open source
-software.
 
 ## Rules Stream
 
