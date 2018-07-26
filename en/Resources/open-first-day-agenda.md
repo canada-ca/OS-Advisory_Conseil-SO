@@ -344,31 +344,31 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
     <td class="tg-c3ow">11:15</td>
   </tr>
   <tr>
-    <td class="tg-uys7">11:30</td>
+    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:15</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">12:30</td>
     <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-uys7">11:45</td>
+    <td class="tg-uys7">12:45</td>
   </tr>
   <tr>
-    <td class="tg-uys7">12:00</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">12:15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">12:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">12:45</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13:00</td>
+    <td class="tg-uys7">13:00</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:15</td>
@@ -390,70 +390,21 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
   <tr>
     <td class="tg-c3ow">14:15</td>
   </tr>
+  <tr>
+    <td class="tg-c3ow">14:30</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:15</td>
+  </tr>
 </table>
-
-  ------- ------------------------------ -  -------- --------------
-  Time    Executive                                                          Rules                                 Tools                                People                                       Unconference
-
-  08:30   Welcome
-
-  08:45   Opening remarks\
-          Keynote
-
-  09:00
-
-  09:15   Panel                                                              Setup
-
-  09:30   Topic 1\
-          :Boardroom
-
-  09:45
-
-  10:00   Break
-
-  10:15
-
-  10:30   1\. Open Source Business Models\                                                                                                              1\. Crowd-sourcing contributions – Co-Lab\   Topic 2\
-          :Training room                                                                                                                                :Foundry                                     :Boardroom
-
-  10:45
-
-  11:00
-
-  11:15
-
-  11:30   3\. Releasing GC Source Code Open\                                 2\. Procuring Open Source Software\                                                                                     Topic 3\
-          :Training Room                                                     :Foundry                                                                                                                :Boardroom
-
-  11:45
-
-  12:00
-
-  12:15
-
-  12:30   Lunch
-
-  12:45
-
-  13:00
-
-  13:15
-
-  13:30   2\. Open by default: Data, Information, Science, Software, etc.\                                         2\. Working with Git\                                                             Topic 4\
-          :Foundry                                                                                                 :Training room                                                                    :Boardroom
-
-  13:45
-
-  14:00
-
-  14:15
-
-  14:30                                                                      3\. Managing IP and Licences\         4\. Orchestration with Kubernetes\                                                Topic 5\
-                                                                             :Foundry                              :Training room                                                                    :Boardroom
-
-  14:45
-
-  15:00
-
-  15:15
-  ------- ------------------------------ -  -------- --------------
