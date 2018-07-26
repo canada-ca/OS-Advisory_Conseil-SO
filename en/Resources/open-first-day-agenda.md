@@ -278,6 +278,79 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
 ## Structure
 
+<table class="tg">
+  <tr>
+    <th class="tg-uys7">Time</th>
+    <th class="tg-uys7">Executive/General</th>
+    <th class="tg-uys7">Rules</th>
+    <th class="tg-uys7">Tools</th>
+    <th class="tg-uys7">People</th>
+    <th class="tg-c3ow">Unconference</th>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:30</td>
+    <td class="tg-uys7" colspan="5"></td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:45</td>
+    <td class="tg-uys7" colspan="5" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">09:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:15</td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="5"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:15</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:30</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">09:45</td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:15</td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:30</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10:45</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11:15</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</table>
+
   ------- ------------------------------ -  -------- --------------
   Time    Executive                                                          Rules                                 Tools                                People                                       Unconference
 
