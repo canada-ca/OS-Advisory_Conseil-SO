@@ -279,7 +279,7 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 ## Structure
 
 <!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
-
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -287,8 +287,9 @@ box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
 .tg .tg-uys7{border-color:inherit;text-align:center;vertical-align:center}
 </style>
+-->
 
-<table class="tg">
+<table class="tg" text-align:center;vertical-align:center>
   <tr>
     <th class="tg-uys7">Time</th>
     <th class="tg-uys7">Executive/General</th>
