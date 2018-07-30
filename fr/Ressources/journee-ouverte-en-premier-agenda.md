@@ -2,7 +2,7 @@
 
 [English](../../en/Resources/journee-ouverte-en-premier.md)
 
-> Veuillez noter que l'agenda présent est provisoire. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues.
+> Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués.
 
 ## Logistiques
 
@@ -65,10 +65,10 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-open-source-business-models">1. Modèles d'affaires avec les logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-modeles-daffaires-avec-les-logiciels-libres">1. Modèles d'affaires avec les logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-crowd-sourcing-contributions--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-contributions-participatives-crowdsourcing--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 1</a></td>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ Suggestion:
 
 #### Description
 
-Pourquoi Why using and contributing to Open Source Software is critical for our success.
+Pourquoi utiliser et contribuer aux logiciels libres est critiques à notre succès.
 
 [Retour à l'Horaire](#horaire)
 
@@ -214,23 +214,23 @@ Moderator will most likely be the keynote speaker.
 
 - Kirsten Burgard - US Government (Provisoire)
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
-- À confirmer - Looking for interested participants
-- À confirmer - Looking for interested participants
+- À confirmer - Recherchons participantes et participants intéressés
+- À confirmer - Recherchons participantes et participants intéressés
 
 #### Sujets
 
-- Business Value (Why)
-  - Using Open Source Software and Open Standards
-    - Total Cost of Ownership
-    - Industry best practices
-    - Interoperability
-    - Open markets
-    - Vendors availability
-  - Contribution to Open Source Community
-    - Releasing GC Source Code
-    - Direct contribution to 3rd party projects
-    - Open culture and organisation
-    - Benefit to society
+- Valeur ajoutée (pourquoi)
+  - Utiliser les logiciels libres et les normes ouvertes
+    - Coût total de possession
+    - Meilleures pratiques de l'industrie
+    - Interopérabilité
+    - Marchés ouverts
+    - Disponibilité des vendeurs
+  - Contribution à la communauté des logiciels libres
+    - Libérer le code source au Gouvernement du Canada
+    - Contribution directe aux projets tiers
+    - Culture ouverte et organisation
+    - Bénéfice pour la société
 
 [Retour à l'Horaire](#horaire)
 
@@ -244,15 +244,15 @@ Moderator will most likely be the keynote speaker.
 
 #### Invitée, invité
 
-Looking for interested participants
+Recherchons participantes et participants intéressés
 
 #### Format
 
-Workshop (?)
+Sessions de travail (?)
 
 #### Description
 
-Explore the various open source software industry business models and procurement methods and how they can support your organization.
+Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation.
 
 [Retour à l'Horaire](#horaire)
 
@@ -264,16 +264,15 @@ Explore the various open source software industry business models and procuremen
 
 #### Invitée, invité
 
-Looking for interested participants (LAC/ESDC?)
+Recherchons participantes et participants intéressés (LAC/ESDC?)
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
-How your business and IT need to align in order to release open source
-software.
+Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.  
 
 [Retour à l'Horaire](#horaire)
 
@@ -285,19 +284,19 @@ software.
 
 #### Invitée, invité
 
-Looking for interested participants
+Recherchons participantes et participants intéressés
 
 #### Format
 
-Workshop/Presentation (?)
+Sessions de travail/Présentation (?)
 
 #### Description
 
-Open by default:
+Ouvert par défaut:
 
-- What’s the scope of Open in the Government of Canada
-- Who are the different actors?
-- How can private sector and citizen actors leverage this position?
+- Qu'est-ce qui en fait partie au Gouvernement du Canada?
+- Qui sont les différents acteurs?
+- Comment le secteur privée et les citoyennes et citoyens peuvent mettre à profit cette position?
 
 [Retour à l'Horaire](#horaire)
 
@@ -311,19 +310,19 @@ Open by default:
 
 #### Invitée, invité
 
-Looking for interested participants – Suggestion Montreal or PSPC
+Recherchons participantes et participants intéressés – Suggestion Montreal ou PSPC
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
-How can you:
+Comment pouvez-vous:
 
-- Procure open source software?
-- Choose the right professional services for your project?
-- Assess the right technologies for your needs?
+- Vous approvisionner en logiciels libres?
+- Choisir les bons types de services professionnels pour vos projets
+- Évaluer adéquatement les besoins technologiques?
 
 [Retour à l'Horaire](#horaire)
 
@@ -335,19 +334,19 @@ How can you:
 
 #### Invitée, invité
 
-À confirmer – Suggestion would be joint presentation from TBS, Justice.
+À confirmer – Suggestion serait d'avoir une présentation conjointe avec Justice et SCT.
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
-Work through:
+Travaillez sur:
 
-- Choosing the right licence for your project;
-- Understanding the compatible licences of external projects with yours;
-- Understanding how you can contribute to third party open source software as a Government of Canada employee
+- Choisir la bonne licence de logiciel libre pour votre projet;
+- Comprendre les licences compatibles des projets externes avec vos projets;
+- Comprendre comment vous pouvez contribuer aux projets de logiciels libres de  tierces parties en tant qu'employée et employé du Gouvernement du Canada
 
 [Retour à l'Horaire](#horaire)
 
@@ -361,11 +360,11 @@ Work through:
 
 #### Invitée, invité
 
-À confirmer - CDS, Github
+À confirmer - CDS
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
@@ -379,11 +378,11 @@ Workshop
 
 #### Invitée, invité
 
-À confirmer - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
+À confirmer - SPC (Bernard Maltais)
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
@@ -399,12 +398,11 @@ Workshop
 
 #### Format
 
-Workshop
+Sessions de travail
 
 #### Description
 
-Explore how your business and IT need to align in order to open source
-software
+Explorez comment votre organisation peut bénéficier de la contribution participative (crowdsourcing) pour ajouter de la valeur à vos activités.
 
 [Retour à l'Horaire](#horaire)
 
@@ -412,26 +410,23 @@ software
 
 #### Invitée, invité
 
-À confirmer (Open Gov Team; Open
-Government; Private company like Red Hat, Yoppworks, etc.; Kirsten Burgard)
+À confirmer (Open Gov Team; Open Government; Compagnie privée comme Red Hat, Yoppworks, etc.; Kirsten Burgard)
 
 #### Format
 
-Workshop/Presentation
+Sessions de travail/Présentation
 
 #### Description
 
-This would be a joint Executive/People session. See Executive: Open by
-default session.
+Découvrez comment travailler ouvertement affecte votre propre travail, votre équipe et votre organisation.
 
 [Retour à l'Horaire](#horaire)
 
 ## Volet Non-Conference
 
-People gather and decide together the topics they would like to address.
-It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
+Ce volet provisoire vise à amener les participantes et les participants ensembles et à décider quels seront les sujets de discussion. Ce type de discussion vise à encourager l'échange et l'engagement avec l'aide d'une modératrice ou d'un modérateur expérimenté.
 
-External Resource: [Unconference in a
+Ressource extenre (en anglais): [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
 [Retour à l'Horaire](#horaire)
