@@ -24,7 +24,7 @@ https://github.com/canada-ca/Open_First_whitepaper
   - 100 Stars
   - 200 changes by 20 contribtors
   - 40 issues with active discussions
-- Open Ressource Exchange
+- Open Resource Exchange
 
 ---
 
