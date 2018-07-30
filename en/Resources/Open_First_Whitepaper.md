@@ -99,7 +99,7 @@ https://github.com/canada-ca/Open_First_whitepaper
 
 ### Benefits
 
-- Independence, Substitutability and Application Adherence 
+- Independence, Substitutability and Application Adherence
 - Support for the Canadian Economy and Communities
 - Cost
 - Security
@@ -229,6 +229,6 @@ Openness is becoming increasingly central to the ways groups and teams of all si
 
 ### For information
 
-Will be back in August for endorsment for OSAB
+Will be back in August for endorsement for OSAB
 
 **Working groups to review!**
