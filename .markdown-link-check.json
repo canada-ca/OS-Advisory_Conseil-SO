@@ -14,6 +14,12 @@
     },
     {
       "pattern": "https://gcconnex.gc.ca"
+    },
+    {
+      "pattern": "http(s)?://slidewiki.aksw.org"
+    },
+    {
+      "pattern": "https://slidewiki.org"
     }
   ]
 }
