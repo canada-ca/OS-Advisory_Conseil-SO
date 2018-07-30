@@ -1,6 +1,6 @@
 # Agenda
 
-[English](../../en/Resources/open-first-day-agenda.md)
+[English](../../en/Resources/journee-ouverte-en-premier.md)
 
 > Veuillez noter que l'agenda présent est provisoire. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues.
 
@@ -28,27 +28,27 @@
 <table class="tg">
   <tr>
     <th class="tg-uys7">Heure</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-regles">Règles</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-outils">Outils</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-personnes">Personnes</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Non-conférence</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-regles">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-outils">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-personnes">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5"><a href="./journee-ouverte-en-premier-agenda.md#bienvenue">Bienvenue</a></td>
+    <td class="tg-uys7" colspan="5"><a href="./journee-ouverte-en-premier.md#bienvenue">Bienvenue</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouverte-en-premier-agenda.md#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouverte-en-premier-agenda.md#presentation-principale">Présentation principale</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouverte-en-premier.md#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouverte-en-premier.md#presentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouverte-en-premier-agenda.md#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Setup</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouverte-en-premier.md#panel">Panel</a></td>
+    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
@@ -65,11 +65,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-open-source-business-models">1. Modèles d'affaires avec les logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 1</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-crowd-sourcing-contributions--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 1</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -82,11 +82,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-approvisionnement-en-logiciels-libres">1. Approvisionnement en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 2</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 2</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -112,11 +112,11 @@
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#3-ouvert-par-defaut-questce-ce-que-ca-inclut">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-working-with-git">1. Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#unconference-stream">Sujet 3</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
@@ -130,9 +130,9 @@
   <tr>
     <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-gerer-la-propriete-intellectuelle-et-les-licences">2. Gérer la propriété intellectuelle et les licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-orchestration-et-infonuagique-hybride">2. Orchestration et infonuagique hybride</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-travailler-ouvertement">2. Travailler ouvertement</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
@@ -176,11 +176,11 @@ Instructions générales
 
 #### Description
 
-Suggested:
+Suggestion:
 
-- Digital Strategy alignment with Open Standards and Open Source Solutions
-  - Use and contribute to Open Source Software
-  - Work in the open
+- Alignement de la Stratégie numérique avec les normes ouvertes et les logiciels libres
+  - Utiliser et contribuer aux logiciels libres
+  - Travailler ouvertement
 
 [Retour à l'Horaire](#horaire)
 
@@ -192,11 +192,11 @@ Suggested:
 
 #### Invitée, invité
 
-À confirmer: Possibly Noureen Syed
+À confirmer: Possiblement Noureen Syed
 
 #### Description
 
-Why using and contributing to Open Source Software is critical for our success.
+Pourquoi Why using and contributing to Open Source Software is critical for our success.
 
 [Retour à l'Horaire](#horaire)
 
@@ -236,7 +236,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Volet Exécutif/Général
 
-### 1. Open Source Business Models
+### 1. Modèles d'affaires avec les logiciels libres
 
 #### Durée
 
@@ -256,7 +256,7 @@ Explore the various open source software industry business models and procuremen
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Releasing GC Source Code Open
+### 2. Libérer du code source du GC
 
 #### Durée
 
@@ -277,7 +277,7 @@ software.
 
 [Retour à l'Horaire](#horaire)
 
-### 3. Open by default: What is in scope?
+### 3. Ouvert par défaut: Qu'est-ce que ça inclut?
 
 #### Durée
 
@@ -303,7 +303,7 @@ Open by default:
 
 ## Volet Règles
 
-### 1. Procuring Open Source Software
+### 1. Approvisionnement en logiciels libres
 
 #### Durée
 
@@ -327,7 +327,7 @@ How can you:
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Managing Intellectual Property and Licences
+### 2. Gérer la propriété intellectuelle et les licences
 
 #### Durée
 
@@ -353,7 +353,7 @@ Work through:
 
 ## Volet Outils
 
-### 1. Working with Git
+### 1. Travailler avec Git
 
 #### Durée
 
@@ -371,7 +371,7 @@ Workshop
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Orchestration and Hybrid Clouds
+### 2. Orchestration et infonuagique hybride
 
 #### Durée
 
@@ -391,7 +391,7 @@ Workshop
 
 ## Volet Personnes
 
-### 1. Crowd-sourcing contributions – Co-Lab
+### 1. Contributions participative (crowdsourcing) – Co-Lab
 
 #### Invitée, invité
 
@@ -408,7 +408,7 @@ software
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Working in the open
+### 2. Travailler ouvertement
 
 #### Invitée, invité
 
