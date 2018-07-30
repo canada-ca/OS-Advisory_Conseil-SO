@@ -1,7 +1,7 @@
 # Open Standards and Open Source Software
 ### in the Government of Canada
 
-OASB - 2018-07-18
+OSAB - 2018-07-18
 
 ---
 

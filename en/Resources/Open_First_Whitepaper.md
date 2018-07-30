@@ -1,6 +1,6 @@
 # Open First Whitepaper
 
-OASB - 2018-07-18
+OSAB - 2018-07-18
 
 ---
 
