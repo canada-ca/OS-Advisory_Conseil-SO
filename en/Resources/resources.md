@@ -13,7 +13,7 @@ Finally, Marc asked about secure development.  From the [question](../Meetings/
 - https://bcdevexchange.org
 - https://gcdevexchange-carrefourproggc.org
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
-- [UK government youtube video on sharing across ministeries](https://www.youtube.com/watch?v=02__3UTqXmU)
+- [UK government youtube video on sharing across ministries](https://www.youtube.com/watch?v=02__3UTqXmU)
 - https://www.cigionline.org/articles/governance-vacuums-and-how-code-becoming-law
 - https://bigbluebutton.org/open-source-license/
 - https://cloud.gov
