@@ -22,7 +22,7 @@
   * Additional option would be to go work for a week with another GC partner.
 
 Framework for infographic:
-* What is open source software and how does it work? Talk about the entire eco-system including peer-review process, cummunity contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
+* What is open source software and how does it work? Talk about the entire eco-system including peer-review process, community contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
 * Why Open Source - why does it matter for our people?
 * What can they learn?
 * Security myth busting
@@ -39,7 +39,7 @@ Framework for infographic:
     * Presenters
 * Open Organization - Workshops - Fall to Spring 2018-19
   * executive stream
-  * train the trainer for GC Open Source commnity
+  * train the trainer for GC Open Source community
 
 Resources: Project Aristotle - Elements of effective teams - https://rework.withgoogle.com/print/guides/5721312655835136/
 
