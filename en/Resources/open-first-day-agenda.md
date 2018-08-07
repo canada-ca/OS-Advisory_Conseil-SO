@@ -1,4 +1,10 @@
-# Agenda
+# Open First Day
+
+## Purpose
+
+The purpose of Open First Day is to highlight open source (free software) approaches to IT in the Government of Canada. 
+
+## Agenda
 
 [Français](../../fr/Ressources/journee-ouverte-en-premier-agenda.md)
 
