@@ -1,7 +1,7 @@
 # Open Standards and Open Source Software
 ### in the Government of Canada
 
-OASB - 2018-07-18
+OSAB - 2018-07-18
 
 ---
 
@@ -148,7 +148,7 @@ Adapt UK guidance on ODF and procurement for GC
 - **GC use clear and consistent wording when referring to "open standards" and "open source software"**
 
 - **GC have only one set of digital "Standards"**
- 
+
 - The following wording
 
 ---
@@ -156,12 +156,6 @@ Adapt UK guidance on ODF and procurement for GC
 ### Use open standards and open source software
 
 > Avoid application adherence and seek independence and substitutability where open source software or open standards are available
-
----
-
-### Utilisez des normes ouvertes et des logiciels libres
-
-> Éviter l'adhérence applicative et rechercher l'indépendance et la substituabilité lorsque des logiciels libres ou des normes ouvertes sont disponibles
 
 ---
 
