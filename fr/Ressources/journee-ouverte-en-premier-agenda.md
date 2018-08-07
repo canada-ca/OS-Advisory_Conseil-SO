@@ -1,4 +1,10 @@
-# Agenda
+# Journée "Ouvert en premier"
+
+## Objectif
+
+Le but de la journée "Ouvert en premier" est de mettre en évidence les approches liées aux logiciels libres au sein du Gouvernement du Canada.
+
+## Agenda
 
 [English](../../en/Resources/journee-ouverte-en-premier.md)
 
