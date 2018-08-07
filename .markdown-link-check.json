@@ -16,6 +16,9 @@
       "pattern": "https://gcconnex.gc.ca"
     },
     {
+      "pattern": "https://gccollab.ca"
+    },
+    {
       "pattern": "http(s)?://slidewiki.aksw.org"
     },
     {
