@@ -34,27 +34,27 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
 <table class="tg">
   <tr>
     <th class="tg-uys7">Heure</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-regles">Règles</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-outils">Outils</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./journee-ouverte-en-premier.md#volet-personnes">Personnes</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Non-conférence</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-exectifgeneral">Executif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-regles">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-outils">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./journee-ouverte-en-premier-agenda.md#volet-personnes">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5"><a href="./journee-ouverte-en-premier.md#bienvenue">Bienvenue</a></td>
+    <td class="tg-uys7" colspan="5"><a href="./journee-ouverte-en-premier-agenda.md#bienvenue">Bienvenue</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouverte-en-premier.md#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouverte-en-premier.md#presentation-principale">Présentation principale</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouverte-en-premier-agenda.md#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouverte-en-premier-agenda.md#presentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouverte-en-premier.md#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Préparation</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouverte-en-premier-agenda.md#panel">Panel</a></td>
+    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
@@ -71,11 +71,11 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-modeles-daffaires-avec-les-logiciels-libres">1. Modèles d'affaires avec les logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-modeles-daffaires-avec-les-logiciels-libres">1. Modèles d'affaires avec les logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-contributions-participatives-crowdsourcing--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 1</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-contributions-participatives-crowdsourcing--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Sujet 1</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -88,11 +88,11 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-approvisionnement-en-logiciels-libres">1. Approvisionnement en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-approvisionnement-en-logiciels-libres">1. Approvisionnement en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 2</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Sujet 2</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -118,11 +118,11 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#3-ouvert-par-defaut-questce-ce-que-ca-inclut">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-ouvert-par-defaut-questce-ce-que-ca-inclut">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#volet-non-conference">Sujet 3</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Sujet 3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
@@ -136,9 +136,9 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   <tr>
     <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-gerer-la-propriete-intellectuelle-et-les-licences">2. Gérer la propriété intellectuelle et les licences</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-orchestration-et-infonuagique-hybride">2. Orchestration et infonuagique hybride</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier.md#2-travailler-ouvertement">2. Travailler ouvertement</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-gerer-la-propriete-intellectuelle-et-les-licences">2. Gérer la propriété intellectuelle et les licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-orchestration-et-infonuagique-hybride">2. Orchestration et infonuagique hybride</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-travailler-ouvertement">2. Travailler ouvertement</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
