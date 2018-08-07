@@ -12,7 +12,7 @@ Responsible for determining approach and contributing to:
 
 * Co-lead: Jack, Eclipsys
 * Sebastian Lemay, Treasury Board Secretariat
-* Christopher Allison (posssible lead), Service and GC 2.0 Policy and Community Enablement Division
+* Christopher Allison (possible lead), Service and GC 2.0 Policy and Community Enablement Division
 * Christopher Jaja, CIOB
 * Ross Thompson, CIOB
 * Rodney Helal, Cloudera

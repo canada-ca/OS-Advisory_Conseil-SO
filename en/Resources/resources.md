@@ -4,16 +4,16 @@
 
 [CapitalOne's Dev Exchange](https://medium.com/capital-one-developers/open-source-in-a-regulated-environment-dc4b4d9af3f8): CapitalOne is a great example of a company who has successfully utilized GitHub for both internal development and external (open) development.
 
-[How Github uses GitHub](https://resources.github.com/webcasts/GitHub-writing-documentation-for-your-projects/): I believe you were interested in this.  Late last year, we did a full series of [webcasts](https://resources.github.com/webcasts/) on this topic. On our [resources](https://resources.github.com/) page, you find find additional white papers, and videos.
+[How Github uses GitHub](https://resources.github.com/webcasts/GitHub-writing-documentation-for-your-projects/): I believe you were interested in this.  Late last year, we did a full series of [webcasts](https://resources.github.com/webcasts/) on this topic. On our [resources](https://resources.github.com/) page, you find additional white papers, and videos.
 
-Finally, Marc asked about secure development.  From the [question](../Meetings/2018-03-15.md) section "Concerning Github, what secuirty measures are in place to provent mistakes? Two controls: no one can delete and there is a backup in cloud. Many controls like fork and branch to review the code before publishing it."
+Finally, Marc asked about secure development.  From the [question](../Meetings/2018-03-15.md) section "Concerning Github, what security measures are in place to prevent mistakes? Two controls: no one can delete and there is a backup in cloud. Many controls like fork and branch to review the code before publishing it."
 
 ## Links
 
 - https://bcdevexchange.org
 - https://gcdevexchange-carrefourproggc.org
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
-- [UK government youtube video on sharing across ministeries](https://www.youtube.com/watch?v=02__3UTqXmU)
+- [UK government youtube video on sharing across ministries](https://www.youtube.com/watch?v=02__3UTqXmU)
 - https://www.cigionline.org/articles/governance-vacuums-and-how-code-becoming-law
 - https://bigbluebutton.org/open-source-license/
 - https://cloud.gov

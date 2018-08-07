@@ -37,7 +37,7 @@ Our goals will be to addressing challenges or opportunities related to engaging 
   * Working / procurement / contracts / collaboration and the Gov/external OSS community
   * Future of work
   * Open Source in other business / innovation -- collaboration, feedback loops
-* External outreach activites (eg, hackathons, education)
+* External outreach activities (eg, hackathons, education)
   * Program like Google Summer of Code, but GC version!
   * Be paired with a code mentor in GC or in industry (eg, from this advisory group)
   * Meet-ups
