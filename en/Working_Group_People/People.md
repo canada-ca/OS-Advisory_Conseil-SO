@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-Responsible for developing engagement activitives related to the improvement of:
+Responsible for developing engagement activities related to the improvement of:
 
 * Community
 * Culture

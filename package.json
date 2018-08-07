@@ -6,7 +6,8 @@
   "scripts": {
     "link-check": "node link-check.js",
     "lint": "markdownlint -i node_modules \"**/*.md\"",
-    "test": "npm run lint && npm run link-check"
+    "spellcheck": "cspell en/**/*.md",
+    "test": "npm run lint && npm run spellcheck && npm run link-check"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/canada-ca/OS-Advisory_Conseil-SO#readme",
   "devDependencies": {
     "chalk": "^2.4.1",
+    "cspell": "^3.1.3",
     "glob": "^7.1.2",
     "markdown-link-check": "^3.6.2",
     "markdownlint-cli": "^0.10.0"
