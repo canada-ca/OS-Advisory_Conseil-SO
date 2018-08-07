@@ -6,7 +6,7 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
 
 ## Agenda
 
-[English](../../en/Resources/journee-ouverte-en-premier.md)
+[English](../../en/Resources/open-first-day-agenda.md)
 
 > Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués.
 
