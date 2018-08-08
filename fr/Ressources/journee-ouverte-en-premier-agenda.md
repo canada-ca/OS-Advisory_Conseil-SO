@@ -198,7 +198,7 @@ Suggestion:
 
 #### Invitée, invité
 
-À confirmer: Possiblement Noureen Syed
+Noureen Syed
 
 #### Description
 
@@ -218,9 +218,11 @@ Moderator will most likely be the keynote speaker.
 
 #### Panélistes
 
-- Kirsten Burgard - US Government (Provisoire)
+- Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
-- À confirmer - Recherchons participantes et participants intéressés
+- Aaron Snow - Service numérique canadien (Provisoire)
+- Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
+- Mike Milinkovich - Fondation Eclipse (Provisoire) 
 - À confirmer - Recherchons participantes et participants intéressés
 
 #### Sujets
@@ -416,11 +418,11 @@ Explorez comment votre organisation peut bénéficier de la contribution partici
 
 #### Invitée, invité
 
-À confirmer (Open Gov Team; Open Government; Compagnie privée comme Red Hat, Yoppworks, etc.; Kirsten Burgard)
+Proposition reçue: Statistiques Canada
 
 #### Format
 
-Sessions de travail/Présentation
+Sessions de travail/Présentation (À confirmer)
 
 #### Description
 
