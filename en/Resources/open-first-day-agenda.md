@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of Open First Day is to highlight open source (free software) approaches to IT in the Government of Canada. 
+The purpose of Open First Day is to highlight open source (free software) approaches to IT in the Government of Canada.
 
 ## Agenda
 
@@ -198,7 +198,7 @@ Suggested:
 
 #### Speaker
 
-TBC: Possibly Noureen Syed
+Noureen Syed
 
 #### Description
 
@@ -220,7 +220,9 @@ Moderator will most likely be the keynote speaker.
 
 - Kirsten Burgard - US Government (Tentative)
 - Pierre-Antoine Ferron - Ville de Montréal (Tentative)
-- TBC - Looking for interested participants
+- Aaron Snow - Canadian Digital Service (Tentative)
+- Andrew Gibson - Treasury Board Secretariat (Tentative)
+- Mike Milinkovich - Eclipse Foundation (Tentative)
 - TBC - Looking for interested participants
 
 #### Topics
@@ -418,17 +420,15 @@ software
 
 #### Speaker
 
-TBC (Open Gov Team; Open
-Government; Private company like Red Hat, Yoppworks, etc.; Kirsten Burgard)
+(Tentative Proposition) Statistics Canada
 
 #### Format
 
-Workshop/Presentation
+Workshop/Presentation (TBC)
 
 #### Description
 
-This would be a joint Executive/People session. See Executive: Open by
-default session.
+Description to be provided soon
 
 [Back to Schedule](#schedule)
 
