@@ -198,7 +198,11 @@ Suggestion:
 
 #### Invitée, invité
 
-Noureen Syed
+Noureen Syed - Microsoft
+Deborah Bryant - RedHat
+Rikki Endsley - RedHat
+Ashley Casovan - Secrétariat du Conseil du Trésor
+Kirsten Burgard - Gouvernement des États-Unis
 
 #### Description
 
@@ -222,7 +226,7 @@ Moderator will most likely be the keynote speaker.
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
 - Aaron Snow - Service numérique canadien (Provisoire)
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
-- Mike Milinkovich - Fondation Eclipse (Provisoire) 
+- Mike Milinkovich - Fondation Eclipse (Provisoire)
 - À confirmer - Recherchons participantes et participants intéressés
 
 #### Sujets

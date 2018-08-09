@@ -198,7 +198,11 @@ Suggested:
 
 #### Speaker
 
-Noureen Syed
+Noureen Syed - Microsoft
+Deborah Bryant - RedHat
+Rikki Endsley - RedHat
+Ashley Casovan - Treasury Board Secretariat
+Kirsten Burgard - US Government
 
 #### Description
 
