@@ -118,7 +118,7 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-ouvert-par-defaut-questce-ce-que-ca-inclut">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-gouvernement-ouvert">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
