@@ -198,11 +198,11 @@ Suggested:
 
 #### Speaker
 
-Noureen Syed - Microsoft
-Deborah Bryant - RedHat
-Rikki Endsley - RedHat
-Ashley Casovan - Treasury Board Secretariat
-Kirsten Burgard - US Government
+- Noureen Syed - Microsoft
+- Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
+- Rikki Endsley - RedHat
+- Hillary Hartley - Ontario Digital Services
+- Kirsten Burgard - US Government
 
 #### Description
 
@@ -289,7 +289,7 @@ software.
 
 [Back to Schedule](#schedule)
 
-### 3. Open by default: What is in scope?
+### 3. Open Government
 
 #### Duration
 
@@ -305,11 +305,13 @@ Workshop/Presentation (?)
 
 #### Description
 
-Open by default:
+Open Government Partnership:
 
 - What’s the scope of Open in the Government of Canada
-- Who are the different actors?
-- How can private sector and citizen actors leverage this position?
+  - Who are the different actors?
+  - How are you a part of it?
+  - What do we need to do?
+- How can citizens and private sector organisations benefit and leverage an Open Government?
 
 [Back to Schedule](#schedule)
 

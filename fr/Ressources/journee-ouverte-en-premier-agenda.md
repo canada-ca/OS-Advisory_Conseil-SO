@@ -198,11 +198,11 @@ Suggestion:
 
 #### Invitée, invité
 
-Noureen Syed - Microsoft
-Deborah Bryant - RedHat
-Rikki Endsley - RedHat
-Ashley Casovan - Secrétariat du Conseil du Trésor
-Kirsten Burgard - Gouvernement des États-Unis
+- Noureen Syed - Microsoft
+- Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
+- Rikki Endsley - RedHat
+- Hillary Hartley - Services numérique de l'Ontario
+- Kirsten Burgard - Gouvernement des États-Unis
 
 #### Description
 
@@ -288,7 +288,7 @@ Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.
 
 [Retour à l'Horaire](#horaire)
 
-### 3. Ouvert par défaut: Qu'est-ce que ça inclut?
+### 3. Gouvernement Ouvert
 
 #### Durée
 
@@ -304,11 +304,13 @@ Sessions de travail/Présentation (?)
 
 #### Description
 
-Ouvert par défaut:
+Gouvernement ouvert:
 
-- Qu'est-ce qui en fait partie au Gouvernement du Canada?
-- Qui sont les différents acteurs?
-- Comment le secteur privée et les citoyennes et citoyens peuvent mettre à profit cette position?
+- Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
+  - Qui sont les différents acteurs?
+  - Comment en faites-vous partie?
+  - Que devons-nous faire?
+- Comment le secteur privée et les citoyennes et citoyens peuvent bénéficier et mettre à profit un Gouvernement ouvert?
 
 [Retour à l'Horaire](#horaire)
 
