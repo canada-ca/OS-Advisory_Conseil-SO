@@ -289,7 +289,7 @@ software.
 
 [Back to Schedule](#schedule)
 
-### 3. Open by default: What is in scope?
+### 3. Open Government
 
 #### Duration
 
@@ -305,11 +305,13 @@ Workshop/Presentation (?)
 
 #### Description
 
-Open by default:
+Open Government Partnership:
 
 - What’s the scope of Open in the Government of Canada
-- Who are the different actors?
-- How can private sector and citizen actors leverage this position?
+  - Who are the different actors?
+  - How are you a part of it?
+-
+- How can private sector and citizen benefit and leverage an Open Government?
 
 [Back to Schedule](#schedule)
 
