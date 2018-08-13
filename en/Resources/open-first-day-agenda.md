@@ -71,7 +71,7 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-open-source-business-models">1. Open Source Business Models</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-procuring-open-source-software-and-technologies">1. Procuring Open Source Software and Technologies</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
@@ -89,7 +89,7 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
   <tr>
     <td class="tg-c3ow">10:30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-procuring-open-source-software">1. Procuring Open Source Software</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-managing-intellectual-property-and-licences">1. Managing Intellectual Property and Licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#unconference-stream">Topic 2</a></td>
@@ -136,7 +136,7 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
   <tr>
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-managing-intellectual-property-and-licences">2. Managing Intellectual Property and Licences</a></td>
+    <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -198,11 +198,13 @@ Suggested:
 
 #### Speaker
 
+TBC
+
+- Kirsten Burgard - US Government
 - Noureen Syed - Microsoft
 - Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
 - Rikki Endsley - RedHat
 - Hillary Hartley - Ontario Digital Services
-- Kirsten Burgard - US Government
 
 #### Description
 
@@ -224,6 +226,7 @@ Moderator will most likely be the keynote speaker.
 
 - Kirsten Burgard - US Government (Tentative)
 - Pierre-Antoine Ferron - Ville de Montréal (Tentative)
+- Noureen Syed - Microsoft (Tentative)
 - Aaron Snow - Canadian Digital Service (Tentative)
 - Andrew Gibson - Treasury Board Secretariat (Tentative)
 - Mike Milinkovich - Eclipse Foundation (Tentative)
@@ -248,7 +251,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Executive/General Stream
 
-### 1. Open Source Business Models
+### 1. Procuring Open Source Software and Technologies
 
 #### Duration
 
@@ -256,15 +259,15 @@ Moderator will most likely be the keynote speaker.
 
 #### Speaker
 
-Looking for interested participants
+Proposed: Public Services and Procurement Canada
 
 #### Format
 
-Workshop (?)
+Workshop (TBC)
 
 #### Description
 
-Explore the various open source software industry business models and procurement methods and how they can support your organization.
+Explore the various open source software industry business models and procurement methods and how they can support your organization and be more agile.
 
 [Back to Schedule](#schedule)
 
@@ -276,7 +279,7 @@ Explore the various open source software industry business models and procuremen
 
 #### Speaker
 
-Looking for interested participants (LAC/ESDC?)
+Proposed: Employment and Social Development Canada
 
 #### Format
 
@@ -284,8 +287,9 @@ Workshop
 
 #### Description
 
-How your business and IT need to align in order to release open source
-software.
+- What it means for your team to release code as open source?
+- What are the questions you need to ask yourself?
+- How do you accompany your team in working in the open?
 
 [Back to Schedule](#schedule)
 
@@ -297,7 +301,7 @@ software.
 
 #### Speaker
 
-Looking for interested participants
+Proposed: Treasury Board Secretariat Canada
 
 #### Format
 
@@ -317,30 +321,6 @@ Open Government Partnership:
 
 ## Rules Stream
 
-### 1. Procuring Open Source Software
-
-#### Duration
-
-55 minutes
-
-#### Speaker
-
-Looking for interested participants – Suggestion Montreal or PSPC
-
-#### Format
-
-Workshop
-
-#### Description
-
-How can you:
-
-- Procure open source software?
-- Choose the right professional services for your project?
-- Assess the right technologies for your needs?
-
-[Back to Schedule](#schedule)
-
 ### 2. Managing Intellectual Property and Licences
 
 #### Duration
@@ -349,7 +329,7 @@ How can you:
 
 #### Speaker
 
-TBC – Suggestion would be joint presentation from TBS, Justice.
+Proposed: Treasury Board Secretariat & Justice Canada
 
 #### Format
 
@@ -375,7 +355,7 @@ Work through:
 
 #### Speaker
 
-TBC - CDS, Github
+Proposed: Canadian Digital Service
 
 #### Format
 
@@ -409,7 +389,7 @@ Workshop
 
 #### Speaker
 
-TBC (LAC - Co-Lab)
+Proposed: Library and Archives Canada
 
 #### Format
 
@@ -426,7 +406,7 @@ software
 
 #### Speaker
 
-(Tentative Proposition) Statistics Canada
+Proposed Statistics Canada
 
 #### Format
 

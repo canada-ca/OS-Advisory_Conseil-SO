@@ -71,7 +71,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-modeles-daffaires-avec-les-logiciels-libres">1. Modèles d'affaires avec les logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-approvisionnement-en-logiciels-et-technologies-libres">1. Approvisionnement en logiciels et technologies libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-contributions-participatives-crowdsourcing--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
@@ -89,7 +89,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
   <tr>
     <td class="tg-c3ow">10 h 30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-approvisionnement-en-logiciels-libres">1. Approvisionnement en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-gerer-la-propriete-intellectuelle-et-les-licences">1. Gérer la propriété intellectuelle et les licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#volet-non-conference">Sujet 2</a></td>
@@ -136,7 +136,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
   <tr>
     <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-gerer-la-propriete-intellectuelle-et-les-licences">2. Gérer la propriété intellectuelle et les licences</a></td>
+    <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-orchestration-et-infonuagique-hybride">2. Orchestration et infonuagique hybride</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#2-travailler-ouvertement">2. Travailler ouvertement</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -198,11 +198,11 @@ Suggestion:
 
 #### Invitée, invité
 
+- Kirsten Burgard - Gouvernement des États-Unis
 - Noureen Syed - Microsoft
 - Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
 - Rikki Endsley - RedHat
 - Hillary Hartley - Services numérique de l'Ontario
-- Kirsten Burgard - Gouvernement des États-Unis
 
 #### Description
 
@@ -218,12 +218,13 @@ Pourquoi utiliser et contribuer aux logiciels libres est critiques à notre succ
 
 #### Modératrice, Modérateur
 
-Moderator will most likely be the keynote speaker.
+La modératrice sera probablement la présentatrice principale.
 
 #### Panélistes
 
 - Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
+- Noureen Syed - Microsoft (Provisoire)
 - Aaron Snow - Service numérique canadien (Provisoire)
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
 - Mike Milinkovich - Fondation Eclipse (Provisoire)
@@ -248,7 +249,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Volet Exécutif/Général
 
-### 1. Modèles d'affaires avec les logiciels libres
+### 1. Approvisionnement en logiciels et technologies libres
 
 #### Durée
 
@@ -256,7 +257,7 @@ Moderator will most likely be the keynote speaker.
 
 #### Invitée, invité
 
-Recherchons participantes et participants intéressés
+Proposé: Services publics et approvisionnement Canada
 
 #### Format
 
@@ -264,7 +265,7 @@ Sessions de travail (?)
 
 #### Description
 
-Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation.
+Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation à être rendre plus agile.
 
 [Retour à l'Horaire](#horaire)
 
@@ -276,7 +277,7 @@ Explorez les différents modèles d'affaires des entreprises du logiciels libres
 
 #### Invitée, invité
 
-Recherchons participantes et participants intéressés (LAC/ESDC?)
+Proposé: Emploi et développement Social Canada
 
 #### Format
 
@@ -296,7 +297,7 @@ Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.
 
 #### Invitée, invité
 
-Recherchons participantes et participants intéressés
+Proposé: Secrétariat du Conseil du Trésor Canada
 
 #### Format
 
@@ -316,7 +317,7 @@ Gouvernement ouvert:
 
 ## Volet Règles
 
-### 1. Approvisionnement en logiciels libres
+### 1. Gérer la propriété intellectuelle et les licences
 
 #### Durée
 
@@ -324,31 +325,7 @@ Gouvernement ouvert:
 
 #### Invitée, invité
 
-Recherchons participantes et participants intéressés – Suggestion Montreal ou PSPC
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-Comment pouvez-vous:
-
-- Vous approvisionner en logiciels libres?
-- Choisir les bons types de services professionnels pour vos projets
-- Évaluer adéquatement les besoins technologiques?
-
-[Retour à l'Horaire](#horaire)
-
-### 2. Gérer la propriété intellectuelle et les licences
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-À confirmer – Suggestion serait d'avoir une présentation conjointe avec Justice et SCT.
+Proposé: Secrétariat du Conseil du Trésor Canada et Justice Canada
 
 #### Format
 
@@ -374,7 +351,7 @@ Travaillez sur:
 
 #### Invitée, invité
 
-À confirmer - CDS
+Proposé: Service numérique canadien
 
 #### Format
 
@@ -408,7 +385,7 @@ Sessions de travail
 
 #### Invitée, invité
 
-À confirmer (LAC - Co-Lab)
+Proposé: Bibliothèque et Archives Canada
 
 #### Format
 
@@ -424,7 +401,7 @@ Explorez comment votre organisation peut bénéficier de la contribution partici
 
 #### Invitée, invité
 
-Proposition reçue: Statistiques Canada
+Proposition: Statistiques Canada
 
 #### Format
 
