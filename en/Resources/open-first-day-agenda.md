@@ -118,7 +118,7 @@ The purpose of Open First Day is to highlight open source (free software) approa
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-by-default-what-is-in-scope">3. Open by default: What is in scope?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-government-partnership">3. Open Government Partnership</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-working-with-git">1. Working with Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -289,7 +289,7 @@ software.
 
 [Back to Schedule](#schedule)
 
-### 3. Open Government
+### 3. Open Government Partnership
 
 #### Duration
 

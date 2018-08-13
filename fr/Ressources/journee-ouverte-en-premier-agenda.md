@@ -118,7 +118,7 @@ Le but de la journée "Ouvert en premier" est de mettre en évidence les approch
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-ouvert-par-defaut-questce-ce-que-ca-inclut">3. Ouvert par défaut: Qu'est-ce que ça inclut?</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-partenariat-gouvernement-ouvert">3. Partenariat Gouvernement Ouvert</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -288,7 +288,7 @@ Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.
 
 [Retour à l'Horaire](#horaire)
 
-### 3. Gouvernement Ouvert
+### 3. Partenariat Gouvernement Ouvert
 
 #### Durée
 
