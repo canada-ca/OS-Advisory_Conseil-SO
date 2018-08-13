@@ -310,8 +310,13 @@ Open Government Partnership:
 - What’s the scope of Open in the Government of Canada
   - Who are the different actors?
   - How are you a part of it?
+<<<<<<< HEAD
   - What do we need to do?
 - How can citizens and private sector organisations benefit and leverage an Open Government?
+=======
+-
+- How can private sector and citizen benefit and leverage an Open Government?
+>>>>>>> 6366f0e4960f12113e60c2b365a23e55751f7f77
 
 [Back to Schedule](#schedule)
 
