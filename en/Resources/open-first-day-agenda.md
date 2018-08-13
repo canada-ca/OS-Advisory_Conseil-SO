@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of Open First Day is to highlight open source (free software) approaches to IT in the Government of Canada.
+Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to open source software, thus supporting an open culture and open markets.
 
 ## Agenda
 

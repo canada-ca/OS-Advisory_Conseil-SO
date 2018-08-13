@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Le but de la journée "Ouvert en premier" est de mettre en évidence les approches liées aux logiciels libres au sein du Gouvernement du Canada.
+Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
 
 ## Agenda
 
