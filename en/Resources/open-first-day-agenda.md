@@ -289,7 +289,7 @@ software.
 
 [Back to Schedule](#schedule)
 
-### 3. Open Government
+### 3. Open Government Partnership
 
 #### Duration
 
