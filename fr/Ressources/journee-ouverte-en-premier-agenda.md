@@ -198,11 +198,11 @@ Suggestion:
 
 #### Invitée, invité
 
-Noureen Syed - Microsoft
-Deborah Bryant - RedHat
-Rikki Endsley - RedHat
-Ashley Casovan - Secrétariat du Conseil du Trésor
-Kirsten Burgard - Gouvernement des États-Unis
+- Noureen Syed - Microsoft
+- Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
+- Rikki Endsley - RedHat
+- Hillary Hartley - Services numérique de l'Ontario
+- Kirsten Burgard - Gouvernement des États-Unis
 
 #### Description
 
