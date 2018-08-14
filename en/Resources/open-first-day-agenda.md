@@ -44,8 +44,8 @@ Link upcoming soon
 
 ### Available Services
 
- - A cafe is available on site for snacks and lunch
- - One of the small boardroom will be reserved for side discussions on demand
+- A cafe is available on site for snacks and lunch
+- One of the small boardroom will be reserved for side discussions on demand
 
 ## Schedule
 
