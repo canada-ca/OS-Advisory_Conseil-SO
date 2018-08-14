@@ -14,11 +14,25 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
 
 ### Date
 
-(Tentative) September 28, 2018
+September 28, 2018
 
 ### Venue
 
-(Tentative) Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
+Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
+
+### Price
+
+Free of charge
+
+### Registration
+
+Link upcoming soon
+
+### Audience
+
+- Government of Canada Public Servants - All levels
+- Private Sector Companies Representatives
+- General Public
 
 ### Room Setup
 
@@ -26,6 +40,12 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
 - Training room: Medium size training room hosting up to 40, possibly 60 people
 - Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
 - Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
+- Open area for Kiosks
+
+### Available Services
+
+- A cafe is available on site for snacks and lunch
+- One of the small boardroom will be reserved for side discussions on demand
 
 ## Schedule
 
@@ -118,7 +138,7 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-government-partnership">3. Open Government Partnership</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#3-open-government">3. Open Government</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#1-working-with-git">1. Working with Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -138,7 +158,7 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-working-in-the-open">2. Working in the open</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.md#2-open-projects-at-deil">2. Open Projects at DEIL</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
@@ -293,7 +313,7 @@ Workshop
 
 [Back to Schedule](#schedule)
 
-### 3. Open Government Partnership
+### 3. Open Government
 
 #### Duration
 
@@ -301,7 +321,7 @@ Workshop
 
 #### Speaker
 
-Proposed: Treasury Board Secretariat Canada
+Open Government Team, Treasury Board Secretariat Canada
 
 #### Format
 
@@ -309,7 +329,7 @@ Workshop/Presentation (?)
 
 #### Description
 
-Open Government Partnership:
+(To be updated) Open Government Partnership:
 
 - What’s the scope of Open in the Government of Canada
   - Who are the different actors?
@@ -402,19 +422,25 @@ software
 
 [Back to Schedule](#schedule)
 
-### 2. Working in the open
+### 2. Open Projects at DEIL
+
+#### Exploring the potential of open data using an “open project” approach
 
 #### Speaker
 
-Proposed Statistics Canada
+Data Exploration and Integration Lab Team, Centre for Special Business Project, Statistics Canada
 
 #### Format
 
-Workshop/Presentation (TBC)
+Workshop
 
 #### Description
 
-Description to be provided soon
+Over the last few years, the Data Exploration and Integration Lab (DEIL) at Statistics Canada has conducted an increasing amount of work using various open source tools, open data, and open code. For instance, since 2016, DEIL has implemented tools and project solutions on its GitHub account, providing and sharing code under an open source license. In January 2018, DEIL began exploring the potential of integrating open data into coherent and standardized datasets. This exploration and experience has given rise to the idea of using an “open project” approach.
+
+This workshop will engage the audience with practical examples of “open projects”, that is, projects that, to the extent possible, make use of open software, open code, open standards, open data, and open project management tools. The focus will be on the integration of buildings and business records, using exclusively open microdata. The preliminary results obtained to date are very encouraging and more can be achieved in a collaborative environment.
+
+The workshop will discuss the potential and benefits of working as an open project, the challenges that are encountered and the possible solutions. For instance, some of the integration solutions are developed in Python and the GNU/Linux operating system to allow for a more fluid development platform, which was found to simplify the data processing framework. Availability and accuracy of the data will be also discussed. An open project framework permits all participants to actively engage in the current and future development of the ongoing work. The session will provide simple hands-on examples on how to contribute to such initiatives.
 
 [Back to Schedule](#schedule)
 
