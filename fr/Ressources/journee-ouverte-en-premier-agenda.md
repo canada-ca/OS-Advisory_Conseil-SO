@@ -14,11 +14,25 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
 
 ### Date
 
-(Provisoire) 28 septembre 2018
+28 septembre 2018
 
 ### Endroit
 
-(Provisoire) Bayview Yards, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
+Bayview Yards, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
+
+### Prix
+
+Gratuit
+
+### Enregistrement
+
+Le lien sera affiché prochainement
+
+### Auditoire
+
+- Membres de la fonction publique du Gouvernement du Canada - Tous niveaux confondus
+- Représentants et représentantes de compagnies privées
+- Public général
 
 ### Configuration des salles
 
@@ -26,6 +40,11 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
 - Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
 - Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
 - Salles A et B: Deux salles de rencontre pour 6 personnes
+- Aire ouverte pour kiosques
+
+### Services offerts
+
+- Un café est disponible sur place pour acheter des collations et le diner
 
 ## Horaire
 
@@ -118,7 +137,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-partenariat-gouvernement-ouvert">3. Partenariat Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#3-gouvernement-ouvert">3. Gouvernement Ouvert</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouverte-en-premier-agenda.md#1-travailler-avec-git">1. Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -289,7 +308,7 @@ Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.
 
 [Retour à l'Horaire](#horaire)
 
-### 3. Partenariat Gouvernement Ouvert
+### 3. Gouvernement Ouvert
 
 #### Durée
 
@@ -297,7 +316,7 @@ Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.
 
 #### Invitée, invité
 
-Proposé: Secrétariat du Conseil du Trésor Canada
+Équipe du Gouvernement ouvert, Secrétariat du Conseil du Trésor Canada
 
 #### Format
 
@@ -305,7 +324,7 @@ Sessions de travail/Présentation (?)
 
 #### Description
 
-Gouvernement ouvert:
+(À mettre à jour) Gouvernement ouvert:
 
 - Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
   - Qui sont les différents acteurs?
