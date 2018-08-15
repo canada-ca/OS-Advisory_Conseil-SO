@@ -1,4 +1,4 @@
-# Journée "Ouvert en premier"
+# Journée "Ouvert en premier" (Archive)
 
 > Nous déplaçons cette page dans son propre [répertoire](https://github.com/canada-ca/ofd-joep) pour en faciliter la gestion. Une [page](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda.html) publique est également disponible.
 
