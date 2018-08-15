@@ -1,4 +1,4 @@
-# Open First Day
+# Open First Day (Archive)
 
 > We're moving this page to it's own [repository](https://github.com/canada-ca/ofd-joep) for easier version control. Also available is the public facing [page](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda.html).
 
