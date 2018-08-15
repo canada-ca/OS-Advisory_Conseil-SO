@@ -1,5 +1,7 @@
 # Open First Day
 
+> We're moving this page to it's own [repository](https://github.com/canada-ca/ofd-joep) for easier version control. Also available is the public facing [page](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda.html).
+
 ## Purpose
 
 Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to open source software, thus supporting an open culture and open markets.
