@@ -1,5 +1,7 @@
 # Journée "Ouvert en premier"
 
+> Nous déplaçons cette page dans son propre [répertoire](https://github.com/canada-ca/ofd-joep) pour en faciliter la gestion. Une [page](https://canada-ca.github.io/ofd-joep/en/open-first-day-agenda.html) publique est également disponible.
+
 ## Objectif
 
 Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
