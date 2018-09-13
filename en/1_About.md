@@ -103,9 +103,9 @@ GC Members:
 
 * Lena Trudeau, Canadian Digital Service
 * Melanie Robert, Treasury Board Secretariat
-* Christopher Allison, Treasury Board Secretariat
-* Denis Skinner, Public Service Commission
-* Gabrielle Cosette, Shared Services Canada
+* Christopher Allison, Canada School of Public Service
+* Elizabeth Rhodenizer, Public Service Commission
+* Gabrielle Cossette, Shared Services Canada
 * Stephane Dufour, Statistics Canada
 * Peter Silva, Environment
 * Jacob Raffoul, Employment and Social Devlopment Canada
@@ -139,6 +139,7 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 Participants
 
+* Co-Lead: Dugald Topshee, Justice Canada
 * Co-Lead: Marc, Oproma
 * Heather Laird, Treasury Board Secretariat
 * Rodney, Cloudera
@@ -160,6 +161,7 @@ Responsible for determining approach and contributing to:
 
 Participants
 
+* Co-Chair: Janique Godin, Statistics Canada
 * Co-chair: Jack Gulas, Eclipsys
 * Sebastien Lemay, Treasury Board Secretariat
 * Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
