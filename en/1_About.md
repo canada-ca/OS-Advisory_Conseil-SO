@@ -124,7 +124,7 @@ GC Members:
 * Mike Gifford, OpenConcept
 * Harsh Sabikhi, GitHub
 * Noureen Syed, Microsoft Open Source Lead
-* Rodney Helal/ Fil Galiardi, Cloudera
+* Rodney Helal / Fil Galiardi, Cloudera
 * Shermineh Salehi Esmarti, Consultant
 * Erin Kennedy, Robots
 
@@ -165,17 +165,17 @@ Participants
 * Co-chair: Jack Gulas, Eclipsys
 * Sebastien Lemay, Treasury Board Secretariat
 * Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
-* Christopher Jaja |CIOB
+* Christopher Jaja, CIOB
 * Ross Thompson, CIOB
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pagneau, Oproma
-* Michael Nguyen, Github
+* Michael Nguyen, GitHub
 * Olivier Dzomo, Public Service Commission
 * Members of Stéphane Dufour's team, Statistics Canada
 * Dave Buchanan, Breqwatr
 * Joel, Open Plus
-* Will Stevens, Cloudops
+* Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
 * Nick, Immigration, Refugees and Citizenship Canada
 * Reginald, Statistics Canada
