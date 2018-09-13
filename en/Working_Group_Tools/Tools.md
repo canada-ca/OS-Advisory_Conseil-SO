@@ -10,6 +10,7 @@ Responsible for determining approach and contributing to:
 
 ## Participants
 
+* Co-lead:Janique Godin, Statistics Canada
 * Co-lead: Jack, Eclipsys
 * Sebastian Lemay, Treasury Board Secretariat
 * Christopher Allison (possible lead), Service and GC 2.0 Policy and Community Enablement Division
