@@ -177,7 +177,7 @@ Participants
 * Joel, Open Plus
 * Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
-* Nick, Immigration, Refugees and Citizenship Canada
+* Nick Schonning, Immigration, Refugees and Citizenship Canada
 * Reginald, Statistics Canada
 
 **Work Group: People**
