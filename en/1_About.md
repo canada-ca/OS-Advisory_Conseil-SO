@@ -108,9 +108,9 @@ GC Members:
 * Gabrielle Cossette, Shared Services Canada
 * Stephane Dufour, Statistics Canada
 * Peter Silva, Environment
-* Jacob Raffoul, Employment and Social Devlopment Canada
+* Jacob Raffoul, Employment and Social Development Canada
 * Guylaine Carrière / Caroline Bessett, Shared Services Canada
-* Mathieu Fortin, Shared Services Canada  
+* Mathieu Fortin, Shared Services Canada
 
  External members:
 
@@ -145,7 +145,7 @@ Participants
 * Rodney, Cloudera
 * Noureen, Microsoft
 * Robin, Open Plus
-* Christian, Public Service Commision
+* Christian, Public Service Commission
 * Mike, Eclipse Foundation
 * John, Canadian Digital Services
 * William, Employment and Social Development Canada

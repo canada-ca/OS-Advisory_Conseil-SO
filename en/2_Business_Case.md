@@ -1,4 +1,4 @@
-# Business Case 
+# Business Case
 
 ## Phase 1: The Strategic Context
 
@@ -118,7 +118,7 @@ Recruitment
 OS
 Commercialization: - comes after reference architecture and the what
 Committers
-Enteprise Support
+Enterprise Support
 Distributions
 License Models
 
