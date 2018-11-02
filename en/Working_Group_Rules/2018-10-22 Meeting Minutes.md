@@ -1,5 +1,5 @@
-### 2018-10-22 Meeting Minutes
-Attendees
+# 2018-10-22 Meeting Minutes
+## Attendees
 * Daniel Buijs
 * Sébastien Lemay 
 * Jim Cowie
@@ -7,7 +7,7 @@ Attendees
 * Stacey Williams 
 * Hervé Gendron (representing Dugald Topshee)
 
-#### Notes 
+## Notes 
 * We will need Gitlab link: people to send their account name 
 * List of members need to be provided to Marc 
 * Roadmap comments are expected: 
