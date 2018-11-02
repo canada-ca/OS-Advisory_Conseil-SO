@@ -27,10 +27,10 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 ### 2018-05-10 Meeting Minutes 
 #### Rules 
-##### Responsibilities 
+#### Responsibilities 
 Responsible for reviewing, assessing and making recommendations related to open source and open standards.
 
-###### High level list of items to look into:
+#### High level list of items to look into:
 * Policy
   * Define policies around
     * Open Source
@@ -71,9 +71,9 @@ Responsible for reviewing, assessing and making recommendations related to open 
   * _Baseline security governance_
   * _Data standards_
 
-###### _NOTE: Research and reuse what exists out there_
+#### _NOTE: Research and reuse what exists out there_
 
-###### _**Initial priorities:**_
+#### _**Initial priorities:**_
 1. Guidance on releasing source code
 2. Identify what will be the obstacles to adoption
 3. What will be the exceptions rules
