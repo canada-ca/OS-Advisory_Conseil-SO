@@ -2,7 +2,7 @@
 
 ## United Kingdom Government
 
-[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from a Government Digital Services team member, Khidr Suleman, that goes over barriers to coding in the open and how to overcome them.
+[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from Khidr Suleman, a Government Digital Services team member, that goes over barriers to coding in the open and how to overcome them.
 
 ## GitHub
 
