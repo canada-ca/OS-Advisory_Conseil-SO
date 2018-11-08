@@ -2,7 +2,11 @@
 
 ## Gouvernement de la Grande-Bretagne
 
+(EN)[Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#making-code-with-a-security-enforcing-function-open) : Manuel de service du Gouvernement du Royaume-Uni expliquant que la création d'un nouveau code source doit être ouverte et quelles sont les exigences liées à cette pratique.
+
 (EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : Blogue (en anglais) de Khidr Suleman, membre de l'équipe des Services numériques du gouvernement, qui traite des obstacles au codage en plein air et des moyens de les surmonter.
+
+(EN)[Why we use a ‘docs as code’ approach for technical documentation](https://gdstechnology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/) :
 
 ## GitHub
 

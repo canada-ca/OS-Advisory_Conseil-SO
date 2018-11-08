@@ -2,7 +2,11 @@
 
 ## United Kingdom Government
 
-[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from Khidr Suleman, a Government Digital Services team member, that goes over barriers to coding in the open and how to overcome them.
+(EN)[Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#making-code-with-a-security-enforcing-function-open) : UK Government Service Manual explaining that creation of new source code *must* be open and what are the requirements related to this practice.
+
+(EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from Khidr Suleman, GDS team member, that goes over barriers to coding in the open and how to overcome them.
+
+(EN)[Why we use a ‘docs as code’ approach for technical documentation](https://gdstechnology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/) : Blog post from Jen Lambourne, GDS,explaining why they are documenting like their developers are coding. This could be interesting for policy making.
 
 ## GitHub
 
