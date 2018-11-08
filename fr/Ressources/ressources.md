@@ -1,5 +1,11 @@
 # Resources
 
+## Gouvernement de la Grande-Bretagne
+
+(EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : 
+
+## GitHub
+
 [InnerSource](https://paypal.github.io/InnerSourceCommons/) : Is the concept of Open Source but within a particular department, agency, or a group of similar agencies.  Denis Skinner mentioned there is difficulties in sharing and collaborating on internal projects.  Just last week at GitHub Constellation in London, we had [Lloyd's bank](https://www.computerworlduk.com/devops/lloyds-software-lead-james-mcleod-on-innersourcing-bank-3673828/) talk about their InnerSource journey that has led to building a community of collaboration internally within the bank.
 
 [CapitalOne's Dev Exchange](https://medium.com/capital-one-developers/open-source-in-a-regulated-environment-dc4b4d9af3f8): CapitalOne is a great example of a company who has successfully utilized GitHub for both internal development and external (open) development.
