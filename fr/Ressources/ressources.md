@@ -6,6 +6,8 @@
 
 (EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : Blogue (en anglais) de Khidr Suleman, membre de l'équipe des Services numériques du gouvernement, qui traite des obstacles au codage en plein air et des moyens de les surmonter.
 
+(EN)[Working with open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards) : Manuel de service du Gouvernement du Royaume-Uni expliquant ce que sont les Normes ouvertes et comment les utiliser.
+
 (EN)[Why we use a ‘docs as code’ approach for technical documentation](https://gdstechnology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/) :
 
 ## GitHub
