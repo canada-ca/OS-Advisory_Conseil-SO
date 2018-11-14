@@ -8,12 +8,17 @@ var glob = require("glob");
 var path = require("path");
 var chalk = require("chalk");
 
+
 var files = glob.sync("**/*.md", {ignore: ["node_modules/**/*.md"]})
+
+var config = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
+config.timeout = '30s'
 
 var opts = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
 
 files.forEach(function(file) {
   var markdown = fs.readFileSync(file).toString();
+  let opts = Object.assign({}, config);
 
   opts.baseUrl = path.dirname(path.resolve(file)) + '/';
 

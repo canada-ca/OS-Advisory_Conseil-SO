@@ -34,7 +34,7 @@ Finally, Marc asked about secure development.  From the [question](../Rencontre
 - https://rocket.chat/
 - https://gccollab.ca/
 - [GCCollab: Open Source Group](https://gccollab.ca/groups/profile/5911/open-source-software-logiciels-libres-open-source)
-- [GCMessage](https://gccollab.gctools-outilsgc.ca/en/support/solutions/articles/2100030981-what-is-gccollab-message-and-how-do-i-create-an-account-)
+- [GCMessage](https://gccollab.gctools-outilsgc.ca/en/support/solutions/articles/2100037288-how-do-i-create-an-account-on-gcmessage-)
 - https://projects.eclipse.org/proposals/apogy
 - https://www.amazon.ca/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
 - https://www.chapters.indigo.ca/en-ca/books/accelerate-the-science-of-lean/9781942788331-item.html?ikwid=gene+kim&ikwsec=Home&ikwidx=2

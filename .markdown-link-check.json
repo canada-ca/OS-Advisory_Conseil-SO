@@ -23,6 +23,12 @@
     },
     {
       "pattern": "https://slidewiki.org"
+    },
+    {
+      "pattern": "https://events.drupal.org/seattle2019"
+    },
+    {
+      "pattern": "https://events.drupal.org/nashville2018"
     }
   ]
 }
