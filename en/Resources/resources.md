@@ -6,6 +6,8 @@
 
 (EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from Khidr Suleman, GDS team member, that goes over barriers to coding in the open and how to overcome them.
 
+(EN)[Security considerations when coding in the open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) : Great Britain Government guidance document on security considerations for Open Source development.
+
 (EN)[Working with open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards) : UK Government Service Manual explaining what Open Standards are and how to use them.
 
 (EN)[Why we use a ‘docs as code’ approach for technical documentation](https://gdstechnology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/) : Blog post from Jen Lambourne, GDS,explaining why they are documenting like their developers are coding. This could be interesting for policy making.
