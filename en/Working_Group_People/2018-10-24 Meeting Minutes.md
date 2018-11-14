@@ -1,4 +1,6 @@
-# Attendees
+# Meeting Minutes - 2018-10-24
+
+## Attendees
 * Stacey
 * Chris Jaja
 * Richard Seguin
@@ -7,18 +9,19 @@
 * Mike (TBC)
 * Jim Cowie
 
-# Open Source.com
+## Open Source.com
+
 ## Open Org Resources:
 * Banners
 * Quiz/Maturity levels
 * Gccollab
 * Gcmessage
 * Newsletters
- 
+
 ## Raise awareness and assess maturity of Openness
 * What is open source
 * Back to the basics
- 
+
 ## Presentation November 21st with Rebekah
 Need to:
 * Share links mentioned during meeting
