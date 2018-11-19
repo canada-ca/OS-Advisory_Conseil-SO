@@ -36,17 +36,17 @@ Data Visualization Self Serve Capabilities for non-technical users
 * a bit like the Power BI functionalities for non-CS employees
 
 ### Stats Can has a project in the idea stage (Reg Maltais - Janique)
-- Geospatial from on premise proprietary to cloud and OSS
-- Agriculture, NRcan, Foreign Affairs
-- Internal vs external
+* Geospatial from on premise proprietary to cloud and OSS
+* Agriculture, NRcan, Foreign Affairs
+* Internal vs external
 
 Subsequent discussion with Reginald and Janique:
 
 * Possibility to work with ESDC as they have tools already available.
 
 ### CFIA Ross Clark from CFIA:
-- Application Canadian safe food initiatives
-- Reference architecture, open data stack
+* Application Canadian safe food initiatives
+* Reference architecture, open data stack
 
 ### Real Property - Guillaume
 
@@ -54,9 +54,9 @@ First action would be to contact business owner
 
 For each reference architecture
 
-- Stated business requirements
-- Area not covered because of x reason
+* Stated business requirements
+* Area not covered because of x reason
 
 ### Lunch and learn:
 
-- Leveraging Social Media
+* Leveraging Social Media
