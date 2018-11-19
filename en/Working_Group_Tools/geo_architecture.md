@@ -8,8 +8,8 @@ All of the tiers are required to meet standards for accessibility and security f
 
 ### Business Requirements
 
-* OGC Simple Features specification compliant
-* Allows SQL query level spatial analysis through ST_* functions
+* OGC [Simple Features](http://www.opengeospatial.org/standards/sfa) specification compliant
+* Allows SQL query level spatial analysis through [ST_* functions](http://www.opengeospatial.org/standards/sfs)
 * Support for more detailed analysis like routing, distance calculations, etc
 
 ## Application Tier
@@ -17,14 +17,15 @@ All of the tiers are required to meet standards for accessibility and security f
 ### Business Requirements
 
 * Support common OGC services
-  * Web Map Service (WMS) and Web Map Tile Service (WMTS)
-  * Web Feature Service (WFS)
-  * Web Coverage Service (WCS)
-  * Web Processing Service (WPS)
-  * Catalog Services for Web (CSW)
+  * [Web Map Service (WMS)](http://www.opengeospatial.org/standards/wms) and [Web Map Tile Service (WMTS)](http://www.opengeospatial.org/standards/wmts)
+  * [Web Feature Service (WFS)](http://www.opengeospatial.org/standards/wfs)
+  * [Web Coverage Service (WCS)](http://www.opengeospatial.org/standards/wcs)
+  * [Web Processing Service (WPS)](http://www.opengeospatial.org/standards/wps)
+  * [Catalog Services for Web (CSW)](http://www.opengeospatial.org/standards/cat)
 * Support for producing various output formats
-  * GeoJSON
-  * Vector Tiles (mbtiles, for example)
+  * [GeoPackage](http://www.geopackage.org/)
+  * [GeoJSON](http://geojson.org/)
+  * Vector Tiles ([mbtiles](https://github.com/mapbox/mbtiles-spec), for example)
 * Query features by bounding box
 * Leverages DB level functions for analysis
 
@@ -39,3 +40,5 @@ public consumers, but desktop clients will be used to provide more advanced func
 * Allow download of data in various formats (as much as the app layer can provide)
 * Able to combine geospatial data with tabular data
 * Provides facilities to create/perform more advanced analysis (can be through libraries/plugins)
+* Web interfaces integrate with other systems (WET)
+  * Note: WET includes [OpenLayers](http://openlayers.org/), but it is out of date
