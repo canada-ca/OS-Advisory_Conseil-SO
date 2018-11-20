@@ -4,6 +4,8 @@
 
 (EN)[Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable#making-code-with-a-security-enforcing-function-open) : UK Government Service Manual explaining that creation of new source code *must* be open and what are the requirements related to this practice.
 
+(EN)[Government Digital Services (GDS) Operations open source - Guidelines](http://gds-operations.github.io/guidelines/) : This document describes a set of rules and principles for publishing Open Source code that GDS explicitly intends to support.
+
 (EN)[11 barriers to coding in the open and how to overcome them](https://gdstechnology.blog.gov.uk/2018/11/05/11-barriers-to-coding-in-the-open-and-how-to-overcome-them/) : This is a blog post from Khidr Suleman, GDS team member, that goes over barriers to coding in the open and how to overcome them.
 
 (EN)[Security considerations when coding in the open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open) : Great Britain Government guidance document on security considerations for Open Source development.
