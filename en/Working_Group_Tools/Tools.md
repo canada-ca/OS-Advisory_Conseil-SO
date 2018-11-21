@@ -18,7 +18,7 @@ Responsible for determining approach and contributing to:
 * Ross Thompson, CIOB
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
-* Marc Pagneau, Oproma
+* Marc Pageau, Oproma
 * Michael Nguyen, GitHub
 * Olivier Dzomo, Public Service Commission
 * Members of Stéphane Dufour's team, Statistics Canada
@@ -62,14 +62,14 @@ Responsible for determining approach and contributing to:
   * If you want to help re-structure our [Open Source Advisory Board repository](https://github.com/canada-ca/OS-Advisory_Conseil-SO), please let Guillaume (guillaume.charest@tbs-sct.gc.ca) or Stacey (stacey.williams@tbs-sct.gc.ca) know
 
 ### Examples of concept cases/projects to look into
-* RFI: Talent Management System - Public Service Commission  
+* RFI: Talent Management System - Public Service Commission
 * Data visualization, self-serve capabilities for non-technical users (like a Power BI functionalities for non-CS employees - Statistics Canada
   * Put a challenge out about having a full stack OSS
   * Would want a tableaux like function for data visualization, good way to look into a new project
 * Any existing projects that you would like to look into, anything you've seen in the past that you know that would of been a great opportunity for open source software, but that wasn't the case, it was also be valuable to look into
 * Stat Can has a project in the idea stage Reginald Maltais and Janique Godin
   * Geospatial from on premise proprietary to cloud and OSS
-  * Agriculture, NRcan, Foreign Affairs are wondering about migrating to cloud or OSS
+  * Agriculture, NRCan, Foreign Affairs are wondering about migrating to cloud or OSS
   * Option for Internal vs external use
   * Can see re-use across other departments, showcase how open source tools can be deployed and scaled across departments
 * Canadian Safe Food Initiative- CFIA

@@ -19,7 +19,7 @@ Reviewed the strategy taken by the Tools WG leads:
 * Work on high level reference architecture for each
 * Do a case study (2 pagers)
   * Description
-  * Busines Objectives
+  * Business Objectives
   * Key Requirements
   * Drivers
 
@@ -37,7 +37,7 @@ Data Visualization Self Serve Capabilities for non-technical users
 
 ### Stats Can has a project in the idea stage (Reg Maltais - Janique)
 * Geospatial from on premise proprietary to cloud and OSS
-* Agriculture, NRcan, Foreign Affairs
+* Agriculture, NRCan, Foreign Affairs
 * Internal vs external
 
 Subsequent discussion with Reginald and Janique:

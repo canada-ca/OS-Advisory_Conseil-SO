@@ -10,7 +10,7 @@ Reg Maltais
 Jim Cowie
 Noureen Syed
 
-## Health Canada Migration to OSS platforms (Sparkl, etc.)
+## Health Canada Migration to OSS platforms (SPARQL, etc.)
 
 * Presented in Digital Community of practice
 * Daniel Buijs
@@ -21,7 +21,7 @@ Noureen Syed
 * Reg Maltais was involved in the discussions.
   * Monsanto switched to OSS from proprietary and they provided some experience
 * Janique and Reg had an initial discussion around the standards and breaking up the different layers.
-  * There are overlaps around OSS options.  
+  * There are overlaps around OSS options.
 * ESDC has a series of products working with OSS - Reg has contact with team.
 
 ## Public Service Commission
@@ -53,5 +53,5 @@ Points regarding security, audits, etc. Pros and cons of the architecture: scali
 * GC - PSC Buy and Sell RFI details.
 * GC - Contact Daniel Buijs
 * Nick - Look at a few tools
-* Jim - Start a quicklist of domains of interest for OSS (datacenters, etc.)
-* Will - Start a quicklist of high level Requirements
+* Jim - Start a quick list of domains of interest for OSS (datacenters, etc.)
+* Will - Start a quick list of high level Requirements

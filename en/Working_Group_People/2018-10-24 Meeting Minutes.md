@@ -14,8 +14,8 @@
 ## Open Org Resources:
 * Banners
 * Quiz/Maturity levels
-* Gccollab
-* Gcmessage
+* GCcollab
+* GCmessage
 * Newsletters
 
 ## Raise awareness and assess maturity of Openness
@@ -27,9 +27,9 @@ Need to share links mentioned during meeting:
 * Github
 * Lab.github.com
 * Octoverse.github.com
-* Redhat
+* RedHat
 * opensource.com
-* Gccode
+* GCcode
 * Roadmap link (OSAB : https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/Roadmap.md )
 * Jim: https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/
 * https://www.edx.org/
