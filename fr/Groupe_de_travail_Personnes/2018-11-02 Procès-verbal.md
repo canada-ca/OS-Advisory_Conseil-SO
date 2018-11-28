@@ -1,0 +1,33 @@
+# Procès-verbal groupe de travail personnes- 2018-11-02
+
+## Présences
+* Guillaume Charest
+* Stacey Williams
+* Richard Séguin
+* Paul Bellows
+* Jim Cowie
+
+## Retour sur la dernière réunion
+* Divers moyens de communication et de sensibilisation (bannières, bulletins d’information, etc.).
+* Utilisation de GCcollab et de GCmessage.
+
+## Table ronde
+* Richard : Rebecca doit faire son exposé au Groupe de travail sur les ressources humaines le 14 novembre 2018, ainsi qu’à la prochaine réunion du CCSO le 21 novembre 2018.
+* Jim : Groupe de travail sur le cadre des logiciels libres – forte participation, réunions mensuelles (deux sous-groupes de travail en activité), les participants font rapport de leur travail à leurs superviseurs et l’information est diffusée, un mécanisme interne de communication. Jim communique également cette information aux autres groupes de travail du CCSO.
+  * Initiative d’autorisation générale de contribution à des projets de tiers
+    * Le partage d’IP est autorisé au niveau de directeur général.
+    * Il y a en cours des tentatives d’ouvrir la porte à la participation de la collectivité des développeurs à des projets de logiciel libre, dans certaines limites.
+* Guillaume : Bulletin – travail avec le SNC au sujet des sources ouvertes et du travail dans un environnement ouvert.
+  * Le Groupe de travail sur les personnes peut travailler à la stratégie de communication pour les logiciels libres.
+  * Besoin d’écrire plus de blogues.
+  * Travail avec l’école pour promouvoir le matériel.
+  
+## Mesures de suivi
+* Confirmer le courriel de Christopher Allison.
+* Guillaume transmettra les liens aux diverses ressources.
+* Richard a tiré parti des ressources en ligne (PDF, etc.) qu’il faut envoyer à Guillaume et Stacey pour les communiquer au groupe.
+* Stacey donnera des droits de collaborateur aux membres du Groupe de travail des personnes.
+* Stacey s’efforcera de rendre le site Github plus convivial pour la collaboration.
+* Si quelqu’un a de l’expérience dans la structuration d’un site, qu’il nous le dise. Nous aimerions réorganiser la page Github pour la rendre plus conviviale.
+* Créer une page dans Github qui sera la plaque tournante où chercher toute information.
+* Examiner la feuille de route des règles.
