@@ -124,8 +124,8 @@ GC Members:
 * Mike Gifford, OpenConcept
 * Harsh Sabikhi, GitHub
 * Noureen Syed, Microsoft Open Source Lead
-* Rodney Helal/ Fil Galiardi, Cloudera
-* Shermineh Salehi Esmarti, Consultant
+* Rodney Helal/ Filippo Gagliardi, Cloudera
+* Shermineh Salehi Esmati, Consultant
 * Erin Kennedy, Robots
 
 **Working Group: Rules**
