@@ -7,7 +7,7 @@ Keep in mind that your recommended architecture is unlikely to address every cat
 
 ## Business / Organization Requirements
 
-In this section we cover the high level business impact requirements.  What is the business case solving for and how critical are the different areas of potential impact? 
+In this section we cover the high level business impact requirements.  What is the business case solving for and how critical are the different areas of potential impact?
 
 ### Security and Audit Requirements
 
@@ -35,15 +35,15 @@ Is the workload being addressed resource consistent or does it have highly varia
 
 ### Regional / Data Sovereignty
 
-Is it important where the data lives?  Does it have to stay within a region?  Are there implications around which providers can be used based on where they are located or the country where the provider is headquartered from? 
+Is it important where the data lives?  Does it have to stay within a region?  Are there implications around which providers can be used based on where they are located or the country where the provider is headquartered from?
 
 ### Automation
 
-To what extend does the implementation need to be automated?  Will the infrastructure resources provisioning be automated?  Will the platform / application architecture be automated?  Is a CI/CD process required in order to provide consistent delivery?
+To what extend does the implementation need to be automated?  Will the infrastructure resource provisioning be automated?  Will the platform / application architecture be automated?  Is a CI/CD process required in order to provide consistent delivery?
 
 ### Operations Model
 
-Who is operating the implementation?  Is it manage internally or by a provider?  What are the support implications and how are issues addressed when encountered by an; end user, operator or business owner?
+Who is operating the implementation?  Is it managed internally or by a provider?  What are the support implications and how are issues addressed when encountered by an; end user, operator or business owner?
 
 ### Delivery Model
 
@@ -64,7 +64,7 @@ What CI/CD process is used?  How are releases and maintenance plans managed?  Wh
 
 ### APIs & Automation
 
-What integrations and automation is required / ideal for this use case?  For example, should SSL certs be automatically provisioned from LetsEncrypt for the deployment. 
+What integrations and automation is required / ideal for this use case?  For example, should SSL certs be automatically provisioned from LetsEncrypt for the deployment?
 
 ### Application Cache Strategies
 
@@ -93,7 +93,7 @@ What load characteristics do we expect the architecture to be able to handle?  I
 
 ### Application Delivery Strategy
 
-Is an Application Delivery Controller (ADC) required?  If multiple regions or clouds are leveraged, is a global load balancer in play?  If APIs are exposed, are they versioned?  If a service is being delivered, is there a backwards compatibility expectation?  If so, for how many releases or what period of time?  
+Is an Application Delivery Controller (ADC) required?  If multiple regions or clouds are leveraged, is a global load balancer in play?  If APIs are exposed, are they versioned?  If a service is being delivered, is there a backwards compatibility expectation?  If so, for how many releases or what period of time?
 
 
 ## Visibility & SLA Requirements
@@ -106,15 +106,15 @@ How is the architecture scaled?  What resiliency measures are provided by this a
 
 ### Disaster Recovery Strategies
 
-Is a disaster recovery (DR) strategy defined for this architecture?  What is the expected recovery path if the event that components of the architecture are accidentally deleted?  What is the backup strategy?  Is there a process to validate the backups are working?  Reminder: Snapshots are not backups (they don't quiesce stateful and memory bound services).
+Is a disaster recovery (DR) strategy defined for this architecture?  What is the expected recovery path in the event that components of the architecture are accidentally deleted?  What is the backup strategy?  Is there a process to validate the backups are working?  Reminder: Snapshots are not backups (they don't quiesce stateful and memory bound services).
 
 ### Performance Monitoring (APM)
 
-Is application performance monitoring required?  If there are multiple infrastructure layers (IaaS, PaaS, App) then an APM can be very helpful to isolate which layer/team of the infra is responsible.  Are there end user performance SLAs in play that need to be accounted for?
+Is application performance monitoring required?  If there are multiple infrastructure layers (IaaS, PaaS, App) then an APM can be very helpful to isolate which team / layer of the infra is responsible.  Are there end user performance SLAs in play that need to be accounted for?
 
 ### Support and Service Levels
 
-Are there specific service availability levels which have to be maintained?  Who is responsible for supporting the operations?  Is there a vendor provided support contract in play?  What components are under vendor support and which are the responsibility of the internal operations team? 
+Are there specific service availability levels which have to be maintained?  Who is responsible for supporting the operations?  Is there a vendor provided support contract in play?  What components are under vendor support and which are the responsibility of the internal operations team?
 
 ### Change Management
 
