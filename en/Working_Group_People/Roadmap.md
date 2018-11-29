@@ -22,6 +22,7 @@
   * Additional option would be to go work for a week with another GC partner.
 
 Framework for infographic:
+
 * What is open source software and how does it work? Talk about the entire eco-system including peer-review process, community contributions, reviews, plugin/module store, version release process, monetization model (e.g., donations, support, etc.)
 * Why Open Source - why does it matter for our people?
 * What can they learn?
