@@ -5,7 +5,7 @@
 * Redhat legal presentation
 * Address interop through standards
   * Put together materials in this area: Daniel Buijs to send materials to Marc, Dugald, Guillaume and Stacey 
-* 4 Directives were discussed for the working group to review and prioritize 
+* 4 standards were discussed for the working group to review and prioritize 
   * Link to the standards: https://github.com/canada-ca/open-source-logiciel-libre
   * Standards to focus on: Publishing and using and present them at the next OSAB meeting
   * Dan Buijs to look at the directives on scientists
