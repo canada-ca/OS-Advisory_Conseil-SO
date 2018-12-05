@@ -12,6 +12,10 @@ All of the tiers are required to meet standards for accessibility and security f
 * Allows SQL query level spatial analysis through [ST_* functions](http://www.opengeospatial.org/standards/sfs)
 * Support for more detailed analysis like routing, distance calculations, etc
 
+### Technologies
+
+* [PostgreSQL / PostGIS](https://postgis.net/)
+
 ## Application Tier
 
 ### Business Requirements
@@ -29,6 +33,11 @@ All of the tiers are required to meet standards for accessibility and security f
 * Query features by bounding box
 * Leverages DB level functions for analysis
 
+### Technologies
+
+* [GeoServer](http://geoserver.org/)
+* [MapServer](https://mapserver.org/)
+
 ## Client Tier
 
 Both web and desktop clients are potential candidates. Web clients will be for end users and 
@@ -42,3 +51,8 @@ public consumers, but desktop clients will be used to provide more advanced func
 * Provides facilities to create/perform more advanced analysis (can be through libraries/plugins)
 * Web interfaces integrate with other systems (WET)
   * Note: WET includes [OpenLayers](http://openlayers.org/), but it is out of date
+  
+### Technologies
+
+* [Leaflet](https://leafletjs.com/)
+* [QGIS](https://qgis.org/en/site/)
