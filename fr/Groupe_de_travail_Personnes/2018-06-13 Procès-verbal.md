@@ -1,0 +1,37 @@
+# Partiicpants
+* Richard Seguin, Redhat
+* Christopher Jaja, SCT
+* Sebastien Lemay, SCT
+* Sherminehs
+* Jim Cowie, EDSC
+* Stacey Williams, SCT
+* Erin, Robot Missions
+
+## Feuille de route et principaux jalons
+* Faire le point sur la feuille de route pour le prochain CCOS, et non pas une présentation complète.
+* Pour l’instant, nous utiliserons Github comme outil de publication et contribution.
+
+## Priorités/objectifs
+* Depuis [la réunion du 14 mai](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/fr/Groupe_de_travail_Personnes/2018-05-14%20Proc%C3%A8s-verbal.md), nous devons classer nos objectifs par ordre de priorité.
+* Nous officialisons le Livre blanc : le groupe de travail sur les personnes peut contribuer à la culture ouverte et à l’aspect « marché ouvert » du Livre blanc (peut-être en fonction des tâches)
+  * Sherminehs peut apporter son aide sur ce point.
+  * Ce travail peut être effectué hors ligne.
+* Nécessité d’examiner les objectifs à long terme : Miser sur l’exercice.
+* Planification de la journée Ouvert en premier du mois de septembre : C’est l’occasion de mobiliser la collectivité, mais nous devons également miser sur « l’après » pour continuer sur notre lancée.
+* Richard de Redhat peut fournir de l’information sur la culture ouverte et sur le cadre de décision ouvert.
+* Réunion du CCSO de la semaine prochaine : Présenter notre feuille de route à puces sur notre page Github. Mettez vos idées sur cette page
+  * Culture ouverte/cadre de décision ouvert : Richard poussera les livres blancs sur Github.
+* Analyse de rentabilisation : Est-ce que ça vise les gens au sein du gouvernement qui utilisent des sources ouvertes ou bien des entreprises externes qui aident le gouvernement?
+  * Travailler avec des fournisseurs externes pour trouver des solutions libres étant donné que nous n’avons peut-être pas la capacité de le faire au sein du gouvernement. Comment gérer le changement de mentalité au gouvernement?
+  * Marc Thompson : Devise numérique, lui parler de l’histoire de CLouderX, l’inviter à la journée Ouvert en premier du mois de septembre. Il a de l’expérience au gouvernement et comprend la nature des obstacles.
+  * Clark Thompson : Architecte de solutions, promoteur. Miser sur les produits libres liés à la chaîne de blocs et à l’IA
+  * Ann : fondatrice du RGPD, conception axée sur la protection des renseignements personnels, produit : Données intelligentes, en concurrence avec Alexia. Cela peut faire partie de l’analyse de rentabilisation.
+* Groupe de sensibilisation : David Cramm, une seule réunion ne suffit pas, nous avons besoin de réunions récurrentes pour le groupe CS. Pour les sources ouvertes, nous avons l’AGORA, nous avons besoin de quelque chose pour le volet culture.
+  * Éliminer les cloisonnements au sein du gouvernement.
+
+## Mesures de suivi
+* Contribuer à la feuille de route : Mettre l’accent sur nos principales priorités en établissant un échéancier. Regarder [la réunion du 14 mai](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/fr/Groupe_de_travail_Personnes/2018-05-14%20Proc%C3%A8s-verbal.md) et contribuer à [la feuille de route sur cette page](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/Roadmap.md) en anglais seulement.
+* Le Livre blanc est une priorité : Pour ce qui est de l’échéancier, il faut présenter une ébauche officielle au CCSO dans les deux semaines.
+* Créer une équipe sur Github pour ce groupe.
+* Travailler de façon asynchrone et avoir des réunions plus courtes.
+* Si vous n’avez pas accès à GCcollab, envoyez un courriel à Guillaume pour qu’il vous ajoute.
