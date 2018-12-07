@@ -1,3 +1,0 @@
-# Principles
-
-> To be completed
