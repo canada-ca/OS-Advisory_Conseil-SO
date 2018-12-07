@@ -70,7 +70,7 @@ Nos objectifs consisteront à saisir les occasions ou à relever les défis lié
 * Accroître la transparence (à plusieurs niveaux)
 * Accroître la reconnaissance
 
-###  Notre façon de travailler
+### Notre façon de travailler
 * Fournisseur indépendant
 Pour la première réunion, je propose un ordre du jour libre afin que nous nous réunissions en tant que groupe et que nous comprenions les points de vue uniques de chacun. Si vous avez des commentaires ou si vous souhaitez ajouter un sujet en particulier, veuillez me le faire savoir. Ordre du jour provisoire : · Présentations · Séance de remue-méninges sur les enjeux liés aux personnes et aux sources ouvertes · Établissement des enjeux par ordre de priorité (exercice de vote à l’aide de pastilles adhésives) · Table ronde et mot de la fin.
 
