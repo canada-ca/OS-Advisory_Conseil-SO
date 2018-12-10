@@ -55,4 +55,6 @@ public consumers, but desktop clients will be used to provide more advanced func
 ### Technologies
 
 * [Leaflet](https://leafletjs.com/)
+* [OpenLayers](http://openlayers.org/)
 * [QGIS](https://qgis.org/en/site/)
+* [GeoNode](http://geonode.org/)
