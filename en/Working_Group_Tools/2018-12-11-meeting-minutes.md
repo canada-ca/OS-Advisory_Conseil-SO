@@ -11,7 +11,7 @@ Sebastien Lemay
 
 Next Steps
 * Presentations for departments
-  * Statistics Canada - Data Vizualisation Tools
+  * Statistics Canada - Data Visualization Tools
     * Plan for January OSAB
 
 Reginald from Statistics Canada and [TBC] from ESDC
@@ -75,10 +75,10 @@ Stacey
 Gabriel
 
 * Two use cases:
-  * Kubernetes and container technologies - departments are looking at which technol
+  * Kubernetes and container technologies - departments are looking at which technology to leverage
   * DevOps (DevSecOps) methodologies:
     * Tools and best practices
-  * Data Vizualisation (Graphana, Kibana)
+  * Data Visualization (Graphana, Kibana)
   * Will - Area that advise a lot of organizations on
     * Have a lot of resources on these topics
 
