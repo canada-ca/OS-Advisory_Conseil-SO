@@ -5,8 +5,8 @@ Geospatial data persistence and backend analysis capabilities.
 ## Possible Technologies
 
 * [PostgreSQL / PostGIS](https://postgis.net/)
-* Cassandra
-* Redis
+* [Cassandra](https://cassandra.apache.org)
+* [Redis](https://redis.io)
 
 # Business / Organization Requirements
 
@@ -14,7 +14,7 @@ Multiple GC departments have a requirement to produce and store authoritative ge
 
 In general, data storage systems need to be capable of storing data compliant with the OGC [Simple Features](http://www.opengeospatial.org/standards/sfa) specification. They also need to support spatial analysis in the database tier through standard SQL [ST_* functions](http://www.opengeospatial.org/standards/sfs) to perform basic analysis (i.e.: distance calculations).
 
-Depending on the purpose of the system (storage vs analysis), additional analytical capabilities (such as routing) would also be required. While some of the advanced analytical capabilities would potentially be implemented within the (Application Server)[geo_architecture-app_tier.md] tier, having the possibility to perform analysis in the database offers significant benefits.
+Depending on the purpose of the system (storage vs analysis), additional analytical capabilities (such as routing) would also be required. While some of the advanced analytical capabilities would potentially be implemented within the [Application Server](geo_architecture-app_tier.md) tier, having the possibility to perform analysis in the database offers significant benefits.
 
 ## Security and Audit Requirements
 
@@ -42,7 +42,7 @@ Some services are meant to provide real-time or short lived analytics. Traffic r
 
 ## Scalability / Elasticity
 
-Given the rate of change in most geospatial datasets, there is not commonly a high variability in resource requirements. The data is often pre-calculated and cached at the (Application Tier)[geo_architecture-app_tier.md] level, reducing the overall load on the database.
+Given the rate of change in most geospatial datasets, there is not commonly a high variability in resource requirements. The data is often pre-calculated and cached at the [Application Tier](geo_architecture-app_tier.md)  level, reducing the overall load on the database.
 
 With the requirement to expose more analytical capabilities through web services, this is changing the paradigm of how geospatial data is managed. The analytical services require significant resources, and are often highly dynamic in nature, reducing the ability for caching services to be effective. Geocoding, for example, needs to be able to quickly answer questions relating an address to a location, but end users could ask for any location on earth, and as such caching has less benefit.
 
