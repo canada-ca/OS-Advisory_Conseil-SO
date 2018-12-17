@@ -6,6 +6,8 @@ Geospatial data publication and analysis services.
 
 * [GeoServer](http://geoserver.org/)
 * [MapServer](https://mapserver.org/)
+* [Nominatim](https://github.com/openstreetmap/Nominatim)
+* [Pelias](https://pelias.io/)
 
 # Business / Organization Requirements
 
@@ -32,9 +34,15 @@ Analytical services need to support operations that allow end users to restrict 
 
 ## Security and Audit Requirements
 
+Since the application tier is mostly just exposing data stored in the database to end users, a compromise in this system would appear as equivalent to a compromise to the data. This would be a serious incident that could have implications on the image of the department hosting the service.
+
 ## Downtime Impact
 
+For internal facing systems, downtime would result in the loss of productivity for users, and would potentially have follow-on effects that result in delays to programs and processes. For external systems, downtime would mean the loss of access to external clients. While no SLA exists for the uptime of external systems, it is likely that some end users would be impacted. As long as downtime is kept to a minimum, external users will likely view it as an annoyance.
+
 ## Application Performance
+
+When applications are unresponsive, for any reason, there will be reduced productivity. Public facing systems might see a loss of confidence that results in a loss of users, but internal systems could have follow on effects that result in problems processing data or delays in providing timely service to critical services and potentially create a risk to public safety.
 
 ## Data Loss
 

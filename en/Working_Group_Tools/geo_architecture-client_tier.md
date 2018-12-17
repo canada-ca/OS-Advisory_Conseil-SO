@@ -8,6 +8,15 @@ Geospatial data consumption and desktop based production and analysis. Both web 
 * [OpenLayers](http://openlayers.org/)
 * [QGIS](https://qgis.org/en/site/)
 * [GeoNode](http://geonode.org/)
+* [GDAL](https://www.gdal.org/)
+  * [R Bindings](https://cran.r-project.org/web/packages/rgdal/index.html)
+  * [Python Bindings](https://pypi.org/project/GDAL/)
+* [proj4](https://proj4.org/)
+* [Spatial R Libraries](https://cran.r-project.org/web/views/Spatial.html)
+  * [sp](https://cran.r-project.org/web/packages/sp/index.html)
+  * [spatstat](http://spatstat.org/)
+  * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
+  * [deldir](https://flowingdata.com/2016/04/12/voronoi-diagram-and-delaunay-triangulation-in-r/)
 
 # Business / Organization Requirements
 
