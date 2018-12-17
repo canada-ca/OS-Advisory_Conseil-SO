@@ -8,6 +8,8 @@ Geospatial data publication and analysis services.
 * [MapServer](https://mapserver.org/)
 * [Nominatim](https://github.com/openstreetmap/Nominatim)
 * [Pelias](https://pelias.io/)
+* [Apache Spark](http://spark.apache.org/)
+* [Apache Kafka](https://kafka.apache.org/)
 
 # Business / Organization Requirements
 
@@ -46,11 +48,19 @@ When applications are unresponsive, for any reason, there will be reduced produc
 
 ## Data Loss
 
+Data loss is a major concern for all systems, but for public facing systems that provide only read-only functionality, data loss would merely mean that a system needs to be re-initialized. These events would result in downtime, but are not generally seen as a significant impact as long as the problems are detected early.
+
+Data loss in systems of record is a separate issue, and represents a major risk to the business. Systems need to be implemented with assurances that permissions are clearly and effectively implemented so as to avoid unintentional access, and all changes to the data should provide an audit trail.
+
 ## Speed / Efficiency of Innovation
 
 ## Scalability / Elasticity
 
 ## Regional / Data Sovereignty
+
+Some geospatial data will have sensitive data attached to it, either as associated attributes or as the data itself (geometry). These types of data are subject to the security controls associated with their level of protection, but as a general rule will all require being housed within Canada either on public or government owned systems. Higher data restrictions will incur a more restrictive storage and processing framework.
+
+Public data can be distributed through any appropriate means, although there is a requirement for departments to ensure the integrity of the data overall, residency requirements are significantly lower for public data.
 
 ## Automation
 
