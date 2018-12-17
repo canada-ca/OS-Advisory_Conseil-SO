@@ -31,17 +31,17 @@
   * Publishing Open Source Software
     * Need to review policy on public servant work inventions
     * Need to make sure that work done by public servants that are on their own time are not forced to this. If the work of an employee is not done on behalf of GC, does it fall under that policy?
-    * Requirement: need to ensure that this source code only affects GC source developeds.
+    * Requirement: need to ensure that this source code only affects source code developed for GC .
     * Exceptions
       * Code that reveals operational processes (to be reviewed, see ATIP act)
-      * Code related to unreleased or unnanounced policy or law.
+      * Code related to unreleased or unannounced policy or law.
       * Code that is going to be used to generate revenue for authorized department (to be removed - ambiguous).
       * Code that has already been released under another licence than open source.
       * Making the source code internally available to the Government as a whole where possible.
 * Guides
   * Use of open source software
     * Cloud and SBITS: Need to discuss with Daniel for Templates
-    * Evaluation -> Developer Community: Diversity, not single company or at least multiple stakeholders is preferrable.
+    * Evaluation -> Developer Community: Diversity, not single company or at least multiple stakeholders is preferable.
     * Licence compliance evaluation
     * With modification
       * Configuration of the software considered as modification?
@@ -52,4 +52,4 @@
     * Might be a threshold needed for scope: international project vs localized script.
 * Roundtable
   * Hervé: lots of material but will be brought to Dugald
-  * Daniel: Open Source librarie from R -> dependencie to a librarie that wasn't open source: Risk
+  * Daniel: Open Source library from R -> dependency to a library that wasn't open source: Risk
