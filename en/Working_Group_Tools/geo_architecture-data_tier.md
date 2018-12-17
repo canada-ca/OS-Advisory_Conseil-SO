@@ -20,7 +20,7 @@ Depending on the purpose of the system (storage vs analysis), additional analyti
 
 In many cases, the geospatial layers that are produced and distributed represent a digital reference layer of physical infrastructure in Canada. They are not meant to provide an official legal boundary, and as such have a low - medium risk management profile.
 
-Other layers do represent legal information though, or are used directly in the running of significant programs and services. Federal Electoral Districts are an example of this type of layer, although there are many others. These geospatial layers require a higher level of assurance that they are effectively stored and maintained. Their risk management profile would be elevated to a higher level and generalized reference layers.
+Other layers do represent legal information though, or are used directly in the running of significant programs and services. Federal Electoral Districts are an example of this type of layer, although there are many others. These geospatial layers require a higher level of assurance that they are effectively stored and maintained. Their risk management profile would be elevated to a higher level than generalized reference layers.
 
 ## Downtime Impact
 
