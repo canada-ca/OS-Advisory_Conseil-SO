@@ -78,6 +78,10 @@ Public data services are good candidates for SaaS or PaaS implementations. Data 
 
 ## Deployment and Life Cycle Management
 
+While changes to the data are inevitable, in most instances these changes are relatively low volume. For public facing systems, and other than sensor monitoring situations, the changes are likely to be introduced in bulk as "releases" of data, rather than constant change of underlying data.
+
+This allows for relatively few instances of master data, but the number of reads will in most cases be significantly higher. The deployment of read-only replicas is likely in many environments where public facing systems need to be able to handle spikes in load centered around significant events (i.e.: Census data release dates).
+
 ## Logging, Monitoring, and Alerting
 
 ## Service Healing and Scaling
