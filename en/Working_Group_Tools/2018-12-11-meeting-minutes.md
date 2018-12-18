@@ -1,15 +1,19 @@
-Janique Godin
-Will Stevens
-Reginald Maltais
-Adam Peck
-Jim Cowie
-Larry Lindsay
-Stacey Williams
-Guillaume Charest
-Gabriel Cossette
-Sebastien Lemay
+# Tools Working Group - 2018-11-28
 
-Next Steps
+## Present
+
+* Janique Godin
+* Will Stevens
+* Reginald Maltais
+* Adam Peck
+* Jim Cowie
+* Larry Lindsay
+* Stacey Williams
+* Guillaume Charest
+* Gabriel Cossette
+* Sebastien Lemay
+
+## Next Steps
 * Presentations for departments
   * Statistics Canada - Data Visualization Tools
     * Plan for January OSAB
@@ -32,7 +36,7 @@ Reference Architecture documents structure/Template
 
 Action for Guillaume - Criteria list to assess OSS + Use of Business requirements + Architecture model/Template
 
-Roundtable
+## Roundtable
 
 Janique
 
