@@ -29,9 +29,19 @@ Geospatial data consumption and desktop based production and analysis. Both web 
 
 ## Security and Audit Requirements
 
+Client applications can be presented in many forms. Depending on the particular use case, some client application will be desktop based tools that allow GIS professionals to analyse and derive datasets that will be published on public systems. The desktop based tools run as the user doing the analysis, and as such merely need to be approved to run on government networks given their autonomous relationship to other systems.
+
+Web based applications present a different risk, and often require more stringent monitoring and audit ability in order to detect and trace security concerns. In cases of public facing, non-authenticated applications, the security concerns are focused on making sure the tool is available and that no edits are being made to the data (purely consumption). Authenticated systems then need to provide greater assurances that users are not able to perform nefarious actions against other users, and a more complete audit trail that includes user tracing is necessary.
+
 ## Downtime Impact
 
+Client facing applications are the most visible aspect of downtime associated with the system. If the client interface is not available the entire systems is considered to be unavailable. In many cases the client interface is also what faces the highest demand as caching strategies in the database and application tier may not be appropriate at the client tier.
+
+Loss of services will at least be an annoyance, but in some cases could result in the inability for a department to deliver a service to clients. If a data ingestion interface is down, then the government is unable to received new data that could impact decisions. Similarly, if client interfaces to data delivery are unavailable, external stakeholders are unable to access the information they may rely on to make informed decisions on their end, impacting other levels of government or corporations.
+
 ## Application Performance
+
+If client interfaces to systems are under performing, this would likely be seen by end users as a reduced trust in the system, and could have an impact on the perceived value of the data itself. While a poorly performing system will certainly result in lost productivity, in some instances it could also result in the loss of users as people look for alternatives.
 
 ## Data Loss
 
