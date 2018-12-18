@@ -64,9 +64,17 @@ Public data can be distributed through any appropriate means, although there is 
 
 ## Automation
 
+The publication of data to public systems should be automated as much as possible. Integration between systems should be validated through a CI process that can give assurances that the integrity of the data is meeting a minimal level of acceptability.
+
+Data will be both ingested and exposed through multiple systems. In cases where this data transfer is expected to happen repeatedly, the interaction should be automated. Stakeholders require a reliable system through which they can send their data to the appropriate department, and departments need a reliable way to publish outputs to stakeholders and the public.
+
 ## Operations Model
 
+Departments have different requirements for when they can delegate the operations of their infrastructure. Applications will be subject to the data protection provisions required of the data they serve, and as such there will be a mix of operating models required to be supported by the solution(s).
+
 ## Delivery Model
+
+Public data services are good candidates for SaaS or PaaS implementations. Data with higher protection requirements will either have to be self-hosted or is are possible candidates for IaaS services in a protected cloud infrastructure.
 
 # Development Requirements
 
