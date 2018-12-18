@@ -1,6 +1,17 @@
 # Tools Working Group November 28, 2018
 
-## Roundtable
+## Present
+
+* Jim Cowie
+* Al Akdari
+* Andrew Sinkinson
+* Noureen Sayed
+* Abou Haydara (PSC)
+* Reg Maltais
+* Mike Nguyen
+* Nick Schonning IRCC
+* Adam Peck Yoppworks
+* Will Stevens
 
 ## Notes
 * Reference architecture
@@ -9,6 +20,10 @@
 * IT shops tools
   * Put together a list with TBS and Clarity
   * CIDS reference architecture
+  * Jim: Compliance tools for developers
+  * Nick: Enterprise products, Artifactory, FOSSA, Black Duck, etc.
+  * Al Akdari: Curious to know about interest around the MEAN stack dynamic websites. MongoDB, Elastic, Apache, NoSQL
+  * Reg Maltais: Statistics Canada is interested in the MEAN stack, more specifically around emergency management.
 * Find companies that work on architecture
   * i.e. Yoppworks and Microsoft
   * Find more services providers

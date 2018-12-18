@@ -22,7 +22,7 @@ Scope: GC-wide or department specific issue/problem?
 Some hurdles:
 
 * freeing up the developers
-* logitistical: on-site, virtual, both, etc.
+* logistical: on-site, virtual, both, etc.
 
 Might want to look for recent/current RFI for subjects
 
