@@ -45,17 +45,29 @@ If client interfaces to systems are under performing, this would likely be seen 
 
 ## Data Loss
 
+Public facing systems will generally only be providing data through a read-only source, so the risk of data loss is minimal. Systems which can make edits to data, either through desktop editing or browser based interfaces, have a higher risk of introducing data loss. The data lost in these incidences is generally reproducable through some analysis technique, but would result in a loss of productivity and a loss of confidence in the system by end users.
+
 ## Speed / Efficiency of Innovation
 
 ## Scalability / Elasticity
 
+Web based tools should be capable of scaling dynamically. Each application will have a different amount of load that they are required to handle, but all systems should be architected in a manner than can scale to a sufficiently large number of users through the dynamic provisioning of more servers to host the client interface.
+
 ## Regional / Data Sovereignty
+
+Client interfaces are subject to the same data sovereignty requirements as the data itself. Publicly released data has the option to be hosted on any platform, but protected data needs to be more strictly controlled. Classified information needs to be hosted internally within a department, and will have the strictest controls applied to the client interface.
 
 ## Automation
 
+Some client interfaces are actually just APIs/services meant to receive or transmit data. These interfaces are meant for automated tools to interact with them, and will perform the lookups or analysis request based on the parameters given. These types of services will need to be able to handle significant volumes of data, as it is likely that a service such as geocoding would be queried very often.
+
 ## Operations Model
 
+Public data is a good candidate for being exposed through an external provider. Data that requires more protection or systems that operate solely on internal networks must be operated by internal staff. In order to make the operating environment as transparent as possible to end users, open standards and common interfaces should be employed to make the transition as transparent as possible.
+
 ## Delivery Model
+
+The delivery model will most likely be dictated by the type of data being interacted with. Desktop based clients will be able to leverage a mix of data sources through the client interface, as most tools have the ability to ingest a mix of data sources. Web based interfaces necessarily operate through a web browser, and as such rely more on data that can be exposed through other services. These services can be operating through a variety of models (SaaS, IaaS, on-prem, etc) as long as they provide an accessible interface to the client application.
 
 # Development Requirements
 
