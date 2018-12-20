@@ -4,11 +4,11 @@ December 13, 2018
 
 ## Attendees
 
-* Guillaume Charest, TBS
-* Sebastien Lemay, TBS
-* Daniel
-* Stacey Williams, TBS
-* Johanne
+* Guillaume Charest, Treasury Board of Canada Secretariat
+* Sebastien Lemay, Treasury Board of Canada Secretariat
+* Daniel Buijs, Health Canada
+* Stacey Williams, Treasury Board of Canada Secretariat
+* Johanne Jean-Baptiste, Treasury Board of Canada Secretariat
 
 ## Notes
 
