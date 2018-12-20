@@ -35,7 +35,7 @@ Web based applications present a different risk, and often require more stringen
 
 ### Downtime Impact
 
-Client facing applications are the most visible aspect of downtime associated with the system. If the client interface is not available the entire sys###tems is considered to be unavailable. In many cases the client interface is also what faces the highest demand as caching strategies in the database and application tier may not be appropriate at the client tier.
+Client facing applications are the most visible aspect of downtime associated with the system. If the client interface is not available the entire systems is considered to be unavailable. In many cases the client interface is also what faces the highest demand as caching strategies in the database and application tier may not be appropriate at the client tier.
 
 Loss of services will at least be an annoyance, but in some cases could result in the inability for a department to deliver a service to clients. If a data ingestion interface is down, then the government is unable to received new data that could impact decisions. Similarly, if client interfaces to data delivery are unavailable, external stakeholders are unable to access the information they may rely on to make informed decisions on their end, impacting other levels of government or corporations.
 
@@ -45,7 +45,7 @@ If client interfaces to systems are under performing, this would likely be seen 
 
 ### Data Loss
 
-Public facing systems will generally only be providing data through a read-only source, so the risk of data loss is minimal. Systems which can make edits to data, either through desktop editing or browser based interfaces, have a higher risk of introducing data loss. The data lost in these incidences is generally reproducable through some analysis technique, but would result in a loss of productivity and a loss of confidence in the system by end users.
+Public facing systems will generally only be providing data through a read-only source, so the risk of data loss is minimal. Systems which can make edits to data, either through desktop editing or browser based interfaces, have a higher risk of introducing data loss. The data lost in these incidences is generally reproducible through some analysis technique, but would result in a loss of productivity and a loss of confidence in the system by end users.
 
 ### Speed / Efficiency of Innovation
 
@@ -67,7 +67,7 @@ Public data is a good candidate for being exposed through an external provider. 
 
 ### Delivery Model
 
-The delivery model will most likely be dictated by the type of data being interacted with. Desktop based clients will be able to leverage a mix of data sources through the client interface, as most tools have the ability to ingest a mix of data sources. Web based interfaces necessarily operate through a web browser, and as such rely more on data that can be exposed through other services. These services can be operating through a variety of models (SaaS, IaaS, on-prem, etc) as long as they provide an accessible interface to the client application.
+The delivery model will most likely be dictated by the type of data being interacted with. Desktop based clients will be able to leverage a mix of data sources through the client interface, as most tools have the ability to ingest a mix of data sources. Web based interfaces necessarily operate through a web browser, and as such rely more on data that can be exposed through other services. These services can be operating through a variety of models (SaaS, IaaS, on-premise, etc) as long as they provide an accessible interface to the client application.
 
 ## Development Requirements
 
