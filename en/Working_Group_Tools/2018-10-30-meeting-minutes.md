@@ -1,14 +1,15 @@
 # Tools Working Group Meeting Minutes - 2018-10-30
 
-Stacey Williams
-Will Stevens
-Jim Cowie
-Mick Nguyen
-Reg Maltais
-Ross Clark
-Janique Godin
-Reg Maltais
-Guillaume Charest
+## Present
+
+* Stacey Williams
+* Will Stevens
+* Jim Cowie
+* Mick Nguyen
+* Ross Clark
+* Janique Godin, Statistics Canada
+* Reg Maltais, Statistics Canada
+* Guillaume Charest
 
 ## Discussion items
 
@@ -29,7 +30,9 @@ Reviewed the strategy taken by the Tools WG leads:
 
 Talent Management System
 
-### Stats Canada (Janique)-
+### Stats Canada
+
+**Sponsor: Janique**
 
 Data Visualization Self Serve Capabilities for non-technical users
 
