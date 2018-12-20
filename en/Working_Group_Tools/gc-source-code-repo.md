@@ -10,7 +10,7 @@ Analyse options for a Government of Canada source code version control system.
   * Sole source code repository for all departments and agencies
 * Needs 24/7, 365 days support
 * Identity and Access Management integrated to all departments
-* Seemless and automated governance and policy implementation
+* Seamless and automated governance and policy implementation
   * E.g: Code repository scanning for known vulnerabilities, licence compliance, audits,
 * DevSecOps functionalities available for all
   * E.g.: automated CI testing, build, deploy, etc.
