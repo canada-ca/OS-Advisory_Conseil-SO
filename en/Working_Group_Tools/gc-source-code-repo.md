@@ -40,9 +40,3 @@ All options must support use of additional tools and services configurations:
   * Notices
 * Governance and policies automated enforcement
   * Exception management
-
-|   	|   	|   	|   	|   	|
-|:-:	|:-:	|:-:	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
