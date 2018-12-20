@@ -5,7 +5,7 @@
 ## Present
 
 * Sebastien Lemay, Treasury Board of Canada Secretariat
-* Al Adkari, MongoDB
+* Al Akdari, MongoDB
 * Jim Cowie, Employment and Social Development Canada
 * Stacey Williams, Treasury Board of Canada Secretariat
 * Hervé Gendron, Justice Canada
