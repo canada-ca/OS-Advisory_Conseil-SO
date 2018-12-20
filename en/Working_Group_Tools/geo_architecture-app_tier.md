@@ -29,7 +29,7 @@ When data is exposed for download, services should either be capable of producin
   * [GeoJSON](http://geojson.org/)
   * Vector Tiles ([mbtiles](https://github.com/mapbox/mbtiles-spec), for example)
 
-Analytical services need to support operations that allow end users to restrict their analysis to specific areas, and perform efficiently by integrating with the data storate tier.
+Analytical services need to support operations that allow end users to restrict their analysis to specific areas, and perform efficiently by integrating with the data storage tier.
 
 * Query features by bounding box
 * Leverages DB level functions for analysis
