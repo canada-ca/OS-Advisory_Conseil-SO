@@ -22,10 +22,13 @@ Analyse options for a Government of Canada source code version control system.
 
 ## Options Analysis
 
-* On premise (self-hosted), open source
+Primary question:   Internal only vs external access to GC instance?
+
+* On premise (self-managed), open source
+* On premise (managed), open source
 * On premise (self-hosted), proprietary
-* Software as a Service, open source **
-* Software as a Service, proprietary
+* Software as a Service (cloud), open source **
+* Software as a Service (cloud), proprietary
 * Managed instance on Platform as a Service, open source
 
 ** Even if the SaaS is open source, the hosted nature of the instance means that the exit strategy may be as complex and costly as with a proprietary solution. Need to consider managed instance running on PaaS option.
