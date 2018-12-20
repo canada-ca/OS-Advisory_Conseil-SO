@@ -1,15 +1,17 @@
-# Rules Working Group - Minutes
+# Rules Working Group
+
+2018-12-17
 
 ## Present
 
-* Sebastien
-* Al
-* Jim
-* Stacey
-* Hervé Gendron
-* Guillaume
-* Johanne
-* Daniel
+* Sebastien Lemay, Treasury Board of Canada Secretariat
+* Al Adkari, MongoDB
+* Jim Cowie, Employment and Social Development Canada
+* Stacey Williams, Treasury Board of Canada Secretariat
+* Hervé Gendron, Justice Canada
+* Guillaume Charest, Treasury Board of Canada Secretariat
+* Johanne Jean-Baptiste, Treasury Board of Canada Secretariat
+* Daniel Buijs, Health Canada
 
 ## Agenda
 
