@@ -4,7 +4,11 @@
 
 Analyse options for a Government of Canada source code version control system.
 
-## Business Requirements
+## High Level Business Requirements
+
+* Host GC internal source code 
+
+## Functional and Non-Functional Requirements
 
 * Accessible to all departments and agencies
   * Sole source code repository for all departments and agencies
