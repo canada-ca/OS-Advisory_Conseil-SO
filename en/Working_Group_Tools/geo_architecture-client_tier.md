@@ -17,8 +17,6 @@ Geospatial data consumption and desktop based production and analysis. Both web 
   * [spatstat](http://spatstat.org/)
   * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
   * [deldir](https://flowingdata.com/2016/04/12/voronoi-diagram-and-delaunay-triangulation-in-r/)
-* [GeoNetwork Open Source](https://www.geonetwork-opensource.org/)
-  * [FGP Internal GeoNetwork](https://gccode.ssc-spc.gc.ca/federal-geospatial-platform/fgp-geonetwork)
 
 ## Business / Organization Requirements
 

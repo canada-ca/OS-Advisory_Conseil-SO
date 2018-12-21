@@ -10,7 +10,6 @@ Geospatial data publication and analysis services.
 * [Pelias](https://pelias.io/)
 * [Apache Spark](http://spark.apache.org/)
 * [Apache Kafka](https://kafka.apache.org/)
-* [Kibana](https://www.elastic.co/products/kibana)
 
 ## Business / Organization Requirements
 
