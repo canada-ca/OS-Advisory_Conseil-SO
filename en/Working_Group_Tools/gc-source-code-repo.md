@@ -6,7 +6,7 @@ Analyse options for a Government of Canada source code version control system.
 
 ## High Level Business Requirements
 
-* Host GC internal source code 
+* Host GC internal source code
 
 ## Functional and Non-Functional Requirements
 
@@ -29,11 +29,32 @@ Analyse options for a Government of Canada source code version control system.
 Primary question:   Internal only vs external access to GC instance?
 
 * On premise (self-managed), open source
+  * CVS
+  * Fossil
+  * Git
+  * GitLab
+  * Mercurial
+  * Phabricator
+  * SVN
 * On premise (managed), open source
 * On premise (self-hosted), proprietary
+  * Atlasian BitBucket
+  * GitHub Enterprise
+  * IBM ClearCase
+  * Microsoft Azure DevOps Server
+  * Perforce
 * Software as a Service (cloud), open source **
+  * FramGit.org
+  * GitLab.com
 * Software as a Service (cloud), proprietary
+  * Assembla
+  * Azure Repos
+  * BitBucket.org
+  * GitHub.com
+  * sourceforge.net
 * Managed instance on Platform as a Service, open source
+  * Azure Repos
+  * GitLab.com
 
 ** Even if the SaaS is open source, the hosted nature of the instance means that the exit strategy may be as complex and costly as with a proprietary solution. Need to consider managed instance running on PaaS option.
 
