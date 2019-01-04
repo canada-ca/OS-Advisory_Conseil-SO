@@ -29,6 +29,9 @@
     },
     {
       "pattern": "https://events.drupal.org/nashville2018"
+    },
+    {
+      "pattern": "https://gcdevexchange-carrefourproggc.org/"
     }
   ]
 }
