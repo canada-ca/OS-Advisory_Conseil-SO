@@ -11,7 +11,7 @@ Analyse options for a Government of Canada source code version control system.
 ## Functional and Non-Functional Requirements
 
 * Accessible to all departments and agencies
-  * Sole source code repository for all departments and agencies
+  * Primary source code repository for all departments and agencies
 * Needs 24/7, 365 days support
 * Identity and Access Management integrated to all departments
 * Seamless and automated governance and policy implementation
