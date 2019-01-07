@@ -1,4 +1,4 @@
-# Tools Working Group November 28, 2018
+# Group de travail Outils le 29 novembre, 2018
 ## Présents
 * Jim Cowie
 * Al Akdari
