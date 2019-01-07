@@ -38,3 +38,5 @@
   * Link to draft standard on OSS: https://github.com/canada-ca/open-source-logiciel-libre
 * Share the tools you use within your department
 * Guillaume to send links to sites and directives
+* https://alternativeto.net/ can be useful to find OSS alternates
+* link is here for geospatial application on MEAN stack, the city of Chicago - http://opengrid.io
