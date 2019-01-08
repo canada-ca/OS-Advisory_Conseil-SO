@@ -1,14 +1,14 @@
 # Tools Working Group Meeting Minutes 2018-11-15
 
-Joel OpenPlus
-Adam Yoppworks
-Nick Schonning
-Will Stevens
-Chris Jaja
-Jack Gulas
-Reg Maltais
-Jim Cowie
-Noureen Syed
+* Joel OpenPlus
+* Adam Yoppworks
+* Nick Schonning
+* Will Stevens
+* Chris Jaja
+* Jack Gulas
+* Reg Maltais
+* Jim Cowie
+* Noureen Syed
 
 ## Health Canada Migration to OSS platforms (SPARQL, etc.)
 
