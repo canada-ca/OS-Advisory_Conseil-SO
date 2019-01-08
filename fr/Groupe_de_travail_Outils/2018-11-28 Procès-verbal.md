@@ -17,7 +17,7 @@
 * Reginald Maltais examinera la demande de tirage et la fusionnera.
 * Outils d’ateliers de la TI
   * Dresser une liste avec le SCT et les responsables de Clarity.
-  * Architecture de référence CIDS.
+  * Architecture de référence des systèmes de mise en œuvre et de développement soutenus 
   * Jim : Outils de conformité pour les développeurs.
   * Nick : Produits organisationnels, Artifactory, FOSSA, Black Duck, etc.
   * Al Akdari : Il est curieux d’en savoir davantage l’intérêt suscité par les sites Web dynamiques de la pile MEAN : MongoDB, Elastic, Apache, NoSQL
