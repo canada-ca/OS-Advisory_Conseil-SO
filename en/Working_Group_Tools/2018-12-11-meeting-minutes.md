@@ -1,4 +1,6 @@
-# Tools Working Group - 2018-11-28
+# Tools Working Group
+
+2018-11-28
 
 ## Present
 
