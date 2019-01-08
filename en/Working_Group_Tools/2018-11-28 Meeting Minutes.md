@@ -19,7 +19,7 @@
 * Reginald Maltais to review pull request and merge it
 * IT shops tools
   * Put together a list with TBS and Clarity
-  * CIDS reference architecture
+  * Continuous Implement/Deployment Systems (CIDS) reference architecture
   * Jim: Compliance tools for developers
   * Nick: Enterprise products, Artifactory, FOSSA, Black Duck, etc.
   * Al Akdari: Curious to know about interest around the MEAN stack dynamic websites. MongoDB, Elastic, Apache, NoSQL
