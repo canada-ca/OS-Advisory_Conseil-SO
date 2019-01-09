@@ -27,7 +27,6 @@ Finally, Marc asked about secure development.  From the [question](../Rencontre
 ## Links
 
 - https://bcdevexchange.org
-- https://gcdevexchange-carrefourproggc.org
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/)
 - [UK government youtube video on sharing across ministeries](https://www.youtube.com/watch?v=02__3UTqXmU)
 - https://www.cigionline.org/articles/governance-vacuums-and-how-code-becoming-law
@@ -48,6 +47,7 @@ Finally, Marc asked about secure development.  From the [question](../Rencontre
 - https://opensource.guide
 - https://opensource.google.com/docs/why/
 - https://techfarhub.cio.gov/
+<!--- https://gcdevexchange-carrefourproggc.org-->
 
 ## Upcoming events
 

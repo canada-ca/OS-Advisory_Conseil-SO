@@ -27,9 +27,9 @@ Reg: Kent Jacobs (ESDC) for Geospatial already in place and published online.
 
 Mike: Unlimited free private repos for up to 3 collaborators.
 
-There are efforts being made to make it easier to live in both on-prem and online worlds.
+There are efforts being made to make it easier to live in both on-premise and online worlds.
 
-PSPC has identified the need for a central DVCS as part of its offerings for other government deparments.
+PSPC has identified the need for a central DVCS as part of its offerings for other government departments.
 
 Need for scoping:
 
@@ -37,12 +37,12 @@ Need for scoping:
 
 (Reg) If at some point the project is to be released as open source, it would be migrated to an open source repo on a public tool (GitHub, BitBucket, GitLab, etc. online offerings)
 
-(Mike) Enterprise version of GitHub is trying to solve the on-prem/PaaS version.
+(Mike) Enterprise version of GitHub is trying to solve the on-premise/PaaS version.
 
 (Reg) Requirements for 
-- internal Inner Source (share across all departments with private repos nontheless)
-- publish open source projects
-- might be a need for keeping other VCS in specific departments
+* internal Inner Source (share across all departments with private repos nonetheless)
+* publish open source projects
+* might be a need for keeping other VCS in specific departments
 
 Question: 
 Hosting internally vs externally (Cloud first)

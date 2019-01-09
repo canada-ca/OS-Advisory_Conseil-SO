@@ -6,7 +6,7 @@ Analyse options for a Government of Canada source code version control system.
 
 ## High Level Business Requirements
 
-* Provide hosting options for Goverment of Canada software
+* Provide hosting options for Government of Canada software
   * GC developed/contracted open source code
   * GC developed/contracted unreleased source code
     * GC source code at the 'PROTECTED' level
@@ -14,7 +14,7 @@ Analyse options for a Government of Canada source code version control system.
 
 ## Functional and Non-Functional Requirements
 
-* Accessible to all departments and agencies
+* Accessible to all departments and agencies of the GC
   * Primary source code repository for all departments and agencies
 * Needs 24/7, 365 days support
 * Identity and Access Management integrated to all departments
@@ -30,7 +30,7 @@ Analyse options for a Government of Canada source code version control system.
 
 ## Options Analysis
 
-Primary question:   Internal only vs external access to GC instance?
+From an architecture standpoint, there are multiple options.
 
 * On premise (self-managed), open source
 * On premise (managed), open source
