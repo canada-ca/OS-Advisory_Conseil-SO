@@ -6,7 +6,11 @@ Analyse options for a Government of Canada source code version control system.
 
 ## High Level Business Requirements
 
-* Host GC internal source code
+* Provide hosting options for Goverment of Canada software
+  * GC developed/contracted open source code
+  * GC developed/contracted unreleased source code
+    * GC source code at the 'PROTECTED' level
+    * GC source code at the classified (C/S/TS/++) levels
 
 ## Functional and Non-Functional Requirements
 
@@ -27,6 +31,28 @@ Analyse options for a Government of Canada source code version control system.
 ## Options Analysis
 
 Primary question:   Internal only vs external access to GC instance?
+
+* On premise (self-managed), open source
+* On premise (managed), open source
+* On premise (self-hosted), proprietary
+* Software as a Service (cloud), open source **
+* Software as a Service (cloud), proprietary
+* Managed instance on Platform as a Service, open source
+
+** Even if the SaaS is open source, the hosted nature of the instance means that the exit strategy may be as complex and costly as with a proprietary solution. Need to consider managed instance running on PaaS option.
+
+All options must support use of additional tools and services configurations:
+
+* CI testing
+* Package/Dependency Management
+  * Known security vulnerabilities
+  * Licence compliance
+  * Audits
+  * Notices
+* Governance and policies automated enforcement
+  * Exception management
+
+## Known Technology Options
 
 * On premise (self-managed), open source
   * CVS
@@ -55,16 +81,3 @@ Primary question:   Internal only vs external access to GC instance?
 * Managed instance on Platform as a Service, open source
   * Azure Repos
   * GitLab.com
-
-** Even if the SaaS is open source, the hosted nature of the instance means that the exit strategy may be as complex and costly as with a proprietary solution. Need to consider managed instance running on PaaS option.
-
-All options must support use of additional tools and services configurations:
-
-* CI testing
-* Package/Dependency Management
-  * Known security vulnerabilities
-  * Licence compliance
-  * Audits
-  * Notices
-* Governance and policies automated enforcement
-  * Exception management
