@@ -14,19 +14,17 @@ Analyse options for a Government of Canada source code version control system.
 
 ## Functional and Non-Functional Requirements
 
-* Accessible to all departments and agencies of the GC
-  * Primary source code repository for all departments and agencies
-* Needs 24/7, 365 days support
+* The solution must be accessible to all departments and agencies of the GC
+  * The non-private repos/projects must be accessible and discoverable by any department or agency.
 * Identity and Access Management integrated to all departments
-* Seamless and automated governance and policy implementation
-  * E.g: Code repository scanning for known vulnerabilities, licence compliance, audits,
-* DevSecOps functionalities available for all
-  * E.g.: automated CI testing, build, deploy, etc.
-* Configuration options per departments, per teams
-  * Support multiple configuration options for the development ecosystem tools such as the OS development environments, IDEs, automated testing tools, deployment models, etc.
-* Package Management (?)
-  * Centralized version of package Management
-  * Centralized security release mechanism
+* The platform must able to be used as the primary source code repository for all departments and agencies
+* APIs and Hooks must be provided to:
+  * Support departments specific SDLC environments (IDEs, OS, Network, etc.) and methodologies (traditional waterfall, DevSecOps, etc.)
+  * Support departments specidic CI/CD needs, e.g.:
+    * Seamless and automated governance and policy implementation
+    * Code repository scanning for known vulnerabilities, licence compliance, audits, reporting, etc.    
+    * Automation/Orchestration: Build, Unit test, Deploy, Prod, etc.
+* Needs 24/7, 365 days support
 
 ## Options Analysis
 
