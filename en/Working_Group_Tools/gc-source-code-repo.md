@@ -20,7 +20,7 @@ Analyse options for a Government of Canada source code version control system.
 * The platform must able to be used as the primary source code repository for all departments and agencies
 * APIs and Hooks must be provided to:
   * Support departments specific SDLC environments (IDEs, OS, Network, etc.) and methodologies (traditional waterfall, DevSecOps, etc.)
-  * Support departments specidic CI/CD needs, e.g.:
+  * Support departments specific CI/CD needs, e.g.:
     * Seamless and automated governance and policy implementation
     * Code repository scanning for known vulnerabilities, licence compliance, audits, reporting, etc.    
     * Automation/Orchestration: Build, Unit test, Deploy, Prod, etc.
