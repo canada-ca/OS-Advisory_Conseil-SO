@@ -12,6 +12,15 @@ Analyse options for a Government of Canada source code version control system.
     * GC source code at the 'PROTECTED' level
     * GC source code at the classified (C/S/TS/++) levels
 
+### Discoverability and Collaboration of projects
+
+|Source Code|Team|Department|Whole GC|Public|
+|---|---|---|---|---|
+|Open Source|X|X|X|X|
+|Unreleased but unclassified|X|X|X||
+|Protected|X|X|||
+|Classified|X||||
+
 ## Functional and Non-Functional Requirements
 
 * The solution must be accessible to all departments and agencies of the GC

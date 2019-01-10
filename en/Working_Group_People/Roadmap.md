@@ -17,6 +17,7 @@
 ## Practical Roadmap
 
 ### Focus -- Awareness
+
 * Myth-Busting - info graphic - September 2018
 * Co-location w/ private sector - working open - Fall 2018
   * Additional option would be to go work for a week with another GC partner.
@@ -34,6 +35,7 @@ Framework for infographic:
 * IP implications - might have software that includes copyrighted code and Open Source. Might not be the right location for this item.
 
 ### Focus -- Culture
+
 * Presentation OSAB, CIOC (EARB?) - Todd (B.C. Gov) - TBC
   * Additional tentative presentations:
     * Topics
@@ -45,12 +47,12 @@ Framework for infographic:
 Resources: Project Aristotle - Elements of effective teams - https://rework.withgoogle.com/print/guides/5721312655835136/
 
 ### Focus -- Skill
+
 * Open source work days challenge - single project - Kick off Open Source Day - Sept 2018
   * 1 day per month / seek CIO support
   * Open sourcing a Govt. code repository?
 * How to work with open source sessions - online learning, videos, meet & greet social - Start June 2018, monthly social
   * Tentative: Work with Canada School of Public Service to provide course (should be leveraging external material as well) - Fall 2018
-
 
 ## Whitepaper contributions
 

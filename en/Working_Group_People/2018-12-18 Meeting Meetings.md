@@ -19,7 +19,7 @@
       * Will this be presented at the OSAB?
         * Can provide an update
         * Sound boarding this afternoon with Olivia O'Neil, let us know if you are interested in participating in this activity
-* Guillaume"s role: work on policy instruments and the Advisory Board to create the link
+* Guillaume's role: work on policy instruments and the Advisory Board to create the link
   * end goal: put our work into the digital policy
 * EARB put clear guidance around using Open Source First
 * Communications:
