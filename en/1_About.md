@@ -224,12 +224,27 @@ Responsible for developing engagement activities related to the improvement of:
 
 Participants
 
-* Co-lead: Christopher, Service and GC 2.0 Policy and Community Enablement Division
-* Co-lead: Richard, Red Hat
-* Christopher, CIOB
-* Erin, Robot Missions
-* Harsh, GitHub
-* Sang, Open Plus
-* Shermineh,
+* Co-lead: Christopher Allison, Canadian School of Public Service
+* Co-lead: Richard Seguin, Red Hat
+* Christopher Jaja, Treasury Board Secretariat
+* Erin Kennedy, Robot Missions
+* Harsh Sabikhi, GitHub
+* Sang Trinh, Open Plus
+* Shermineh, Cyber BC
+* Al Akdari, MongoDB
+* Alessandro Alasia, Statistics Canada
+* Caroline Bassett, Shared Services Canada 
+* Guillaume Charest, Treasury Board Secretariat 
+* Jim Cowie, Employment and Social Development Canada
+* Mike Cardy, Redhat
+* Mike Gifford, OpenConcept 
+* Paul Bellows, Yellow Pencil
+* Ross Thompson, Treasury Board Secretariat
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Paulin-Godbout, Department of National Defence 
+* Stuart Spence, Environmwnr and Climate Change Canada 
+* William Chow, MongoDB
+
 
 **Terms of Reference will be reviewed and updated annually in Q1.**
