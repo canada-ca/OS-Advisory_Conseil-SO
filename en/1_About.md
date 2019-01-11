@@ -171,26 +171,48 @@ Responsible for determining approach and contributing to:
 * Commercialization
 * Dev/ops
 
+
 Participants
 
-* Co-Chair: Janique Godin, Statistics Canada
-* Co-chair: Jack Gulas, Eclipsys
+* Co-Chair: Andrew Sinkinson, Statistics Canada  
+* Co-chair: Jack Gulas, Yoppworks
 * Sebastien Lemay, Treasury Board Secretariat
-* Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
-* Christopher Jaja, CIOB
-* Ross Thompson, CIOB
+* Christopher Allison, Canadian School of Public Service 
+* Christopher Jaja, Treasury Board Secretariat
+* Ross Thompson, Treasury Board Secretariat
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pageau, Oproma
 * Michael Nguyen, GitHub
 * Olivier Dzomo, Public Service Commission
-* Members of Stéphane Dufour's team, Statistics Canada
 * Dave Buchanan, Breqwatr
-* Joel, Open Plus
+* Joel Brockbank, Open Plus
 * Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
-* Reginald, Statistics Canada
+* Reginald Maltais, Statistics Canada
+* Janique Godin, Statistics Canada
+* Adam peck, Yoppworks
+* Al Akdari, MongoDB
+* Alessandro Alasia, Statistics Canada
+* Andrew Gibson, Treasury Board Secretariat
+* Chris Leblanc, Canadian Food Inspection Agency 
+* Christian Sauve, Public Service Commission 
+* Guillaume Charest, Treasury Board Secretariat
+* Jean-Marc Spaggiari, Cloudera
+* Jeremy Ramsey, Cloudera
+* Jim Cowie, Employment and Social Development Canada
+* Kristen Robinson, Amazon
+* Larry Lindsay, IBM
+* Mike Gifford, OpenConcept 
+* Mourad Faid, Statistics Canada
+* Robin Galipeau, Open Plus 
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Dufour, Statistics Canada
+* Stéphane Fréchette, Microsoft
+* Stuart Spence, Environment and Climate Change Canada
+* William Chow, MongoDB
 
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
