@@ -139,18 +139,30 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 Participants
 
-* Co-Lead: Dugald Topshee, Justice Canada
-* Co-Lead: Marc, Oproma
+* Co-Lead: Dugald Topshee, Department of Justice 
+* Co-Lead: Marc Pageau, Oproma
 * Heather Laird, Treasury Board Secretariat
 * Rodney, Cloudera
-* Noureen, Microsoft
-* Robin, Open Plus
+* Noureen Syed, Microsoft
+* Robin Galipeau, Open Plus
 * Christian, Public Service Commission
-* Mike, Eclipse Foundation
-* John, Canadian Digital Services
-* William, Employment and Social Development Canada
-* Ranjan, Canada Border Services
-* Noel, Treasury Board Secretariat
+* Mike Gifford, OpenConcept
+* John O'Brien, Canadian Digital Services
+* William Chen, Employment and Social Development Canada
+* Ranjan Banerjee, Canada Border Services
+* Noel Corriveau, Treasury Board Secretariat
+* Al Akdari, MongoDB
+* Caroline Bassett, Shared Services Canada 
+* Daniel Buijs, Health Canada
+* Edith Tremblay, Public Service Commission
+* Guillaume Charest, Treasury Board Secretariat
+* Jim Cowie, Employment and Social Development Canada
+* Johanne Jean-Baptiste, Treasury Board Secretariat
+* Mike Milinkovich, Eclipse Foundation
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Paulin-Godbout, Department of National Defence
+* William Show, MongoDB
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
