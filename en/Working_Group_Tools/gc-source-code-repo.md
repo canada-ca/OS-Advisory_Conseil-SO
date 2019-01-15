@@ -21,6 +21,8 @@ Analyse options for a Government of Canada source code version control system.
 |Protected|X|X|||
 |Classified|X||||
 
+![Discoverability and Collaboration Levels](./discoverability-collaboration-levels.png)
+
 ## Functional and Non-Functional Requirements
 
 * The solution must be accessible to all departments and agencies of the GC
