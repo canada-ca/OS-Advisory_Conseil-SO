@@ -139,18 +139,30 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 Participants
 
-* Co-Lead: Dugald Topshee, Justice Canada
-* Co-Lead: Marc, Oproma
+* Co-Lead: Dugald Topshee, Department of Justice 
+* Co-Lead: Marc Pageau, Oproma
 * Heather Laird, Treasury Board Secretariat
 * Rodney, Cloudera
-* Noureen, Microsoft
-* Robin, Open Plus
+* Noureen Syed, Microsoft
+* Robin Galipeau, Open Plus
 * Christian, Public Service Commission
-* Mike, Eclipse Foundation
-* John, Canadian Digital Services
-* William, Employment and Social Development Canada
-* Ranjan, Canada Border Services
-* Noel, Treasury Board Secretariat
+* Mike Gifford, OpenConcept
+* John O'Brien, Canadian Digital Services
+* William Chen, Employment and Social Development Canada
+* Ranjan Banerjee, Canada Border Services
+* Noel Corriveau, Treasury Board Secretariat
+* Al Akdari, MongoDB
+* Caroline Bassett, Shared Services Canada 
+* Daniel Buijs, Health Canada
+* Edith Tremblay, Public Service Commission
+* Guillaume Charest, Treasury Board Secretariat
+* Jim Cowie, Employment and Social Development Canada
+* Johanne Jean-Baptiste, Treasury Board Secretariat
+* Mike Milinkovich, Eclipse Foundation
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Paulin-Godbout, Department of National Defence
+* William Show, MongoDB
 
 **Working Group: Tools**
 Responsible for determining approach and contributing to:
@@ -159,26 +171,48 @@ Responsible for determining approach and contributing to:
 * Commercialization
 * Dev/ops
 
+
 Participants
 
-* Co-Chair: Janique Godin, Statistics Canada
-* Co-chair: Jack Gulas, Eclipsys
+* Co-Chair: Andrew Sinkinson, Statistics Canada  
+* Co-chair: Jack Gulas, Yoppworks
 * Sebastien Lemay, Treasury Board Secretariat
-* Christopher Allison, Service and GC 2.0 Policy and Community Enablement Division
-* Christopher Jaja, CIOB
-* Ross Thompson, CIOB
+* Christopher Allison, Canadian School of Public Service 
+* Christopher Jaja, Treasury Board Secretariat
+* Ross Thompson, Treasury Board Secretariat
 * Rodney Helal, Cloudera
 * Noureen Syed, Microsoft
 * Marc Pageau, Oproma
 * Michael Nguyen, GitHub
 * Olivier Dzomo, Public Service Commission
-* Members of Stéphane Dufour's team, Statistics Canada
 * Dave Buchanan, Breqwatr
-* Joel, Open Plus
+* Joel Brockbank, Open Plus
 * Will Stevens, CloudOps
 * Ross Clarke, Canadian Food Inspection Agency
 * Nick Schonning, Immigration, Refugees and Citizenship Canada
-* Reginald, Statistics Canada
+* Reginald Maltais, Statistics Canada
+* Janique Godin, Statistics Canada
+* Adam peck, Yoppworks
+* Al Akdari, MongoDB
+* Alessandro Alasia, Statistics Canada
+* Andrew Gibson, Treasury Board Secretariat
+* Chris Leblanc, Canadian Food Inspection Agency 
+* Christian Sauve, Public Service Commission 
+* Guillaume Charest, Treasury Board Secretariat
+* Jean-Marc Spaggiari, Cloudera
+* Jeremy Ramsey, Cloudera
+* Jim Cowie, Employment and Social Development Canada
+* Kristen Robinson, Amazon
+* Larry Lindsay, IBM
+* Mike Gifford, OpenConcept 
+* Mourad Faid, Statistics Canada
+* Robin Galipeau, Open Plus 
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Dufour, Statistics Canada
+* Stéphane Fréchette, Microsoft
+* Stuart Spence, Environment and Climate Change Canada
+* William Chow, MongoDB
 
 **Work Group: People**
 Responsible for developing engagement activities related to the improvement of:
@@ -190,12 +224,27 @@ Responsible for developing engagement activities related to the improvement of:
 
 Participants
 
-* Co-lead: Christopher, Service and GC 2.0 Policy and Community Enablement Division
-* Co-lead: Richard, Red Hat
-* Christopher, CIOB
-* Erin, Robot Missions
-* Harsh, GitHub
-* Sang, Open Plus
-* Shermineh,
+* Co-lead: Christopher Allison, Canadian School of Public Service
+* Co-lead: Richard Seguin, Red Hat
+* Christopher Jaja, Treasury Board Secretariat
+* Erin Kennedy, Robot Missions
+* Harsh Sabikhi, GitHub
+* Sang Trinh, Open Plus
+* Shermineh, Cyber BC
+* Al Akdari, MongoDB
+* Alessandro Alasia, Statistics Canada
+* Caroline Bassett, Shared Services Canada 
+* Guillaume Charest, Treasury Board Secretariat 
+* Jim Cowie, Employment and Social Development Canada
+* Mike Cardy, Redhat
+* Mike Gifford, OpenConcept 
+* Paul Bellows, Yellow Pencil
+* Ross Thompson, Treasury Board Secretariat
+* Sani Chabi YO, MongoDB
+* Stacey Williams, Treasury Board Secretariat
+* Stephane Paulin-Godbout, Department of National Defence 
+* Stuart Spence, Environmwnr and Climate Change Canada 
+* William Chow, MongoDB
+
 
 **Terms of Reference will be reviewed and updated annually in Q1.**

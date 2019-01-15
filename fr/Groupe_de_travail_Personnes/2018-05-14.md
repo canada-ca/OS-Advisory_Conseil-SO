@@ -1,3 +1,5 @@
+[English](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/2018-05-14.md#people---open-source-advisory-board---introductory-meeting)
+
 # Personnes – Conseil consultatif sur les sources ouvertes – Réunion d’introduction
 ## [Participants](People.md)
 * Richard – RedHat – Créer un environnement ouvert et collaboratif – Beaucoup d’information à partager.

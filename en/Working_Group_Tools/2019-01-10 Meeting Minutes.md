@@ -29,7 +29,7 @@ Comments
 * Open Resource Exchange : point to it 
   * Seamless collaboration (Bitbucket, gitlab, github: need accounts for each and will need to sync between the platforms, rules around that)
   * Single centralized for source code authority 
-* Identity and access management: do you already have identity management that spans across all depts.?
+* Identity and access management: do you already have identity management that spans across all departments?
   * No, working on it 
   * SSC: Microsoft dynamics, missing some departments
   * My Key
