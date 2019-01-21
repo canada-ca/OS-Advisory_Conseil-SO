@@ -1,3 +1,5 @@
+[English](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/Objectives.md#objectives)
+
 # Objectives
 
 Nos objectifs consisteront à saisir les occasions ou à relever les défis liés à la mobilisation des personnes et aux partenariats dans le domaine des sources ouvertes, y compris, sans toutefois s’y limiter, les suivants :
