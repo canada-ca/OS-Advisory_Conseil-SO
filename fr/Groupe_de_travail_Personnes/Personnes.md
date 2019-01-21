@@ -1,3 +1,5 @@
+[English](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/People.md#people)
+
 # Personnes
 
 ## Responsabilités
