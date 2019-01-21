@@ -61,26 +61,33 @@ Ressources : Projet Aristote – Caractéristiques des équipes efficaces : http
 
 ## Contributions à l’analyse de rentabilisation
 Échéancier : Fin juin 2018
-•	Recours aux logiciels libres
-o	Collaboration avec des fournisseurs externes
-o	Changement de culture et de mentalité
-o	Collaboration avec des fournisseurs
-o	Protection de la vie privée
-o	Réduction du temps de développement
-o	Diminution des coûts liés aux licences
-o	Accroissement de la fiabilité (p. ex., soutien, sécurité, etc.)
-•	Collectivité
-o	Contribution au code et aux projets de la collectivité
-o	Création d’un groupe de personnes (p. ex., qui pourrait être composé d’excellents candidats pour les projets du Carrefour des développeurs du gouvernement du Canada)
-o	Valeur pour l’organisation : par la présentation du travail accompli
-o	Valeur pour les personnes et les employés : par l’éducation et la formation sur la façon de collaborer à des projets de codage. (Nous ne sommes pas certains de l’importance de ce point. Qu’en pensez-vous?)
-Journée sur les sources ouvertes
+* Recours aux logiciels libres
+  * Collaboration avec des fournisseurs externes
+  * Changement de culture et de mentalité
+  * Collaboration avec des fournisseurs
+  * Protection de la vie privée
+  * Réduction du temps de développement
+  * Diminution des coûts liés aux licences
+  * Accroissement de la fiabilité (p. ex., soutien, sécurité, etc.)
+* Collectivité
+  * Contribution au code et aux projets de la collectivité
+  * Création d’un groupe de personnes (p. ex., qui pourrait être composé d’excellents candidats pour les projets du Carrefour des développeurs du gouvernement du Canada)
+  * Valeur pour l’organisation : par la présentation du travail accompli
+  * Valeur pour les personnes et les employés : par l’éducation et la formation sur la façon de collaborer à des projets de codage. (Nous ne sommes pas certains de l’importance de ce point. Qu’en pensez-vous?)
+  
+## Journée sur les sources ouvertes
+
 Échéancier : Fin septembre
-•	Sujets d’intérêt
-o	Suggérer des idées au Secrétariat du Conseil du Trésor
-Collaboration interministérielle – Renforcement de la collectivité interne
+
+* Sujets d’intérêt
+  * Suggérer des idées au Secrétariat du Conseil du Trésor
+  
+## Collaboration interministérielle – Renforcement de la collectivité interne
+
 Échéancier : Novembre et après
-•	Bunz – Commentaires? (À confirmer – Shermineh)
-•	Activités
-Sensibilisation – CS et activités
-•	Espace de travail numérique
+
+* Bunz – Commentaires? (À confirmer – Shermineh)
+* Activités
+
+## Sensibilisation – CS et activités
+* Espace de travail numérique
