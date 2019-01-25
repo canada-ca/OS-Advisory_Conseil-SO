@@ -1,58 +1,70 @@
-# GC Source Code Version Control 
-2019-01-10
+# Tools Working Group
+2019-01-23
 
 ## Present
-* Christian Sauve
-* Joshua Turner
-* Reg Maltais
-* Will Stevens
-* Dave Buchanan 
-* Brittany Hurley
-* Jim Cowie
-* Sean Kibbee
-* Sebastien Lemay 
-* Guillaume Charest 
-* Stacey Williams 
+* Guillaume Charest - Treasury Board Secretariat Canada
+* Andrew Sinkinson - Statistics Canada
+* Adam Peck - Yoppworks
+* Joel Brockbank - Open Plus
+* Larry Lindsay - IBM
+* Jim Cowie - ESDC
+* Stuart Spence - ECCC
+* Mike Nguyen - GitHub
+
+## Agenda
+
+* Review previous meeting minutes
+* Review OSAB discussion on GC VCS
+* Next steps
+  * Andrew: 
+    * Web CMS for Government Canada
+    * Cloud Native Architecture
+* Roundtable
 
 ## Notes
 
-Previous meeting minutes 
-
-* Functional and Non-Functional requirements 
-  * Compatible with existing pipelines 
-  * Source code management, work with what is out there 
-  
-Comments
-* Stakeholders are missing 
-* Expectations: devs, managers, dept/GC vision 
-* Records management
-* Open Resource Exchange : point to it 
-  * Seamless collaboration (Bitbucket, gitlab, github: need accounts for each and will need to sync between the platforms, rules around that)
-  * Single centralized for source code authority 
-* Identity and access management: do you already have identity management that spans across all departments?
-  * No, working on it 
-  * SSC: Microsoft dynamics, missing some departments
-  * My Key
-* Discoverability and collaboration of projects: solid understanding of managing who people are
-* Offering public acceptability, are you accepting public contribution (i.e. pull request)?
-  * Yes 
-  * State how you would like people to contribute
-  * Not just GC employees, need to identify public contributors
-  * Microsoft Open Source portal:  identify Microsoft employees 
-    * Active directory structure, linking github profiles of employees 
-    * IM management through internal port, 2 factor authentication github
-* Tool we choose: need to support different layers 
-  * Released but unclassified: can’t be released right away to public but will be in the future. Need an easy switch 
-  * Code should be unclassified 
-* Is there a requirement to consider groups of people outside of CS category writing script?
-  * Look at users, anyone who contributes to the code 
-  * Accessibility for everyone: getting git on all computers 
-  * Accessibility requirements, official languages 
-  * Is the GC key a option?
-  * Pressure from people doing day to day short work, quick turn around. GC policy requirements on public visible. Source code is it’s own language (not English or French), language of work needs to be bilingual 
-  * Day to day and government policy 
-  * Github: support multilingual, is it a problem if the platform can’t support it?
-  * The hosted solution needs to be bilingual 
-
-
-
+* Web CMS for Government of Canada
+  * Developed a [WXT Drupal distribution](https://www.drupal.org/project/wxt)
+  * Lots of questions around Canada.ca
+    * Can we have this as a Cloud native option?
+    * Is this going to be available as a service for departments?
+    * Is there a GC-wide direction decided yet or mandatory?
+  * Adam: 
+    * What sort of pushback did you guys receive?
+    * Any private companies pushing back?
+    * Are there politics against adoption?
+  * Andrew: 
+    * Lots of pushback was around security but now the realisation is that this was not founded.
+    * Core Drupal is stable and this has been a successful use of OSS in multiple projects
+  * Joel:
+    * Worked on Drupal 5 years before WXT came in.
+    * WXT Framework is being used in provincial governments as well.
+    * Helped support the company activities (This might be an example of GC supporting Canadian companies)
+  * Adam:
+    * Might need a GC champion actually pushing an OSS solution as a success story for all other departments
+  * Andrew:
+    * Links to Cloud Nativ
+### Previous meeting minutese initiative.
+    * Solutions can now mostly be offered as a SaaS
+  * Adam:
+    * This is a solid candidate for the OSAB to provide as a success story and make the case for OSS.
+  * Andrew:
+    * Cloud native architecture is already prepared
+    * Presentations could be designed in a relatively short term
+  * Adam:
+    * Rules WG might be interested to learn about all the steps that were required.
+    * How do you procure it?
+  * Joel:
+    * Can support in the presentations
+    * Procurement: typically departments don't necessarily have the staff with experience to do it but you can use procurement vehicles
+* Cloud Native Architecure:
+  * Adam:
+    * Cloud Native Computing Foundation work being done at Statistics Canada
+    * Will Hearn has been working on containerizing and moving to Cloud a lot of applications (OSS and proprietary)
+    * Kubernetes (K8s) is being leveraged to bringing infrastructure to code to enable scaling.
+    * Includes .NET projects in the Cloud as well.
+* Roundtable
+  * Adam: need to figure out the path to success for the OSAB, ways for departments to use OSS. Need impactful stories.
+  * Larry: Interested in seeing how automation could support OSS in the GC, increasing pipelines speed.
+  * Jim: Great work being done in Statistics Canada and inspiring to see similar activities being done in ESDC.
+  * Stuart: CI and pipeline, making progress in ECCC. Slowly using GitLab in teams. Can organize demos. Lots of folks don't know about automation. Might be an opportunity to provide automated standard tasks for these developers.
