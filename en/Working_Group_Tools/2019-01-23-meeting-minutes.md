@@ -30,11 +30,11 @@
     * Is this going to be available as a service for departments?
     * Is there a GC-wide direction decided yet or mandatory?
   * Adam: 
-    * What sort of pushback did you guys receive?
+    * What sort of push back did you guys receive?
     * Any private companies pushing back?
     * Are there politics against adoption?
   * Andrew: 
-    * Lots of pushback was around security but now the realisation is that this was not founded.
+    * Lots of push back was around security but now the realisation is that this was not founded.
     * Core Drupal is stable and this has been a successful use of OSS in multiple projects
   * Joel:
     * Worked on Drupal 5 years before WXT came in.
@@ -43,9 +43,11 @@
   * Adam:
     * Might need a GC champion actually pushing an OSS solution as a success story for all other departments
   * Andrew:
-    * Links to Cloud Nativ
-### Previous meeting minutese initiative.
-    * Solutions can now mostly be offered as a SaaS
+    * Links to Cloud Native
+
+### Previous meeting minutes initiative.
+
+* Solutions can now mostly be offered as a SaaS
   * Adam:
     * This is a solid candidate for the OSAB to provide as a success story and make the case for OSS.
   * Andrew:
