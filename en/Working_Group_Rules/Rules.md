@@ -12,18 +12,20 @@ Responsible for reviewing, assessing, and making recommendations related to open
 
 ## Participants
 
-* Co-lead: Marc, Oproma
+* Co-Leads:
+  * Dugald Topshee, Justice Canada
+  * Marc Pageau, Oproma
+* Guillaume Charest, Treasury Board Secretariat
 * Heather Laird, Treasury Board Secretariat
 * Noureen Syed, Microsoft
 * Robin Galipeau, Open Plus
-* Christian, Public Service Commission
-* Rodney Helal, Cloudera
-* John, Canadian Digital Services
+* Christian Sauvé, Public Service Commission
+* John O'Brien, Canadian Digital Services
 * William Chen, Employment and Social Development Canada
 * Ranjan, Canada Border Services
-* Noel, Treasury Board Secretariat
-* Mike, Eclipse Foundation
-* Jim, Employment and Social Development Canada
+* Noel Corriveau, Treasury Board Secretariat
+* Mike , Eclipse Foundation
+* Jim Cowie, Employment and Social Development Canada
 
 ### 2018-05-10 Meeting Minutes 
 #### Rules 
@@ -32,16 +34,17 @@ Responsible for reviewing, assessing and making recommendations related to open 
 
 #### High level list of items to look into:
 * Policy
-  * Define policies around
+  * Define policy requirements around:
     * Open Source
+      * Use
+      * Contribution
+      * Release
     * Open Standards
-    * _Statement on publishing?_
-    * MOU?-example- UK, Digital 7
-    * OpenGov partnership
+  * OpenGov partnership implications
   * Policies need to support engagements
-  * Definition of Open Source 1st policy?
-  * _Publication of new code_
-  * _Registration of code/license?_
+  * Definition of Open Source 1st policy? (Completed - [Directive on Management of IT - C.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8))
+    * _Publication of new code_
+    * _Registration of code/license?_
 * Legal
   * Directives on code of practice for technologies
   * _Potential liabilities/risk definition_
