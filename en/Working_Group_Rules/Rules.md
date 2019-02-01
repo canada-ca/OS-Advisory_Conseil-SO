@@ -50,15 +50,19 @@ Responsible for reviewing, assessing and making recommendations related to open 
   * _Potential liabilities/risk definition_
   * Potential to the Crown to be held to a high standard
   * _Define the legal component/dependencies for each of the five major elements_
-* License
-  * _Mandatory Open APIs?_
-  * Outside dependencies?
-  * Open license, what?
+* Licenses
+  * To identify:
+    * _Mandatory Open APIs_
+    * Outside dependencies
+    * Open source license:
+      * Definitions
+      * Selection
+      * Business need
 * Procurement
-  * Mandatory Open APIs?
+  * Confirm requirement for: Mandatory Open APIs
   * _Abide by a set of Open Standards_
   * Interoperability
-  * _Agile procurement definition and how does it apply?_
+  * _Agile procurement definition and how does it apply_
     * A new version of SBIPS? Specific to Open Source/Open Standards
   * How do we define proof of being part of the communities?
   * Total cost of ownership
