@@ -25,13 +25,19 @@
       "pattern": "https://slidewiki.org"
     },
     {
-      "pattern": "https://events.drupal.org/seattle2019"
-    },
-    {
-      "pattern": "https://events.drupal.org/nashville2018"
+      "pattern": "https://events.drupal.org/"
     },
     {
       "pattern": "https://gcdevexchange-carrefourproggc.org/"
+    },
+    {
+      "pattern": "https://open.canada.ca/"
+    },
+    {
+      "pattern": "https://ouvert.canada.ca/"
+    },
+    {
+      "pattern": "https://www.drupal.org/project/wxt"
     }
   ]
 }
