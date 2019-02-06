@@ -23,7 +23,7 @@
   * Justification: minimizing risks, whether in procurement itself or in the choice of technology.
   * Option analysis may not be complete: missing information, rapidity of technology evolving.
     * No current mechanisms to go back and change tech stack if industry has evolved faster than our procurement/adoption of solution components has.
-  * Alex Benay has been ciruclating the ITQ AI, OurBrain (?) has been offering open source software but repackaged.
+  * Alex Benay has been circulating the ITQ AI, OurBrain (?) has been offering open source software but repackaged.
   However, the company that created the open source software has not seen the value in applying, that we know.
 * Guillaume: 
   * External communications around use of OSS, and how to bring private companies.
