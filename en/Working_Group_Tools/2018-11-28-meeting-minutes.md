@@ -19,7 +19,7 @@
 * Reginald Maltais to review pull request and merge it
 * IT shops tools
   * Put together a list with TBS and Clarity
-  * CIDS reference architecture
+  * Continuous Implement/Deployment Systems (CIDS) reference architecture
   * Jim: Compliance tools for developers
   * Nick: Enterprise products, Artifactory, FOSSA, Black Duck, etc.
   * Al Akdari: Curious to know about interest around the MEAN stack dynamic websites. MongoDB, Elastic, Apache, NoSQL
@@ -38,3 +38,5 @@
   * Link to draft standard on OSS: https://github.com/canada-ca/open-source-logiciel-libre
 * Share the tools you use within your department
 * Guillaume to send links to sites and directives
+* https://alternativeto.net/ can be useful to find OSS alternates
+* link is here for geospatial application on MEAN stack, the city of Chicago - http://opengrid.io
