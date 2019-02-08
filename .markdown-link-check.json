@@ -38,6 +38,9 @@
     },
     {
       "pattern": "https://www.drupal.org/project/wxt"
+    },
+    {
+      "pattern": "https://gccode.ssc-spc.gc.ca/"
     }
   ]
 }
