@@ -4,7 +4,7 @@ Geospatial data persistence and backend analysis capabilities.
 
 ## Possible Technologies
 
-* [PostgreSQL / PostGIS](https://postgis.net/)
+* [PostgreSQL / PostGIS](https://postgis.net/) - [Assessment](../../Assessments/Databases/PostGreSQL.md)
 * [Cassandra](https://cassandra.apache.org)
 * [Redis](https://redis.io)
 
