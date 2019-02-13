@@ -58,7 +58,15 @@ Data loss in systems of record is a separate issue, and represents a major risk 
 
 ### Speed / Efficiency of Innovation
 
+Geospatial systems are often dealing with very large data flows, and could be used to drive real time visualization applications. For this reason, the system needs to be flexible enough to allow implementations to adapt the technologies the the specific needs of the projects being served by exposed interfaces.
+
+Ideally, systems would have an extension/plugin system that would allow departments to adopt new technologies without relying on the core project to have them fully implemented.
+
 ### Scalability / Elasticity
+
+The application tier will almost certainly be provided data services to a mix of applications. The nature of geospatial data means that data layers of often large both in quantity (records) and size (attributes on a record). To complicate matters, the same geospatial layers can be served through multiple protocols at the same time, often requiring the server to respond to a mix of requests in a short period.
+
+For serving base map data, the application server should support publishing both tiled rasters (XYZ tiles) and vector data. Further, multiple vector formats should be supported to support the development of client interfaces that want to present data more dynamically.
 
 ### Regional / Data Sovereignty
 
