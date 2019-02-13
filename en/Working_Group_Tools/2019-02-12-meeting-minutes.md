@@ -10,7 +10,7 @@
 * Joel - OpenPlus
 * Reg Maltais
 * Larry Lindsay
-* Nick Schnonning
+* Nick Schonning
 
 ## Agenda
 
@@ -21,7 +21,7 @@
   * Demo site still in the works
 * Identify new Reference Architecture domains
   * Asset Management
-  * Application Lifecycle Management
+  * Application Life Cycle Management
     * SDLC
     * Portfolio
     * CI/CD Pipelines
@@ -30,7 +30,7 @@
   * Real Property
   * Enterprise Architecture
 * Review Assessment Questionnaire Template
-  * Questions and strucutre
+  * Questions and structure
     * Question around use of the OSS on Cloud?
       * Approved or not
         * Levels of classification
