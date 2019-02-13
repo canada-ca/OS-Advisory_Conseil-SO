@@ -1,3 +1,5 @@
+[Français](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/fr/Groupe_de_travail_Personnes/Principes.md#principes)
+
 # Principles
 
 * Inclusiveness, diversity

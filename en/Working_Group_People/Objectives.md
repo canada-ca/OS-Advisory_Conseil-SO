@@ -1,3 +1,5 @@
+[Français](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/fr/Groupe_de_travail_Personnes/Objectives.md#objectives)
+
 # Objectives
 
 Our goals will be to addressing challenges or opportunities related to engaging people and partnerships in open source, including, but not limited to:

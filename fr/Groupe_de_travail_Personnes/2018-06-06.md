@@ -1,3 +1,5 @@
+[English](https://github.com/canada-ca/OS-Advisory_Conseil-SO/blob/master/en/Working_Group_People/2018-06-06.md#people-working-group-meeting)
+
 # Réunion du Groupe de travail sur les personnes
 ## Le 6 juin 2018
 
