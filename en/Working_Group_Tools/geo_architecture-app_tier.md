@@ -2,9 +2,12 @@
 
 Geospatial data publication and analysis services.
 
-## Possible Technologies
+## Recommended Technologies
 
-* [GeoServer](http://geoserver.org/)
+* [GeoServer](http://geoserver.org/) - [Assessment](../../Assessments/Content Management Systems/Geoserver.md)
+
+## Alternative Technologies
+
 * [MapServer](https://mapserver.org/)
 * [Nominatim](https://github.com/openstreetmap/Nominatim)
 * [Pelias](https://pelias.io/)
