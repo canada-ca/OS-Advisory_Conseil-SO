@@ -2,23 +2,26 @@
 
 Geospatial data consumption and desktop based production and analysis. Both web and desktop clients are candidates for analysis. Web clients are for use by both internal and external clients. Desktop clients will be used by departmental GIS professionals for advanced analysis and data production/maintenance operations.
 
-## Possible Technologies
+## Recommended Technologies
 
-* [Leaflet](https://leafletjs.com/)
+* [GeoNetwork Open Source](https://www.geonetwork-opensource.org/)
+  * [FGP Internal GeoNetwork](https://gccode.ssc-spc.gc.ca/federal-geospatial-platform/fgp-geonetwork)
+* [GeoNode](http://geonode.org/)
 * [OpenLayers](http://openlayers.org/)
 * [QGIS](https://qgis.org/en/site/)
-* [GeoNode](http://geonode.org/)
 * [GDAL](https://www.gdal.org/)
   * [R Bindings](https://cran.r-project.org/web/packages/rgdal/index.html)
   * [Python Bindings](https://pypi.org/project/GDAL/)
 * [proj4](https://proj4.org/)
+
+## Alternative Technologies
+
+* [Leaflet](https://leafletjs.com/)
 * [Spatial R Libraries](https://cran.r-project.org/web/views/Spatial.html)
   * [sp](https://cran.r-project.org/web/packages/sp/index.html)
   * [spatstat](http://spatstat.org/)
   * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html)
   * [deldir](https://flowingdata.com/2016/04/12/voronoi-diagram-and-delaunay-triangulation-in-r/)
-* [GeoNetwork Open Source](https://www.geonetwork-opensource.org/)
-  * [FGP Internal GeoNetwork](https://gccode.ssc-spc.gc.ca/federal-geospatial-platform/fgp-geonetwork)
 
 ## Business / Organization Requirements
 
