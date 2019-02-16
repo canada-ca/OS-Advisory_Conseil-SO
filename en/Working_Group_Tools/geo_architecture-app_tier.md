@@ -4,7 +4,7 @@ Geospatial data publication and analysis services.
 
 ## Recommended Technologies
 
-* [GeoServer](http://geoserver.org/) - [Assessment](../../Assessments/Content Management Systems/Geoserver.md)
+* [GeoServer](http://geoserver.org/) - [Assessment](../../Assessments/Content%20Management%20Systems/Geoserver.md)
 
 ## Alternative Technologies
 
