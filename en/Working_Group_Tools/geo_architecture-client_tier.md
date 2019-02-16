@@ -4,9 +4,9 @@ Geospatial data consumption and desktop based production and analysis. Both web 
 
 ## Recommended Technologies
 
-* [GeoNetwork Open Source](https://www.geonetwork-opensource.org/)
+* [GeoNetwork Open Source](https://www.geonetwork-opensource.org/) - [Assessment](../../Assessments/Data%20Catalogue/GeoNetwork.md)
   * [FGP Internal GeoNetwork](https://gccode.ssc-spc.gc.ca/federal-geospatial-platform/fgp-geonetwork)
-* [GeoNode](http://geonode.org/)
+* [GeoNode](http://geonode.org/) - [Assessment](../../Assessments/Content%20Management%20Systems/GeoNode.md)
 * [OpenLayers](http://openlayers.org/)
 * [QGIS](https://qgis.org/en/site/)
 * [GDAL](https://www.gdal.org/)
