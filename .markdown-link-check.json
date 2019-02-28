@@ -41,6 +41,9 @@
     },
     {
       "pattern": "https://gccode.ssc-spc.gc.ca/"
+    },
+    {
+      "pattern": "https://groups.drupal.org"
     }
   ]
 }
