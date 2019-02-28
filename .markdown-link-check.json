@@ -37,10 +37,13 @@
       "pattern": "https://ouvert.canada.ca/"
     },
     {
-      "pattern": "https://www.drupal.org/project/wxt"
+      "pattern": "https://www.drupal.org/"
     },
     {
       "pattern": "https://gccode.ssc-spc.gc.ca/"
+    },
+    {
+      "pattern": "https://groups.drupal.org"
     }
   ]
 }
