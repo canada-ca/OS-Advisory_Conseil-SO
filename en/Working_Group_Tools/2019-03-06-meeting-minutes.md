@@ -9,8 +9,7 @@
 * Nick Schonning
 * Reg Maltais - Statistics Canada
 * Noureen Syed - Microsoft
-* Chris Jaja
-* Joel - OpenPlus
+* Chris Jaja - Treasury Board Secretariat Canada
 
 ## Agenda
 
