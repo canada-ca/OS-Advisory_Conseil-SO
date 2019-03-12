@@ -5,7 +5,7 @@
 * Guillaume Charest - Treasury Board Secretariat Canada
 * Andrew Sinkinson - Statistics Canada
 * Chris Jaja - Treasury Board Secretariat Canada
-* Stacey Williams - Treasury Board Secretaria
+* Stacey Williams - Treasury Board Secretariat
 * Jim Cowie - ESDC
 * Mike Nguyen- GitHub
 * Nick Schonning
@@ -23,16 +23,16 @@
 ## Notes
 
 * For the review of technology stacks or reference architecture:
-  * Not everyone has the right background / experience to review assessments
+  * Not everyone has the right background / experience to review assessments for each technology
   * Might need to extend assessment to other groups in the GC or in the private sector that have previous experience on these.
 * Specifically around **Drupal 8 WXT distribution**:
   * Barry Kong: might be able to provide contacts like Ross Thompson
-  * Marc: Oproma's team has experience with web content migrations, will have a look
+  * Marc: Oproma team has experience with web content migrations, will have a look
 * Ex: PCO presentation switch from proprietary DB to PostgreSQL
   * GC or private sector to provide experience.
   * Leverage other communities:
     * OSS on GCconnex, GCcollab
-    * Enteprise architecture groups.
+    * Enterprise architecture groups.
 * For the web-based IM project: need is more generic and doesn't require expertise in IM specifically
   * Mention of Jabber: what's the status of the protocol vs product?
   * Mention of Zulip: https://zulipchat.com/
@@ -45,20 +45,20 @@
   * Client Relations Management:
     * Reference architecture and technical review
     * Cloud-based
-    * On-prem
+    * On-premise
   * Business Process Management:
     * Reference architecture and technical review
     * Cloud-based
-    * On-prem
+    * On-premise
   * Search:
-    * Elastic Search, Solr
+    * Elasticsearch, Solr
     * Marc: team has a lot of experience in the domain, both OSS/COTS
-  * VCS vs Application lifecycle management:
+  * VCS vs Application life cycle management:
   * IDE, Code scanning for security and compliance, CI/CD tools
 * Roundtable:
   * Jim: Artifactory X-ray does security and compliance scanning
   * Nick: Java support vs OpenJDK - who is dealing with this change in direction: OSAB may need to provide a recommendation forward.
-  * Reg: Data Visualization, GC EARB recommendaton for an IDE
+  * Reg: Data Visualization, GC EARB recommendation for an IDE
   * Adam:  
 
 ## Next Steps
