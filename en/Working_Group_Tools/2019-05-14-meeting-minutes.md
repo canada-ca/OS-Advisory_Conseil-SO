@@ -33,7 +33,7 @@
       * If questions, we can contact Reg directly.
     * Discussions on GIS working group regarding platforms (some of them would be FOSS)
   * Jim:
-    * Procurement questions: We're selecting something, using it, creating a dependancy but then we would like to use some advanced functionalities or services and get stuck with the procurement process and rules.
+    * Procurement questions: We're selecting something, using it, creating a dependency but then we would like to use some advanced functionalities or services and get stuck with the procurement process and rules.
       * What is the process to get those subscriptions or advanced features.
       * Could there be a preferred list of products?
 * Drupal PaaS in the works (Update)

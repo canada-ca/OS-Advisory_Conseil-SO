@@ -21,7 +21,7 @@
     * DevOps in the GC: First event will occur next week
     * Series of events will be held around the year
     * Blanket Authorization for contribution on 3rd party OSS projects
-      * Resistence so will look at MOUs with interested employees for specific projects of interest
+      * Resistance so will look at MOU with interested employees for specific projects of interest
       * Need to understand who contributes to what so that we can properly authorize the assignation of IP.
     * Implementing a series of OSS approach and framework on internal sites for ESDC to get started.
     * Licence compliance internally: creation of a program office might be the way to go at ESDC. OSPO would be a subset of the Software Program Office. 
