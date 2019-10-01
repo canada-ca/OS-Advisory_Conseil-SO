@@ -44,6 +44,9 @@
     },
     {
       "pattern": "https://groups.drupal.org"
+    },
+    {
+      "pattern": "https://aka.ms/DocathonWiki"
     }
   ]
 }
