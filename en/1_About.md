@@ -243,7 +243,7 @@ Participants
 * Sani Chabi YO, MongoDB
 * Stacey Williams, Treasury Board Secretariat
 * Stephane Paulin-Godbout, Department of National Defence 
-* Stuart Spence, Environmwnr and Climate Change Canada 
+* Stuart Spence, Environment and Climate Change Canada 
 * William Chow, MongoDB
 
 
