@@ -120,7 +120,7 @@ GC Members:
 * Marc Pageau, Oproma
 * Dave Buchanan, Breqwatr
 * Dr. Andrew Pelling, University of Ottawa
-* David Nevins, Redhat
+* David Nevins, Red Hat
 * Mike Gifford, OpenConcept
 * Harsh Sabikhi, GitHub
 * Noureen Syed, Microsoft Open Source Lead
@@ -236,7 +236,7 @@ Participants
 * Caroline Bassett, Shared Services Canada 
 * Guillaume Charest, Treasury Board Secretariat 
 * Jim Cowie, Employment and Social Development Canada
-* Mike Cardy, Redhat
+* Mike Cardy, Red Hat
 * Mike Gifford, OpenConcept 
 * Paul Bellows, Yellow Pencil
 * Ross Thompson, Treasury Board Secretariat
