@@ -21,7 +21,7 @@
   "homepage": "https://github.com/canada-ca/OS-Advisory_Conseil-SO#readme",
   "devDependencies": {
     "chalk": "^2.4.2",
-    "cspell": "^3.2.1",
+    "cspell": "^4.0.55",
     "glob": "^7.1.3",
     "markdown-link-check": "^3.7.2",
     "markdownlint-cli": "^0.18.0"
