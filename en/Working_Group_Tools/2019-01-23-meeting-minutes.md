@@ -59,7 +59,7 @@
   * Joel:
     * Can support in the presentations
     * Procurement: typically departments don't necessarily have the staff with experience to do it but you can use procurement vehicles
-* Cloud Native Architecure:
+* Cloud Native Architecture:
   * Adam:
     * Cloud Native Computing Foundation work being done at Statistics Canada
     * Will Hearn has been working on containerizing and moving to Cloud a lot of applications (OSS and proprietary)
